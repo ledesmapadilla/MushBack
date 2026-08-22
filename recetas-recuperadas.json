@@ -1,0 +1,165 @@
+[
+  {
+    "id": "clasico-semiamargo",
+    "slug": "clasico-semiamargo",
+    "nombre": "Clasico Semiamargo",
+    "categoria": "Alfajor",
+    "rinde": 60,
+    "observaciones": "",
+    "ingredientes": [
+      {
+        "id": "ing_rec_1787269332130_9fs",
+        "ingredienteId": "manteca_hcm6",
+        "nombre": "Manteca",
+        "unidad": "gr",
+        "cantidad": 900,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787269360557_4g3",
+        "ingredienteId": "huevo",
+        "nombre": "Huevos",
+        "unidad": "gr",
+        "cantidad": 450,
+        "observaciones": "9 huevos"
+      },
+      {
+        "id": "ing_rec_1787269379553_8d3",
+        "ingredienteId": "azucar_35rf",
+        "nombre": "Azúcar",
+        "unidad": "gr",
+        "cantidad": 270,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787269424162_kmr",
+        "ingredienteId": "vainillin_xdey",
+        "nombre": "Vainillín",
+        "unidad": "gr",
+        "cantidad": 15,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787269444588_2p4",
+        "ingredienteId": "miel_ilhg",
+        "nombre": "Miel",
+        "unidad": "gr",
+        "cantidad": 15,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787269464716_p8i",
+        "ingredienteId": "harina_csz5",
+        "nombre": "Harina",
+        "unidad": "gr",
+        "cantidad": 15,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787269491657_30q",
+        "ingredienteId": "fecula_qozl",
+        "nombre": "Fécula",
+        "unidad": "gr",
+        "cantidad": 15,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787269514462_jg4",
+        "ingredienteId": "cacao_vvrg",
+        "nombre": "Cacao",
+        "unidad": "gr",
+        "cantidad": 315,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787269537341_hj9",
+        "ingredienteId": "bicarbonato_e03b",
+        "nombre": "Bicarbonato",
+        "unidad": "gr",
+        "cantidad": 17,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787269583214_q15",
+        "ingredienteId": "polvo_de_hornear_hnt0",
+        "nombre": "Polvo de hornear",
+        "unidad": "gr",
+        "cantidad": 27,
+        "observaciones": ""
+      }
+    ],
+    "actualizadoEn": "2026-08-20T23:46:23.227Z"
+  },
+  {
+    "id": "clasico-blanco",
+    "slug": "clasico-blanco",
+    "nombre": "Clasico Blanco",
+    "categoria": "Alfajor",
+    "rinde": 60,
+    "observaciones": "",
+    "ingredientes": []
+  },
+  {
+    "id": "maicena",
+    "slug": "maicena",
+    "nombre": "Maicena",
+    "categoria": "Alfajor",
+    "rinde": 60,
+    "observaciones": "",
+    "ingredientes": []
+  },
+  {
+    "id": "alfajor-de-nuez",
+    "slug": "alfajor-de-nuez",
+    "nombre": "Alfajor De Nuez",
+    "categoria": "Alfajor",
+    "rinde": 60,
+    "observaciones": "",
+    "ingredientes": []
+  },
+  {
+    "id": "alfajor-de-pistacho",
+    "slug": "alfajor-de-pistacho",
+    "nombre": "Alfajor De Pistacho",
+    "categoria": "Alfajor",
+    "rinde": 60,
+    "observaciones": "",
+    "ingredientes": []
+  },
+  {
+    "id": "mini-semi",
+    "slug": "mini-semi",
+    "nombre": "Mini Semi",
+    "categoria": "Alfajor",
+    "rinde": 60,
+    "observaciones": "",
+    "ingredientes": []
+  },
+  {
+    "id": "mini-blanco",
+    "slug": "mini-blanco",
+    "nombre": "Mini Blanco",
+    "categoria": "Alfajor",
+    "rinde": 60,
+    "observaciones": "",
+    "ingredientes": []
+  },
+  {
+    "id": "mendiant",
+    "slug": "mendiant",
+    "nombre": "Mendiant",
+    "categoria": "Alfajor",
+    "rinde": 60,
+    "observaciones": "",
+    "ingredientes": []
+  },
+  {
+    "id": "tabletas-chocolate",
+    "slug": "tabletas-chocolate",
+    "nombre": "Tabletas Chocolate",
+    "categoria": "Alfajor",
+    "rinde": 60,
+    "observaciones": "",
+    "ingredientes": []
+  }
+]

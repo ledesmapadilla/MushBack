@@ -1,0 +1,131 @@
+[
+  {
+    "id": "pack_papel_aluminio_6ksn",
+    "nombre": "Papel aluminio",
+    "unidad": "un",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T22:46:49.510Z",
+    "precio": 108,
+    "fechaPrecio": "2026-08-21",
+    "observacionesPrecio": "$108.000 las 1000 unidades",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-21",
+        "precio": 108,
+        "unidad": "un",
+        "observaciones": "$108.000 las 1000 unidades",
+        "registradoEn": "2026-08-21T23:03:48.069Z"
+      },
+      {
+        "fecha": "2026-08-21",
+        "precio": 108,
+        "unidad": "un",
+        "observaciones": "",
+        "registradoEn": "2026-08-21T23:03:27.884Z"
+      }
+    ],
+    "actualizadoEn": "2026-08-21T23:03:48.072Z"
+  },
+  {
+    "id": "pack_sticker_fte_zrav",
+    "nombre": "Sticker frente",
+    "unidad": "un",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T22:47:18.170Z",
+    "actualizadoEn": "2026-08-21T23:04:47.688Z",
+    "precio": 37,
+    "fechaPrecio": "2026-08-21",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-21",
+        "precio": 37,
+        "unidad": "un",
+        "observaciones": "",
+        "registradoEn": "2026-08-21T23:04:47.666Z"
+      }
+    ]
+  },
+  {
+    "id": "pack_sticker_dorso_s8fn",
+    "nombre": "Sticker Dorso",
+    "unidad": "un",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T22:47:47.366Z",
+    "precio": 18,
+    "fechaPrecio": "2026-08-21",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-21",
+        "precio": 18,
+        "unidad": "un",
+        "observaciones": "",
+        "registradoEn": "2026-08-21T23:04:32.766Z"
+      }
+    ],
+    "actualizadoEn": "2026-08-21T23:04:32.787Z"
+  },
+  {
+    "id": "pack_precinto_8ib7",
+    "nombre": "Precinto",
+    "unidad": "un",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T22:49:41.842Z",
+    "precio": 14,
+    "fechaPrecio": "2026-08-21",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-21",
+        "precio": 14,
+        "unidad": "un",
+        "observaciones": "",
+        "registradoEn": "2026-08-21T23:04:17.150Z"
+      }
+    ],
+    "actualizadoEn": "2026-08-21T23:04:17.151Z"
+  },
+  {
+    "id": "pack_caja_mini_uv3g",
+    "nombre": "Caja de carton por 12 mini",
+    "unidad": "un",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T22:50:40.221Z",
+    "actualizadoEn": "2026-08-20T22:51:15.365Z"
+  },
+  {
+    "id": "pack_caja_de_carton_por_6_6naz",
+    "nombre": "Caja de carton por 6 clasico",
+    "unidad": "un",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T22:51:31.385Z"
+  },
+  {
+    "id": "pack_caja_de_carton_por_1_ac5z",
+    "nombre": "Caja de carton por 12 clasico",
+    "unidad": "un",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T22:51:46.705Z"
+  },
+  {
+    "id": "pack_papel_foil_2k5k",
+    "nombre": "Papel Foil",
+    "unidad": "un",
+    "observaciones": "Por 1000 unidades",
+    "precio": 5,
+    "fechaPrecio": "2026-08-22",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-22",
+        "precio": 5,
+        "unidad": "un",
+        "observaciones": "",
+        "registradoEn": "2026-08-22T00:05:25.106Z"
+      }
+    ],
+    "creadoEn": "2026-08-22T00:04:07.933Z",
+    "actualizadoEn": "2026-08-22T00:05:25.113Z"
+  }
+]

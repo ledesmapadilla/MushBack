@@ -1,0 +1,987 @@
+[
+  {
+    "id": "clasico-semiamargo",
+    "slug": "clasico-semiamargo",
+    "nombre": "Clasico Semiamargo",
+    "categoria": "Alfajor",
+    "rinde": 126,
+    "observaciones": "",
+    "ingredientes": [
+      {
+        "id": "ing_rec_1787269332130_9fs",
+        "ingredienteId": "manteca_hcm6",
+        "nombre": "Manteca",
+        "unidad": "gr",
+        "cantidad": 900,
+        "observaciones": "",
+        "seccion": "masa"
+      },
+      {
+        "id": "ing_rec_1787269360557_4g3",
+        "ingredienteId": "huevo",
+        "nombre": "Huevos",
+        "unidad": "gr",
+        "cantidad": 450,
+        "observaciones": "9 huevos",
+        "seccion": "masa"
+      },
+      {
+        "id": "ing_rec_1787269379553_8d3",
+        "ingredienteId": "azucar_35rf",
+        "nombre": "Azúcar",
+        "unidad": "gr",
+        "cantidad": 270,
+        "observaciones": "",
+        "seccion": "masa"
+      },
+      {
+        "id": "ing_rec_1787269424162_kmr",
+        "ingredienteId": "vainillin_xdey",
+        "nombre": "Vainillín",
+        "unidad": "gr",
+        "cantidad": 15,
+        "observaciones": "",
+        "seccion": "masa"
+      },
+      {
+        "id": "ing_rec_1787269444588_2p4",
+        "ingredienteId": "miel_ilhg",
+        "nombre": "Miel",
+        "unidad": "gr",
+        "cantidad": 15,
+        "observaciones": "",
+        "seccion": "masa"
+      },
+      {
+        "id": "ing_rec_1787269464716_p8i",
+        "ingredienteId": "harina_csz5",
+        "nombre": "Harina",
+        "unidad": "gr",
+        "cantidad": 15,
+        "observaciones": "",
+        "seccion": "masa"
+      },
+      {
+        "id": "ing_rec_1787269491657_30q",
+        "ingredienteId": "fecula_qozl",
+        "nombre": "Fécula",
+        "unidad": "gr",
+        "cantidad": 15,
+        "observaciones": "",
+        "seccion": "masa"
+      },
+      {
+        "id": "ing_rec_1787269514462_jg4",
+        "ingredienteId": "cacao_vvrg",
+        "nombre": "Cacao",
+        "unidad": "gr",
+        "cantidad": 315,
+        "observaciones": "",
+        "seccion": "masa"
+      },
+      {
+        "id": "ing_rec_1787269537341_hj9",
+        "ingredienteId": "bicarbonato_e03b",
+        "nombre": "Bicarbonato",
+        "unidad": "gr",
+        "cantidad": 17,
+        "observaciones": "",
+        "seccion": "masa"
+      },
+      {
+        "id": "ing_rec_1787269583214_q15",
+        "ingredienteId": "polvo_de_hornear_hnt0",
+        "nombre": "Polvo de hornear",
+        "unidad": "gr",
+        "cantidad": 27,
+        "observaciones": "",
+        "seccion": "masa"
+      },
+      {
+        "id": "item_1787272157994_toe",
+        "seccion": "unitario",
+        "ingredienteId": "dulce_de_leche_zxfm",
+        "nombre": "Dulce de leche",
+        "unidad": "gr",
+        "cantidad": 33,
+        "observaciones": ""
+      },
+      {
+        "id": "item_1787272183208_f7b",
+        "seccion": "unitario",
+        "ingredienteId": "chocolate_semiamargo_tsgr",
+        "nombre": "Chocolate SemiAmargo",
+        "unidad": "gr",
+        "cantidad": 12,
+        "observaciones": ""
+      },
+      {
+        "id": "item_1787272932407_pez",
+        "seccion": "packaging",
+        "ingredienteId": "pack_papel_aluminio_6ksn",
+        "nombre": "Papel aluminio",
+        "unidad": "un",
+        "cantidad": 1,
+        "observaciones": ""
+      },
+      {
+        "id": "item_1787272952575_28x",
+        "seccion": "packaging",
+        "ingredienteId": "pack_precinto_8ib7",
+        "nombre": "Precinto",
+        "unidad": "un",
+        "cantidad": 1,
+        "observaciones": ""
+      },
+      {
+        "id": "item_1787272962127_9sm",
+        "seccion": "packaging",
+        "ingredienteId": "pack_sticker_fte_zrav",
+        "nombre": "Sticker frente",
+        "unidad": "un",
+        "cantidad": 1,
+        "observaciones": ""
+      },
+      {
+        "id": "item_1787272979091_2xn",
+        "seccion": "packaging",
+        "ingredienteId": "pack_sticker_dorso_s8fn",
+        "nombre": "Sticker Dorso",
+        "unidad": "un",
+        "cantidad": 1,
+        "observaciones": ""
+      }
+    ],
+    "actualizadoEn": "2026-08-21T21:12:14.789Z",
+    "manoDeObra": {
+      "fecha": "2026-08-20",
+      "personalId": "per_maria_bmgt",
+      "mensual": 700000,
+      "alfajoresProducidos": 3200,
+      "observaciones": "Temporada baja"
+    }
+  },
+  {
+    "id": "clasico-blanco",
+    "slug": "clasico-blanco",
+    "nombre": "Clasico Blanco",
+    "categoria": "Alfajor",
+    "rinde": 126,
+    "observaciones": "",
+    "ingredientes": [
+      {
+        "id": "ing_rec_1787354464139_4se",
+        "ingredienteId": "manteca_hcm6",
+        "nombre": "Manteca",
+        "unidad": "gr",
+        "cantidad": 900,
+        "observaciones": "",
+        "seccion": "masa"
+      },
+      {
+        "id": "ing_rec_1787354464140_yqo",
+        "ingredienteId": "huevo",
+        "nombre": "Huevos",
+        "unidad": "gr",
+        "cantidad": 450,
+        "observaciones": "9 huevos",
+        "seccion": "masa"
+      },
+      {
+        "id": "ing_rec_1787354464141_ljf",
+        "ingredienteId": "azucar_35rf",
+        "nombre": "Azúcar",
+        "unidad": "gr",
+        "cantidad": 270,
+        "observaciones": "",
+        "seccion": "masa"
+      },
+      {
+        "id": "ing_rec_1787354464142_j5g",
+        "ingredienteId": "vainillin_xdey",
+        "nombre": "Vainillín",
+        "unidad": "gr",
+        "cantidad": 15,
+        "observaciones": "",
+        "seccion": "masa"
+      },
+      {
+        "id": "ing_rec_1787354464143_z7m",
+        "ingredienteId": "miel_ilhg",
+        "nombre": "Miel",
+        "unidad": "gr",
+        "cantidad": 15,
+        "observaciones": "",
+        "seccion": "masa"
+      },
+      {
+        "id": "ing_rec_1787354464144_ay3",
+        "ingredienteId": "harina_csz5",
+        "nombre": "Harina",
+        "unidad": "gr",
+        "cantidad": 15,
+        "observaciones": "",
+        "seccion": "masa"
+      },
+      {
+        "id": "ing_rec_1787354464145_jda",
+        "ingredienteId": "fecula_qozl",
+        "nombre": "Fécula",
+        "unidad": "gr",
+        "cantidad": 15,
+        "observaciones": "",
+        "seccion": "masa"
+      },
+      {
+        "id": "ing_rec_1787354464146_d48",
+        "ingredienteId": "cacao_vvrg",
+        "nombre": "Cacao",
+        "unidad": "gr",
+        "cantidad": 315,
+        "observaciones": "",
+        "seccion": "masa"
+      },
+      {
+        "id": "ing_rec_1787354464147_mar",
+        "ingredienteId": "bicarbonato_e03b",
+        "nombre": "Bicarbonato",
+        "unidad": "gr",
+        "cantidad": 17,
+        "observaciones": "",
+        "seccion": "masa"
+      },
+      {
+        "id": "ing_rec_1787354464148_mjl",
+        "ingredienteId": "polvo_de_hornear_hnt0",
+        "nombre": "Polvo de hornear",
+        "unidad": "gr",
+        "cantidad": 27,
+        "observaciones": "",
+        "seccion": "masa"
+      },
+      {
+        "id": "ing_rec_1787354464149_r0l",
+        "seccion": "unitario",
+        "ingredienteId": "dulce_de_leche_zxfm",
+        "nombre": "Dulce de leche",
+        "unidad": "gr",
+        "cantidad": 33,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787354464151_njn",
+        "seccion": "packaging",
+        "ingredienteId": "pack_papel_aluminio_6ksn",
+        "nombre": "Papel aluminio",
+        "unidad": "un",
+        "cantidad": 1,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787354464152_x3p",
+        "seccion": "packaging",
+        "ingredienteId": "pack_precinto_8ib7",
+        "nombre": "Precinto",
+        "unidad": "un",
+        "cantidad": 1,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787354464153_eiq",
+        "seccion": "packaging",
+        "ingredienteId": "pack_sticker_fte_zrav",
+        "nombre": "Sticker frente",
+        "unidad": "un",
+        "cantidad": 1,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787354464154_87w",
+        "seccion": "packaging",
+        "ingredienteId": "pack_sticker_dorso_s8fn",
+        "nombre": "Sticker Dorso",
+        "unidad": "un",
+        "cantidad": 1,
+        "observaciones": ""
+      },
+      {
+        "id": "item_1787354578556_1zm",
+        "seccion": "unitario",
+        "ingredienteId": "chocolate_blanco_fybs",
+        "nombre": "Chocolate blanco",
+        "unidad": "gr",
+        "cantidad": 18,
+        "observaciones": ""
+      }
+    ],
+    "manoDeObra": {
+      "fecha": "2026-08-20",
+      "personalId": "per_maria_bmgt",
+      "mensual": 700000,
+      "alfajoresProducidos": 3200,
+      "observaciones": "Temporada baja"
+    },
+    "actualizadoEn": "2026-08-21T23:22:58.645Z"
+  },
+  {
+    "id": "maicena",
+    "slug": "maicena",
+    "nombre": "Maicena",
+    "categoria": "Alfajor",
+    "rinde": 108,
+    "observaciones": "",
+    "ingredientes": [
+      {
+        "id": "ing_rec_1787354762131_e9r",
+        "seccion": "masa",
+        "ingredienteId": "manteca_hcm6",
+        "nombre": "Manteca",
+        "unidad": "gr",
+        "cantidad": 1000,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787354762132_x2a",
+        "seccion": "masa",
+        "ingredienteId": "huevo",
+        "nombre": "Huevos",
+        "unidad": "gr",
+        "cantidad": 750,
+        "observaciones": "15 huevos"
+      },
+      {
+        "id": "ing_rec_1787354762133_2lt",
+        "seccion": "masa",
+        "ingredienteId": "azucar_35rf",
+        "nombre": "Azúcar",
+        "unidad": "gr",
+        "cantidad": 750,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787354762134_pim",
+        "ingredienteId": "vainillin_xdey",
+        "nombre": "Vainillín",
+        "unidad": "gr",
+        "cantidad": 0,
+        "observaciones": "",
+        "seccion": "masa"
+      },
+      {
+        "id": "ing_rec_1787354762135_yqi",
+        "seccion": "masa",
+        "ingredienteId": "miel_ilhg",
+        "nombre": "Miel",
+        "unidad": "gr",
+        "cantidad": 60,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787354762136_87p",
+        "seccion": "masa",
+        "ingredienteId": "harina_csz5",
+        "nombre": "Harina",
+        "unidad": "gr",
+        "cantidad": 750,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787354762137_shv",
+        "seccion": "masa",
+        "ingredienteId": "fecula_qozl",
+        "nombre": "Fécula",
+        "unidad": "gr",
+        "cantidad": 1500,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787354762138_xb8",
+        "ingredienteId": "cacao_vvrg",
+        "nombre": "Cacao",
+        "unidad": "gr",
+        "cantidad": 0,
+        "observaciones": "",
+        "seccion": "masa"
+      },
+      {
+        "id": "ing_rec_1787354762139_dh5",
+        "seccion": "masa",
+        "ingredienteId": "bicarbonato_e03b",
+        "nombre": "Bicarbonato",
+        "unidad": "gr",
+        "cantidad": 15,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787354762140_ytt",
+        "seccion": "masa",
+        "ingredienteId": "polvo_de_hornear_hnt0",
+        "nombre": "Polvo de hornear",
+        "unidad": "gr",
+        "cantidad": 50,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787354762141_gi9",
+        "seccion": "unitario",
+        "ingredienteId": "dulce_de_leche_zxfm",
+        "nombre": "Dulce de leche",
+        "unidad": "gr",
+        "cantidad": 35,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787354762144_5a0",
+        "seccion": "packaging",
+        "ingredienteId": "pack_precinto_8ib7",
+        "nombre": "Precinto",
+        "unidad": "un",
+        "cantidad": 1,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787354762145_r0y",
+        "seccion": "packaging",
+        "ingredienteId": "pack_sticker_fte_zrav",
+        "nombre": "Sticker frente",
+        "unidad": "un",
+        "cantidad": 1,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787354762146_r55",
+        "seccion": "packaging",
+        "ingredienteId": "pack_sticker_dorso_s8fn",
+        "nombre": "Sticker Dorso",
+        "unidad": "un",
+        "cantidad": 1,
+        "observaciones": ""
+      },
+      {
+        "id": "item_1787355275682_6es",
+        "seccion": "masa",
+        "ingredienteId": "limon_7657",
+        "nombre": "Limón",
+        "unidad": "un",
+        "cantidad": 3,
+        "observaciones": ""
+      },
+      {
+        "id": "item_1787356996089_plq",
+        "seccion": "unitario",
+        "ingredienteId": "coco_rallado_woxn",
+        "nombre": "Coco Rallado",
+        "unidad": "gr",
+        "cantidad": 6,
+        "observaciones": ""
+      },
+      {
+        "id": "item_1787357167250_l6t",
+        "seccion": "packaging",
+        "ingredienteId": "pack_papel_foil_2k5k",
+        "nombre": "Papel Foil",
+        "unidad": "un",
+        "cantidad": 1,
+        "observaciones": ""
+      }
+    ],
+    "manoDeObra": {
+      "fecha": "2026-08-20",
+      "personalId": "per_maria_bmgt",
+      "mensual": 700000,
+      "alfajoresProducidos": 3200,
+      "observaciones": "Temporada baja"
+    },
+    "actualizadoEn": "2026-08-22T00:06:53.757Z"
+  },
+  {
+    "id": "alfajor-de-nuez",
+    "slug": "alfajor-de-nuez",
+    "nombre": "Alfajor De Nuez",
+    "categoria": "Alfajor",
+    "rinde": 42,
+    "observaciones": "",
+    "ingredientes": [
+      {
+        "id": "ing_rec_1787357507322_sfq",
+        "seccion": "masa",
+        "ingredienteId": "manteca_hcm6",
+        "nombre": "Manteca",
+        "unidad": "gr",
+        "cantidad": 250,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787357507323_n04",
+        "seccion": "masa",
+        "ingredienteId": "huevo",
+        "nombre": "Huevos",
+        "unidad": "gr",
+        "cantidad": 100,
+        "observaciones": "2 huevos"
+      },
+      {
+        "id": "ing_rec_1787357507324_2mz",
+        "seccion": "masa",
+        "ingredienteId": "azucar_35rf",
+        "nombre": "Azúcar",
+        "unidad": "gr",
+        "cantidad": 200,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787357507325_cat",
+        "seccion": "masa",
+        "ingredienteId": "vainillin_xdey",
+        "nombre": "Vainillín",
+        "unidad": "gr",
+        "cantidad": 10,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787357507326_p3g",
+        "ingredienteId": "miel_ilhg",
+        "nombre": "Miel",
+        "unidad": "gr",
+        "cantidad": 0,
+        "observaciones": "",
+        "seccion": "masa"
+      },
+      {
+        "id": "ing_rec_1787357507327_qf1",
+        "seccion": "masa",
+        "ingredienteId": "harina_csz5",
+        "nombre": "Harina",
+        "unidad": "gr",
+        "cantidad": 400,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787357507328_uhr",
+        "seccion": "masa",
+        "ingredienteId": "fecula_qozl",
+        "nombre": "Fécula",
+        "unidad": "gr",
+        "cantidad": 120,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787357507329_0ta",
+        "ingredienteId": "cacao_vvrg",
+        "nombre": "Cacao",
+        "unidad": "gr",
+        "cantidad": 0,
+        "observaciones": "",
+        "seccion": "masa"
+      },
+      {
+        "id": "ing_rec_1787357507330_2gn",
+        "ingredienteId": "bicarbonato_e03b",
+        "nombre": "Bicarbonato",
+        "unidad": "gr",
+        "cantidad": 0,
+        "observaciones": "",
+        "seccion": "masa"
+      },
+      {
+        "id": "ing_rec_1787357507331_s4w",
+        "seccion": "masa",
+        "ingredienteId": "polvo_de_hornear_hnt0",
+        "nombre": "Polvo de hornear",
+        "unidad": "gr",
+        "cantidad": 16,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787357507332_0mn",
+        "seccion": "unitario",
+        "ingredienteId": "dulce_de_leche_zxfm",
+        "nombre": "Dulce de leche",
+        "unidad": "gr",
+        "cantidad": 21,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787357507333_qxi",
+        "seccion": "packaging",
+        "ingredienteId": "pack_papel_aluminio_6ksn",
+        "nombre": "Papel aluminio",
+        "unidad": "un",
+        "cantidad": 1,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787357507334_saa",
+        "seccion": "packaging",
+        "ingredienteId": "pack_precinto_8ib7",
+        "nombre": "Precinto",
+        "unidad": "un",
+        "cantidad": 1,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787357507335_78b",
+        "seccion": "packaging",
+        "ingredienteId": "pack_sticker_fte_zrav",
+        "nombre": "Sticker frente",
+        "unidad": "un",
+        "cantidad": 1,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787357507336_4d7",
+        "seccion": "packaging",
+        "ingredienteId": "pack_sticker_dorso_s8fn",
+        "nombre": "Sticker Dorso",
+        "unidad": "un",
+        "cantidad": 1,
+        "observaciones": ""
+      },
+      {
+        "id": "item_1787357701394_svc",
+        "seccion": "masa",
+        "ingredienteId": "dulce_de_leche_zxfm",
+        "nombre": "Dulce de leche",
+        "unidad": "gr",
+        "cantidad": 100,
+        "observaciones": ""
+      },
+      {
+        "id": "item_1787357796302_122",
+        "seccion": "masa",
+        "ingredienteId": "nues_pecan_7vsy",
+        "nombre": "Nuez Pecan",
+        "unidad": "gr",
+        "cantidad": 250,
+        "observaciones": ""
+      },
+      {
+        "id": "item_1787357891944_e7t",
+        "seccion": "unitario",
+        "ingredienteId": "nues_pecan_7vsy",
+        "nombre": "Nuez Pecan",
+        "unidad": "gr",
+        "cantidad": 4.2,
+        "observaciones": ""
+      },
+      {
+        "id": "item_1787357908281_lky",
+        "seccion": "unitario",
+        "ingredienteId": "chocolate_blanco_fybs",
+        "nombre": "Chocolate blanco",
+        "unidad": "gr",
+        "cantidad": 18,
+        "observaciones": ""
+      }
+    ],
+    "manoDeObra": {
+      "fecha": "2026-08-20",
+      "personalId": "per_maria_bmgt",
+      "mensual": 700000,
+      "alfajoresProducidos": 3200,
+      "observaciones": "Temporada baja"
+    },
+    "actualizadoEn": "2026-08-22T00:23:33.370Z"
+  },
+  {
+    "id": "alfajor-de-pistacho",
+    "slug": "alfajor-de-pistacho",
+    "nombre": "Alfajor De Pistacho",
+    "categoria": "Alfajor",
+    "rinde": 104,
+    "observaciones": "",
+    "ingredientes": [
+      {
+        "id": "ing_rec_1787358069421_fym",
+        "seccion": "masa",
+        "ingredienteId": "manteca_hcm6",
+        "nombre": "Manteca",
+        "unidad": "gr",
+        "cantidad": 990,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787358069422_953",
+        "seccion": "masa",
+        "ingredienteId": "huevo",
+        "nombre": "Huevos",
+        "unidad": "gr",
+        "cantidad": 450,
+        "observaciones": "9 huevos"
+      },
+      {
+        "id": "ing_rec_1787358069423_4am",
+        "seccion": "masa",
+        "ingredienteId": "azucar_35rf",
+        "nombre": "Azúcar",
+        "unidad": "gr",
+        "cantidad": 270,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787358069424_uaq",
+        "seccion": "masa",
+        "ingredienteId": "vainillin_xdey",
+        "nombre": "Vainillín",
+        "unidad": "gr",
+        "cantidad": 15,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787358069425_7by",
+        "seccion": "masa",
+        "ingredienteId": "miel_ilhg",
+        "nombre": "Miel",
+        "unidad": "gr",
+        "cantidad": 30,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787358069426_t8m",
+        "seccion": "masa",
+        "ingredienteId": "harina_csz5",
+        "nombre": "Harina",
+        "unidad": "gr",
+        "cantidad": 160,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787358069427_ieq",
+        "seccion": "masa",
+        "ingredienteId": "fecula_qozl",
+        "nombre": "Fécula",
+        "unidad": "gr",
+        "cantidad": 600,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787358069428_tzm",
+        "ingredienteId": "cacao_vvrg",
+        "nombre": "Cacao",
+        "unidad": "gr",
+        "cantidad": 0,
+        "observaciones": "",
+        "seccion": "masa"
+      },
+      {
+        "id": "ing_rec_1787358069429_k2x",
+        "seccion": "masa",
+        "ingredienteId": "bicarbonato_e03b",
+        "nombre": "Bicarbonato",
+        "unidad": "gr",
+        "cantidad": 17,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787358069430_jgm",
+        "seccion": "masa",
+        "ingredienteId": "polvo_de_hornear_hnt0",
+        "nombre": "Polvo de hornear",
+        "unidad": "gr",
+        "cantidad": 27,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787358069431_u6m",
+        "seccion": "unitario",
+        "ingredienteId": "dulce_de_leche_zxfm",
+        "nombre": "Dulce de leche",
+        "unidad": "gr",
+        "cantidad": 25,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787358069432_ycl",
+        "seccion": "packaging",
+        "ingredienteId": "pack_papel_aluminio_6ksn",
+        "nombre": "Papel aluminio",
+        "unidad": "un",
+        "cantidad": 0,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787358069433_vkz",
+        "seccion": "packaging",
+        "ingredienteId": "pack_precinto_8ib7",
+        "nombre": "Precinto",
+        "unidad": "un",
+        "cantidad": 0,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787358069434_cwr",
+        "seccion": "packaging",
+        "ingredienteId": "pack_sticker_fte_zrav",
+        "nombre": "Sticker frente",
+        "unidad": "un",
+        "cantidad": 0,
+        "observaciones": ""
+      },
+      {
+        "id": "ing_rec_1787358069435_kib",
+        "seccion": "packaging",
+        "ingredienteId": "pack_sticker_dorso_s8fn",
+        "nombre": "Sticker Dorso",
+        "unidad": "un",
+        "cantidad": 0,
+        "observaciones": ""
+      },
+      {
+        "id": "item_1787359843017_6yl",
+        "seccion": "unitario",
+        "ingredienteId": "pistacho_60pf",
+        "nombre": "Pistacho",
+        "unidad": "gr",
+        "cantidad": 5.98,
+        "observaciones": "7 gr de pasta y 1,5 gr de praline"
+      },
+      {
+        "id": "item_1787359871839_2nj",
+        "seccion": "unitario",
+        "ingredienteId": "chocolate_blanco_fybs",
+        "nombre": "Chocolate blanco",
+        "unidad": "gr",
+        "cantidad": 1.14,
+        "observaciones": "7 gr de pasta"
+      },
+      {
+        "id": "item_1787359923256_k7k",
+        "seccion": "unitario",
+        "ingredienteId": "aceite_rj9f",
+        "nombre": "Aceite",
+        "unidad": "gr",
+        "cantidad": 1.42,
+        "observaciones": "7 gr de pasta"
+      },
+      {
+        "id": "item_1787359946494_5fj",
+        "seccion": "unitario",
+        "ingredienteId": "miel_ilhg",
+        "nombre": "Miel",
+        "unidad": "gr",
+        "cantidad": 0.24,
+        "observaciones": "7 gr de pasta y 1,5 gr de praline"
+      },
+      {
+        "id": "item_1787360210649_rrb",
+        "seccion": "unitario",
+        "ingredienteId": "azucar_35rf",
+        "nombre": "Azúcar",
+        "unidad": "gr",
+        "cantidad": 0.44,
+        "observaciones": "1,5 gr de praline"
+      },
+      {
+        "id": "item_1787360770187_2s7",
+        "seccion": "pasta-pistacho",
+        "ingredienteId": "pistacho_60pf",
+        "nombre": "Pistacho",
+        "unidad": "gr",
+        "cantidad": 500,
+        "observaciones": ""
+      },
+      {
+        "id": "item_1787360790081_ycj",
+        "seccion": "pasta-pistacho",
+        "ingredienteId": "chocolate_blanco_fybs",
+        "nombre": "Chocolate blanco",
+        "unidad": "gr",
+        "cantidad": 120,
+        "observaciones": ""
+      },
+      {
+        "id": "item_1787360806394_sfb",
+        "seccion": "pasta-pistacho",
+        "ingredienteId": "aceite_rj9f",
+        "nombre": "Aceite",
+        "unidad": "gr",
+        "cantidad": 150,
+        "observaciones": ""
+      },
+      {
+        "id": "item_1787360822210_4vo",
+        "seccion": "pasta-pistacho",
+        "ingredienteId": "miel_ilhg",
+        "nombre": "Miel",
+        "unidad": "gr",
+        "cantidad": 20,
+        "observaciones": ""
+      },
+      {
+        "id": "item_1787360849112_5v2",
+        "seccion": "praline-pistacho",
+        "ingredienteId": "pistacho_60pf",
+        "nombre": "Pistacho",
+        "unidad": "gr",
+        "cantidad": 200,
+        "observaciones": ""
+      },
+      {
+        "id": "item_1787360863189_v8b",
+        "seccion": "praline-pistacho",
+        "ingredienteId": "azucar_35rf",
+        "nombre": "Azúcar",
+        "unidad": "gr",
+        "cantidad": 70,
+        "observaciones": ""
+      },
+      {
+        "id": "item_1787360874151_vrd",
+        "seccion": "praline-pistacho",
+        "ingredienteId": "miel_ilhg",
+        "nombre": "Miel",
+        "unidad": "gr",
+        "cantidad": 8,
+        "observaciones": ""
+      }
+    ],
+    "manoDeObra": {
+      "fecha": "2026-08-20",
+      "personalId": "per_maria_bmgt",
+      "mensual": 700000,
+      "alfajoresProducidos": 3200,
+      "observaciones": "Temporada baja"
+    },
+    "actualizadoEn": "2026-08-22T15:27:30.555Z",
+    "gramos": {
+      "pasta-pistacho": 7,
+      "praline-pistacho": 1.5
+    }
+  },
+  {
+    "id": "mini-semi",
+    "slug": "mini-semi",
+    "nombre": "Mini Semi",
+    "categoria": "Alfajor",
+    "rinde": 60,
+    "observaciones": "",
+    "ingredientes": []
+  },
+  {
+    "id": "mini-blanco",
+    "slug": "mini-blanco",
+    "nombre": "Mini Blanco",
+    "categoria": "Alfajor",
+    "rinde": 60,
+    "observaciones": "",
+    "ingredientes": []
+  },
+  {
+    "id": "mendiant",
+    "slug": "mendiant",
+    "nombre": "Mendiant",
+    "categoria": "Alfajor",
+    "rinde": 60,
+    "observaciones": "",
+    "ingredientes": []
+  },
+  {
+    "id": "tabletas-chocolate",
+    "slug": "tabletas-chocolate",
+    "nombre": "Tabletas Chocolate",
+    "categoria": "Alfajor",
+    "rinde": 60,
+    "observaciones": "",
+    "ingredientes": []
+  }
+]

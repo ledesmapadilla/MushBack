@@ -1,0 +1,210 @@
+[
+  {
+    "id": "alf_clasico_semiamargo_apxd",
+    "nombre": "Clasico Semiamargo",
+    "categoria": "Alfajor",
+    "observaciones": "",
+    "creadoEn": "2026-08-19T23:51:30.494Z",
+    "actualizadoEn": "2026-08-20T00:01:20.747Z"
+  },
+  {
+    "id": "alf_clasico_blanco_ocw2",
+    "nombre": "Clasico Blanco",
+    "categoria": "Alfajor",
+    "observaciones": "",
+    "creadoEn": "2026-08-19T23:54:41.288Z",
+    "actualizadoEn": "2026-08-21T23:21:16.171Z"
+  },
+  {
+    "id": "alf_maicena_88ty",
+    "nombre": "Maicena",
+    "categoria": "Alfajor",
+    "observaciones": "",
+    "creadoEn": "2026-08-19T23:55:09.857Z"
+  },
+  {
+    "id": "alf_alfajor_de_nuez_kilk",
+    "nombre": "Alfajor de Nuez",
+    "categoria": "Alfajor",
+    "observaciones": "",
+    "creadoEn": "2026-08-19T23:55:30.777Z"
+  },
+  {
+    "id": "alf_alfajor_de_pistacho_3r4n",
+    "nombre": "Alfajor de Pistacho",
+    "categoria": "Alfajor",
+    "observaciones": "",
+    "creadoEn": "2026-08-19T23:56:39.171Z"
+  },
+  {
+    "id": "alf_mini_semi_buoa",
+    "nombre": "Mini Semi",
+    "categoria": "Mini",
+    "observaciones": "",
+    "creadoEn": "2026-08-19T23:57:22.502Z",
+    "actualizadoEn": "2026-08-20T00:11:05.834Z"
+  },
+  {
+    "id": "alf_mini_blanco_ued9",
+    "nombre": "Mini Blanco",
+    "categoria": "Mini",
+    "observaciones": "",
+    "creadoEn": "2026-08-19T23:57:53.472Z",
+    "actualizadoEn": "2026-08-20T00:11:12.226Z"
+  },
+  {
+    "id": "alf_clasico_semiamargo_c_dhwo",
+    "nombre": "Clasico semiamargo (CAJA x 6)",
+    "categoria": "Caja",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T00:00:54.046Z",
+    "actualizadoEn": "2026-08-20T00:11:18.074Z"
+  },
+  {
+    "id": "alf_clasico_blanco_caja__8m02",
+    "nombre": "Clasico Blanco (CAJA x 6)",
+    "categoria": "Caja",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T00:01:13.493Z",
+    "actualizadoEn": "2026-08-20T00:11:25.408Z"
+  },
+  {
+    "id": "alf_maicena_caja_x_6__gn3e",
+    "nombre": "Maicena (CAJA x 6)",
+    "categoria": "Caja",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T00:01:47.991Z",
+    "actualizadoEn": "2026-08-20T00:11:31.110Z"
+  },
+  {
+    "id": "alf_alfajor_de_nuez_caja_m2uu",
+    "nombre": "Alfajor de Nuez (CAJA x 6)",
+    "categoria": "Caja",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T00:02:10.570Z",
+    "actualizadoEn": "2026-08-20T00:11:36.798Z"
+  },
+  {
+    "id": "alf_alfajor_de_pistacho__cu3e",
+    "nombre": "Alfajor de Pistacho (CAJA x 6)",
+    "categoria": "Caja",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T00:07:41.756Z"
+  },
+  {
+    "id": "alf_alfajores_surtidos_c_1ivr",
+    "nombre": "Alfajores Surtidos (CAJA x 6)",
+    "categoria": "Caja",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T00:08:20.193Z"
+  },
+  {
+    "id": "alf_alfajores_mixtos_caj_fi6m",
+    "nombre": "Alfajores Mixtos (CAJA x 6)",
+    "categoria": "Caja",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T00:12:13.424Z"
+  },
+  {
+    "id": "alf_clasico_semiamargo_c_vnxt",
+    "nombre": "Clasico semiamargo (CAJA x 12)",
+    "categoria": "Caja",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T00:12:58.572Z"
+  },
+  {
+    "id": "alf_clasico_blanco_caja__24x4",
+    "nombre": "Clasico Blanco (CAJA x 12)",
+    "categoria": "Caja",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T00:13:18.377Z"
+  },
+  {
+    "id": "alf_maicena_caja_x_12__ypcj",
+    "nombre": "Maicena (CAJA x 12)",
+    "categoria": "Caja",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T00:13:33.262Z"
+  },
+  {
+    "id": "alf_alfajor_de_nuez_caja_w03v",
+    "nombre": "Alfajor de Nuez (CAJA x 12)",
+    "categoria": "Caja",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T00:13:49.525Z"
+  },
+  {
+    "id": "alf_alfajor_de_pistacho__vjax",
+    "nombre": "Alfajor de Pistacho (CAJA x 12)",
+    "categoria": "Caja",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T00:14:09.138Z"
+  },
+  {
+    "id": "alf_alfajores_surtidos_c_dgwi",
+    "nombre": "Alfajores Surtidos (CAJA x 12)",
+    "categoria": "Caja",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T00:14:30.972Z"
+  },
+  {
+    "id": "alf_alfajores_mixtos_caj_mgok",
+    "nombre": "Alfajores Mixtos (CAJA x 12)",
+    "categoria": "Caja",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T00:14:49.626Z"
+  },
+  {
+    "id": "alf_mini_semi_caja_x_12__0hkk",
+    "nombre": "Mini Semi (CAJA x 12)",
+    "categoria": "Caja",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T00:15:37.594Z"
+  },
+  {
+    "id": "alf_mini_blanco_caja_x_1_s59l",
+    "nombre": "Mini Mixto (CAJA x 12)",
+    "categoria": "Caja",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T00:16:01.269Z",
+    "actualizadoEn": "2026-08-20T00:16:34.878Z"
+  },
+  {
+    "id": "alf_mini_semi_caja_x_36__ptvf",
+    "nombre": "Mini Semi (CAJA x 36)",
+    "categoria": "Caja",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T00:16:59.662Z"
+  },
+  {
+    "id": "alf_alfajores_mixtos_caj_ia8p",
+    "nombre": "Alfajores Mixtos (CAJA x 30)",
+    "categoria": "Caja",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T00:17:44.442Z"
+  },
+  {
+    "id": "alf_mendiant_quba",
+    "nombre": "Mendiant",
+    "categoria": "Lata",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T00:18:06.736Z",
+    "actualizadoEn": "2026-08-20T00:19:42.377Z"
+  },
+  {
+    "id": "alf_tabletas_chocolate_h8ax",
+    "nombre": "Tabletas Chocolate",
+    "categoria": "Tableta",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T00:18:30.994Z",
+    "actualizadoEn": "2026-08-20T00:20:02.572Z"
+  },
+  {
+    "id": "alf_pack_sabores_y0l1",
+    "nombre": "Pack Sabores",
+    "categoria": "Pack",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T00:19:32.288Z",
+    "actualizadoEn": "2026-08-20T00:20:14.900Z"
+  }
+]

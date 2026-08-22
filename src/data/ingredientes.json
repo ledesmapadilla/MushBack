@@ -1,0 +1,425 @@
+[
+  {
+    "id": "huevo",
+    "nombre": "Huevos",
+    "unidad": "kg",
+    "observaciones": "Un huevo, pesa 50 gr",
+    "creadoEn": "2026-08-20T22:10:42.776Z",
+    "actualizadoEn": "2026-08-21T23:06:03.631Z",
+    "precio": 6000,
+    "fechaPrecio": "2026-08-21",
+    "observacionesPrecio": "20 huevos",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-21",
+        "precio": 6000,
+        "unidad": "kg",
+        "observaciones": "20 huevos",
+        "registradoEn": "2026-08-21T23:06:03.612Z"
+      },
+      {
+        "fecha": "2026-08-21",
+        "precio": 6500,
+        "unidad": "kg",
+        "observaciones": "20 huevos",
+        "registradoEn": "2026-08-21T21:41:39.984Z"
+      }
+    ]
+  },
+  {
+    "id": "vainillin_xdey",
+    "nombre": "Vainillín",
+    "unidad": "kg",
+    "observaciones": "1lts de vainillin, pesa 1kg, aproximadamente",
+    "creadoEn": "2026-08-20T22:13:44.098Z",
+    "actualizadoEn": "2026-08-21T23:06:46.870Z",
+    "precio": 6450,
+    "fechaPrecio": "2026-08-21",
+    "observacionesPrecio": "1 lts = 1kg",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-21",
+        "precio": 6450,
+        "unidad": "kg",
+        "observaciones": "1 lts = 1kg",
+        "registradoEn": "2026-08-21T23:06:46.855Z"
+      },
+      {
+        "fecha": "2026-08-21",
+        "precio": 10000,
+        "unidad": "kg",
+        "observaciones": "1 lts = 1kg",
+        "registradoEn": "2026-08-21T21:42:43.764Z"
+      }
+    ]
+  },
+  {
+    "id": "miel_ilhg",
+    "nombre": "Miel",
+    "unidad": "kg",
+    "observaciones": "1lts de miel pesa 1,4 kg, aproximadamente",
+    "creadoEn": "2026-08-20T22:17:06.718Z",
+    "actualizadoEn": "2026-08-21T23:06:59.423Z",
+    "precio": 10000,
+    "fechaPrecio": "2026-08-21",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-21",
+        "precio": 10000,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-21T23:06:59.402Z"
+      },
+      {
+        "fecha": "2026-08-21",
+        "precio": 7000,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-21T21:42:06.568Z"
+      }
+    ]
+  },
+  {
+    "id": "harina_csz5",
+    "nombre": "Harina",
+    "unidad": "kg",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T22:20:20.319Z",
+    "precio": 1060,
+    "fechaPrecio": "2026-08-21",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-21",
+        "precio": 1060,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-21T23:07:15.953Z"
+      },
+      {
+        "fecha": "2026-08-21",
+        "precio": 975,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-21T21:39:06.835Z"
+      }
+    ],
+    "actualizadoEn": "2026-08-21T23:07:15.959Z"
+  },
+  {
+    "id": "fecula_qozl",
+    "nombre": "Fécula",
+    "unidad": "kg",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T22:20:33.837Z",
+    "precio": 1600,
+    "fechaPrecio": "2026-08-21",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-21",
+        "precio": 1600,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-21T23:07:33.116Z"
+      },
+      {
+        "fecha": "2026-08-21",
+        "precio": 3900,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-21T21:38:35.364Z"
+      }
+    ],
+    "actualizadoEn": "2026-08-21T23:07:33.142Z"
+  },
+  {
+    "id": "cacao_vvrg",
+    "nombre": "Cacao",
+    "unidad": "kg",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T22:20:43.339Z",
+    "precio": 27000,
+    "fechaPrecio": "2026-08-21",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-21",
+        "precio": 27000,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-21T23:07:47.318Z"
+      },
+      {
+        "fecha": "2026-08-21",
+        "precio": 15250,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-21T21:35:14.916Z"
+      }
+    ],
+    "actualizadoEn": "2026-08-21T23:07:47.326Z"
+  },
+  {
+    "id": "bicarbonato_e03b",
+    "nombre": "Bicarbonato",
+    "unidad": "kg",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T22:21:08.058Z",
+    "precio": 4000,
+    "fechaPrecio": "2026-08-21",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-21",
+        "precio": 4000,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-21T23:08:01.218Z"
+      },
+      {
+        "fecha": "2026-08-21",
+        "precio": 5250,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-21T21:34:59.701Z"
+      }
+    ],
+    "actualizadoEn": "2026-08-21T23:08:01.228Z"
+  },
+  {
+    "id": "polvo_de_hornear_hnt0",
+    "nombre": "Polvo de hornear",
+    "unidad": "kg",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T22:22:37.168Z",
+    "precio": 9000,
+    "fechaPrecio": "2026-08-21",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-21",
+        "precio": 9000,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-21T23:08:15.522Z"
+      },
+      {
+        "fecha": "2026-08-21",
+        "precio": 9500,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-21T21:42:18.053Z"
+      }
+    ],
+    "actualizadoEn": "2026-08-21T23:08:15.534Z"
+  },
+  {
+    "id": "dulce_de_leche_zxfm",
+    "nombre": "Dulce de leche",
+    "unidad": "kg",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T22:23:05.861Z",
+    "precio": 5750,
+    "fechaPrecio": "2026-08-21",
+    "observacionesPrecio": "",
+    "historialPrecios": [],
+    "actualizadoEn": "2026-08-21T21:36:09.867Z"
+  },
+  {
+    "id": "chocolate_semiamargo_tsgr",
+    "nombre": "Chocolate SemiAmargo",
+    "unidad": "kg",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T22:31:11.823Z",
+    "precio": 11750,
+    "fechaPrecio": "2026-08-21",
+    "observacionesPrecio": "",
+    "historialPrecios": [],
+    "actualizadoEn": "2026-08-21T21:35:44.155Z"
+  },
+  {
+    "id": "chocolate_blanco_fybs",
+    "nombre": "Chocolate blanco",
+    "unidad": "kg",
+    "observaciones": "",
+    "creadoEn": "2026-08-20T22:31:33.695Z",
+    "precio": 12000,
+    "fechaPrecio": "2026-08-21",
+    "observacionesPrecio": "",
+    "historialPrecios": [],
+    "actualizadoEn": "2026-08-21T21:35:29.568Z"
+  },
+  {
+    "id": "manteca_hcm6",
+    "nombre": "Manteca",
+    "unidad": "kg",
+    "observaciones": "",
+    "stock": 0,
+    "minimo": 0,
+    "precio": 10000,
+    "proveedor": "",
+    "categoria": "Secos",
+    "creadoEn": "2026-08-20T23:09:58.055Z",
+    "fechaPrecio": "2026-08-21",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-21",
+        "precio": 10000,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-21T23:05:33.164Z"
+      },
+      {
+        "fecha": "2026-08-21",
+        "precio": 12700,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-21T21:41:55.672Z"
+      }
+    ],
+    "actualizadoEn": "2026-08-21T23:05:33.190Z"
+  },
+  {
+    "id": "azucar_35rf",
+    "nombre": "Azúcar",
+    "unidad": "kg",
+    "observaciones": "",
+    "stock": 0,
+    "minimo": 0,
+    "precio": 890,
+    "proveedor": "",
+    "categoria": "Secos",
+    "creadoEn": "2026-08-20T23:10:58.305Z",
+    "fechaPrecio": "2026-08-21",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-21",
+        "precio": 890,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-21T23:06:24.075Z"
+      },
+      {
+        "fecha": "2026-08-21",
+        "precio": 1175,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-21T22:03:29.876Z"
+      }
+    ],
+    "actualizadoEn": "2026-08-21T23:11:16.592Z"
+  },
+  {
+    "id": "limon_7657",
+    "nombre": "Limón",
+    "unidad": "un",
+    "observaciones": "",
+    "stock": 0,
+    "minimo": 0,
+    "precio": 800,
+    "fechaPrecio": "2026-08-21",
+    "observacionesPrecio": "8 limones por kilo",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-21",
+        "precio": 800,
+        "unidad": "un",
+        "observaciones": "8 limones por kilo",
+        "registradoEn": "2026-08-21T23:36:05.529Z"
+      },
+      {
+        "fecha": "2026-08-21",
+        "precio": 800,
+        "unidad": "un",
+        "observaciones": "",
+        "registradoEn": "2026-08-21T23:33:42.001Z"
+      }
+    ],
+    "proveedor": "",
+    "categoria": "Secos",
+    "creadoEn": "2026-08-21T23:33:08.708Z",
+    "actualizadoEn": "2026-08-21T23:36:05.542Z"
+  },
+  {
+    "id": "coco_rallado_woxn",
+    "nombre": "Coco Rallado",
+    "unidad": "kg",
+    "observaciones": "",
+    "stock": 0,
+    "minimo": 0,
+    "precio": 0,
+    "fechaPrecio": "",
+    "observacionesPrecio": "",
+    "historialPrecios": [],
+    "proveedor": "",
+    "categoria": "Secos",
+    "creadoEn": "2026-08-22T00:02:12.030Z"
+  },
+  {
+    "id": "nues_pecan_7vsy",
+    "nombre": "Nuez Pecan",
+    "unidad": "kg",
+    "observaciones": "",
+    "stock": 0,
+    "minimo": 0,
+    "precio": 22000,
+    "fechaPrecio": "2026-08-22",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-22",
+        "precio": 22000,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-22T00:16:09.641Z"
+      }
+    ],
+    "proveedor": "",
+    "categoria": "Secos",
+    "creadoEn": "2026-08-22T00:15:24.348Z",
+    "actualizadoEn": "2026-08-22T00:16:09.651Z"
+  },
+  {
+    "id": "aceite_rj9f",
+    "nombre": "Aceite",
+    "unidad": "lts",
+    "observaciones": "",
+    "stock": 0,
+    "minimo": 0,
+    "precio": 0,
+    "fechaPrecio": "",
+    "observacionesPrecio": "",
+    "historialPrecios": [],
+    "proveedor": "",
+    "categoria": "Secos",
+    "creadoEn": "2026-08-22T00:28:11.735Z"
+  },
+  {
+    "id": "pistacho_60pf",
+    "nombre": "Pistacho",
+    "unidad": "kg",
+    "observaciones": "",
+    "stock": 0,
+    "minimo": 0,
+    "precio": 59345,
+    "fechaPrecio": "2026-08-22",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-22",
+        "precio": 59345,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-22T00:49:38.479Z"
+      }
+    ],
+    "proveedor": "",
+    "categoria": "Secos",
+    "creadoEn": "2026-08-22T00:49:06.346Z",
+    "actualizadoEn": "2026-08-22T00:49:38.489Z"
+  }
+]
