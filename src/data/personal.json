@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "per_juli_y1f3",
+    "nombre": "Juli",
+    "fechaAlta": "2026-08-22",
+    "jornalesPorSemana": 5,
+    "horasPorDia": 5,
+    "observaciones": "",
+    "mensual": [
+      {
+        "valor": 700000,
+        "fecha": "2026-08-22"
+      }
+    ],
+    "creadoEn": "2026-08-22T17:04:28.863Z",
+    "actualizadoEn": "2026-08-22T22:23:45.917Z"
+  }
+]

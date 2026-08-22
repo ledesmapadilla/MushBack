@@ -127,5 +127,132 @@
     ],
     "creadoEn": "2026-08-22T00:04:07.933Z",
     "actualizadoEn": "2026-08-22T00:05:25.113Z"
+  },
+  {
+    "id": "pack_lata_uzgl",
+    "nombre": "Lata",
+    "unidad": "un",
+    "observaciones": "",
+    "precio": 6500,
+    "fechaPrecio": "2026-08-22",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-22",
+        "precio": 6500,
+        "unidad": "un",
+        "observaciones": "",
+        "registradoEn": "2026-08-22T16:54:00.816Z"
+      }
+    ],
+    "creadoEn": "2026-08-22T16:52:50.950Z",
+    "actualizadoEn": "2026-08-22T16:54:00.826Z"
+  },
+  {
+    "id": "pack_papel_parafinado_l1ro",
+    "nombre": "Papel parafinado",
+    "unidad": "un",
+    "observaciones": "",
+    "precio": 35,
+    "fechaPrecio": "2026-08-22",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-22",
+        "precio": 35,
+        "unidad": "un",
+        "observaciones": "",
+        "registradoEn": "2026-08-22T16:54:16.567Z"
+      }
+    ],
+    "creadoEn": "2026-08-22T16:53:04.368Z",
+    "actualizadoEn": "2026-08-22T16:54:16.574Z"
+  },
+  {
+    "id": "pack_ogotapa_ewif",
+    "nombre": "Logo tapa",
+    "unidad": "un",
+    "observaciones": "",
+    "precio": 150,
+    "fechaPrecio": "2026-08-22",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-22",
+        "precio": 150,
+        "unidad": "un",
+        "observaciones": "",
+        "registradoEn": "2026-08-22T16:54:37.408Z"
+      }
+    ],
+    "creadoEn": "2026-08-22T16:53:16.786Z",
+    "actualizadoEn": "2026-08-22T16:54:55.288Z"
+  },
+  {
+    "id": "pack_sticker_info_jesa",
+    "nombre": "Sticker info",
+    "unidad": "un",
+    "observaciones": "",
+    "precio": 170,
+    "fechaPrecio": "2026-08-22",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-22",
+        "precio": 170,
+        "unidad": "un",
+        "observaciones": "",
+        "registradoEn": "2026-08-22T16:55:14.484Z"
+      }
+    ],
+    "creadoEn": "2026-08-22T16:53:30.185Z",
+    "actualizadoEn": "2026-08-22T16:55:14.486Z"
+  },
+  {
+    "id": "pack_bolsa_ieoc",
+    "nombre": "Bolsa",
+    "unidad": "un",
+    "observaciones": "",
+    "precio": 104,
+    "fechaPrecio": "2026-08-22",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-22",
+        "precio": 104,
+        "unidad": "un",
+        "observaciones": "",
+        "registradoEn": "2026-08-22T16:55:23.668Z"
+      }
+    ],
+    "creadoEn": "2026-08-22T16:53:37.796Z",
+    "actualizadoEn": "2026-08-22T16:55:23.671Z"
+  },
+  {
+    "id": "pack_bolsa_doy_pack_kbxs",
+    "nombre": "Bolsa doy pack",
+    "unidad": "un",
+    "observaciones": "",
+    "precio": 2768,
+    "fechaPrecio": "2026-08-22",
+    "observacionesPrecio": "Pack de 50",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-22",
+        "precio": 2768,
+        "unidad": "un",
+        "observaciones": "Pack de 50",
+        "registradoEn": "2026-08-22T17:55:30.020Z"
+      },
+      {
+        "fecha": "2026-08-22",
+        "precio": 138400,
+        "unidad": "un",
+        "observaciones": "Pack de 50",
+        "registradoEn": "2026-08-22T17:55:13.504Z"
+      }
+    ],
+    "creadoEn": "2026-08-22T17:53:53.600Z",
+    "actualizadoEn": "2026-08-22T17:55:30.026Z"
   }
 ]

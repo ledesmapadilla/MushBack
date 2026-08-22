@@ -221,11 +221,19 @@
     "unidad": "kg",
     "observaciones": "",
     "creadoEn": "2026-08-20T22:23:05.861Z",
-    "precio": 5750,
+    "precio": 4500,
     "fechaPrecio": "2026-08-21",
     "observacionesPrecio": "",
-    "historialPrecios": [],
-    "actualizadoEn": "2026-08-21T21:36:09.867Z"
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-21",
+        "precio": 4500,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-22T19:41:44.074Z"
+      }
+    ],
+    "actualizadoEn": "2026-08-22T19:41:50.208Z"
   },
   {
     "id": "chocolate_semiamargo_tsgr",
@@ -233,11 +241,19 @@
     "unidad": "kg",
     "observaciones": "",
     "creadoEn": "2026-08-20T22:31:11.823Z",
-    "precio": 11750,
+    "precio": 26600,
     "fechaPrecio": "2026-08-21",
     "observacionesPrecio": "",
-    "historialPrecios": [],
-    "actualizadoEn": "2026-08-21T21:35:44.155Z"
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-21",
+        "precio": 26600,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-22T19:43:22.552Z"
+      }
+    ],
+    "actualizadoEn": "2026-08-22T19:43:28.482Z"
   },
   {
     "id": "chocolate_blanco_fybs",
@@ -245,11 +261,19 @@
     "unidad": "kg",
     "observaciones": "",
     "creadoEn": "2026-08-20T22:31:33.695Z",
-    "precio": 12000,
+    "precio": 32000,
     "fechaPrecio": "2026-08-21",
     "observacionesPrecio": "",
-    "historialPrecios": [],
-    "actualizadoEn": "2026-08-21T21:35:29.568Z"
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-21",
+        "precio": 32000,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-22T19:44:30.639Z"
+      }
+    ],
+    "actualizadoEn": "2026-08-22T19:44:37.108Z"
   },
   {
     "id": "manteca_hcm6",
@@ -351,13 +375,22 @@
     "observaciones": "",
     "stock": 0,
     "minimo": 0,
-    "precio": 0,
-    "fechaPrecio": "",
+    "precio": 8024,
+    "fechaPrecio": "2026-08-22",
     "observacionesPrecio": "",
-    "historialPrecios": [],
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-22",
+        "precio": 8024,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-22T16:45:41.888Z"
+      }
+    ],
     "proveedor": "",
     "categoria": "Secos",
-    "creadoEn": "2026-08-22T00:02:12.030Z"
+    "creadoEn": "2026-08-22T00:02:12.030Z",
+    "actualizadoEn": "2026-08-22T16:45:41.902Z"
   },
   {
     "id": "nues_pecan_7vsy",
@@ -390,13 +423,29 @@
     "observaciones": "",
     "stock": 0,
     "minimo": 0,
-    "precio": 0,
-    "fechaPrecio": "",
-    "observacionesPrecio": "",
-    "historialPrecios": [],
+    "precio": 3600,
+    "fechaPrecio": "2026-08-22",
+    "observacionesPrecio": "1lts=1kg",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-22",
+        "precio": 3600,
+        "unidad": "lts",
+        "observaciones": "1lts=1kg",
+        "registradoEn": "2026-08-22T18:58:35.244Z"
+      },
+      {
+        "fecha": "2026-08-22",
+        "precio": 3600,
+        "unidad": "lts",
+        "observaciones": "",
+        "registradoEn": "2026-08-22T16:46:30.099Z"
+      }
+    ],
     "proveedor": "",
     "categoria": "Secos",
-    "creadoEn": "2026-08-22T00:28:11.735Z"
+    "creadoEn": "2026-08-22T00:28:11.735Z",
+    "actualizadoEn": "2026-08-22T18:58:35.342Z"
   },
   {
     "id": "pistacho_60pf",
@@ -421,5 +470,413 @@
     "categoria": "Secos",
     "creadoEn": "2026-08-22T00:49:06.346Z",
     "actualizadoEn": "2026-08-22T00:49:38.489Z"
+  },
+  {
+    "id": "chocolate_con_leche_w4ld",
+    "nombre": "Chocolate con leche",
+    "unidad": "kg",
+    "observaciones": "",
+    "stock": 0,
+    "minimo": 0,
+    "precio": 32000,
+    "fechaPrecio": "2026-08-22",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-22",
+        "precio": 32000,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-22T16:45:18.904Z"
+      }
+    ],
+    "proveedor": "",
+    "categoria": "Secos",
+    "creadoEn": "2026-08-22T16:44:58.917Z",
+    "actualizadoEn": "2026-08-22T16:45:18.915Z"
+  },
+  {
+    "id": "castana_sbj0",
+    "nombre": "Castaña",
+    "unidad": "kg",
+    "observaciones": "",
+    "stock": 0,
+    "minimo": 0,
+    "precio": 18670,
+    "fechaPrecio": "2026-08-22",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-22",
+        "precio": 18670,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-22T16:49:10.368Z"
+      }
+    ],
+    "proveedor": "",
+    "categoria": "Secos",
+    "creadoEn": "2026-08-22T16:47:44.765Z",
+    "actualizadoEn": "2026-08-22T16:49:10.375Z"
+  },
+  {
+    "id": "avellana_kawf",
+    "nombre": "Avellana",
+    "unidad": "kg",
+    "observaciones": "",
+    "stock": 0,
+    "minimo": 0,
+    "precio": 36332,
+    "fechaPrecio": "2026-08-22",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-22",
+        "precio": 36332,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-22T16:48:54.978Z"
+      }
+    ],
+    "proveedor": "",
+    "categoria": "Secos",
+    "creadoEn": "2026-08-22T16:47:51.004Z",
+    "actualizadoEn": "2026-08-22T16:48:54.989Z"
+  },
+  {
+    "id": "almendra_o2g7",
+    "nombre": "Almendra",
+    "unidad": "kg",
+    "observaciones": "",
+    "stock": 0,
+    "minimo": 0,
+    "precio": 20800,
+    "fechaPrecio": "2026-08-22",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-22",
+        "precio": 20800,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-22T16:48:41.865Z"
+      }
+    ],
+    "proveedor": "",
+    "categoria": "Secos",
+    "creadoEn": "2026-08-22T16:47:58.105Z",
+    "actualizadoEn": "2026-08-22T16:48:41.875Z"
+  },
+  {
+    "id": "semillas_04xw",
+    "nombre": "Semillas",
+    "unidad": "kg",
+    "observaciones": "",
+    "stock": 0,
+    "minimo": 0,
+    "precio": 8000,
+    "fechaPrecio": "2026-08-22",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-22",
+        "precio": 8000,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-22T16:49:39.531Z"
+      }
+    ],
+    "proveedor": "",
+    "categoria": "Secos",
+    "creadoEn": "2026-08-22T16:48:08.057Z",
+    "actualizadoEn": "2026-08-22T16:49:39.537Z"
+  },
+  {
+    "id": "flores_xs0i",
+    "nombre": "Flores",
+    "unidad": "kg",
+    "observaciones": "",
+    "stock": 0,
+    "minimo": 0,
+    "precio": 10000,
+    "fechaPrecio": "2026-08-22",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-22",
+        "precio": 10000,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-22T16:49:25.819Z"
+      }
+    ],
+    "proveedor": "",
+    "categoria": "Secos",
+    "creadoEn": "2026-08-22T16:48:14.261Z",
+    "actualizadoEn": "2026-08-22T16:49:25.827Z"
+  },
+  {
+    "id": "sal_fd2p",
+    "nombre": "Sal",
+    "unidad": "kg",
+    "observaciones": "",
+    "stock": 0,
+    "minimo": 0,
+    "precio": 3200,
+    "fechaPrecio": "2026-08-22",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-22",
+        "precio": 3200,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-22T16:50:46.272Z"
+      }
+    ],
+    "proveedor": "",
+    "categoria": "Secos",
+    "creadoEn": "2026-08-22T16:48:19.722Z",
+    "actualizadoEn": "2026-08-22T16:50:46.278Z"
+  },
+  {
+    "id": "choco_krispi_u7dg",
+    "nombre": "Choco Krispi",
+    "unidad": "kg",
+    "observaciones": "",
+    "stock": 0,
+    "minimo": 0,
+    "precio": 21151,
+    "fechaPrecio": "2026-08-22",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-22",
+        "precio": 21151,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-22T17:32:21.284Z"
+      }
+    ],
+    "proveedor": "",
+    "categoria": "Secos",
+    "creadoEn": "2026-08-22T17:26:44.600Z",
+    "actualizadoEn": "2026-08-22T17:32:21.290Z"
+  },
+  {
+    "id": "copos_azucarados_2bc0",
+    "nombre": "Copos azucarados",
+    "unidad": "kg",
+    "observaciones": "",
+    "stock": 0,
+    "minimo": 0,
+    "precio": 6500,
+    "fechaPrecio": "2026-08-22",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-22",
+        "precio": 6500,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-22T17:33:13.566Z"
+      }
+    ],
+    "proveedor": "",
+    "categoria": "Secos",
+    "creadoEn": "2026-08-22T17:27:28.679Z",
+    "actualizadoEn": "2026-08-22T17:33:13.573Z"
+  },
+  {
+    "id": "pasta_mani_8sqa",
+    "nombre": "Pasta maní",
+    "unidad": "kg",
+    "observaciones": "",
+    "stock": 0,
+    "minimo": 0,
+    "precio": 11500,
+    "fechaPrecio": "2026-08-22",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-22",
+        "precio": 11500,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-22T17:35:34.369Z"
+      }
+    ],
+    "proveedor": "",
+    "categoria": "Secos",
+    "creadoEn": "2026-08-22T17:28:01.924Z",
+    "actualizadoEn": "2026-08-22T17:35:34.378Z"
+  },
+  {
+    "id": "mani_hw17",
+    "nombre": "Mani",
+    "unidad": "kg",
+    "observaciones": "",
+    "stock": 0,
+    "minimo": 0,
+    "precio": 5500,
+    "fechaPrecio": "2026-08-22",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-22",
+        "precio": 5500,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-22T17:35:16.577Z"
+      }
+    ],
+    "proveedor": "",
+    "categoria": "Secos",
+    "creadoEn": "2026-08-22T17:28:13.318Z",
+    "actualizadoEn": "2026-08-22T17:35:16.586Z"
+  },
+  {
+    "id": "arandanos_zp1p",
+    "nombre": "Arándanos",
+    "unidad": "kg",
+    "observaciones": "",
+    "stock": 0,
+    "minimo": 0,
+    "precio": 15386,
+    "fechaPrecio": "2026-08-22",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-22",
+        "precio": 15386,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-22T17:31:20.900Z"
+      }
+    ],
+    "proveedor": "",
+    "categoria": "Secos",
+    "creadoEn": "2026-08-22T17:28:30.282Z",
+    "actualizadoEn": "2026-08-22T17:31:20.907Z"
+  },
+  {
+    "id": "pasas_rubias_qehb",
+    "nombre": "Pasas Rubias",
+    "unidad": "kg",
+    "observaciones": "",
+    "stock": 0,
+    "minimo": 0,
+    "precio": 9460,
+    "fechaPrecio": "2026-08-22",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-22",
+        "precio": 9460,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-22T17:36:20.480Z"
+      }
+    ],
+    "proveedor": "",
+    "categoria": "Secos",
+    "creadoEn": "2026-08-22T17:28:49.096Z",
+    "actualizadoEn": "2026-08-22T17:36:20.488Z"
+  },
+  {
+    "id": "copos_sin_azucar_2ex8",
+    "nombre": "Copos sin azúcar",
+    "unidad": "kg",
+    "observaciones": "",
+    "stock": 0,
+    "minimo": 0,
+    "precio": 4840,
+    "fechaPrecio": "2026-08-22",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-22",
+        "precio": 4840,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-22T17:35:01.057Z"
+      }
+    ],
+    "proveedor": "",
+    "categoria": "Secos",
+    "creadoEn": "2026-08-22T17:29:05.697Z",
+    "actualizadoEn": "2026-08-22T17:35:01.064Z"
+  },
+  {
+    "id": "coco_ajo5",
+    "nombre": "Coco",
+    "unidad": "kg",
+    "observaciones": "",
+    "stock": 0,
+    "minimo": 0,
+    "precio": 8024,
+    "fechaPrecio": "2026-08-22",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-22",
+        "precio": 8024,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-22T17:32:56.570Z"
+      }
+    ],
+    "proveedor": "",
+    "categoria": "Secos",
+    "creadoEn": "2026-08-22T17:29:33.571Z",
+    "actualizadoEn": "2026-08-22T17:32:56.576Z"
+  },
+  {
+    "id": "cacao_amargo_8lx0",
+    "nombre": "Cacao amargo",
+    "unidad": "kg",
+    "observaciones": "",
+    "stock": 0,
+    "minimo": 0,
+    "precio": 27000,
+    "fechaPrecio": "2026-08-22",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-22",
+        "precio": 27000,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-22T17:32:01.967Z"
+      }
+    ],
+    "proveedor": "",
+    "categoria": "Secos",
+    "creadoEn": "2026-08-22T17:29:50.176Z",
+    "actualizadoEn": "2026-08-22T17:32:01.975Z"
+  },
+  {
+    "id": "garrapinada_t9uu",
+    "nombre": "Garrapiñada",
+    "unidad": "kg",
+    "observaciones": "",
+    "stock": 0,
+    "minimo": 0,
+    "precio": 10000,
+    "fechaPrecio": "2026-08-22",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-22",
+        "precio": 10000,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-22T17:43:45.059Z"
+      }
+    ],
+    "proveedor": "",
+    "categoria": "Secos",
+    "creadoEn": "2026-08-22T17:43:30.735Z",
+    "actualizadoEn": "2026-08-22T17:43:45.067Z"
   }
 ]

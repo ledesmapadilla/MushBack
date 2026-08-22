@@ -108,11 +108,22 @@ export const guardarRecetaBackend = (req, res) => {
       nombre: datos.nombre || existente.nombre || "Receta",
       categoria: datos.categoria || existente.categoria || "Alfajor",
       rinde: Number(datos.rinde) || existente.rinde || 60,
+      // En que unidad se expresa el rinde: alfajores por defecto, pero puede
+      // ser otra (el mendiant rinde una lata).
+      unidadRinde:
+        datos.unidadRinde !== undefined
+          ? datos.unidadRinde
+          : (existente.unidadRinde || "alfajores"),
       observaciones: datos.observaciones !== undefined ? datos.observaciones : (existente.observaciones || ""),
       // Un guardado parcial NO debe borrar lo que no vino en el pedido.
       ingredientes: Array.isArray(datos.ingredientes)
         ? datos.ingredientes
         : (existente.ingredientes || []),
+      // Tarjetas que esta receta no lleva (una tableta no tiene ingredientes
+      // por unidad, por ejemplo).
+      sinSecciones: Array.isArray(datos.sinSecciones)
+        ? datos.sinSecciones
+        : (existente.sinSecciones || []),
       // Gramos anotados por seccion (por ejemplo la pasta y el praline de
       // pistacho). Es un objeto {seccionId: numero}.
       gramos:
