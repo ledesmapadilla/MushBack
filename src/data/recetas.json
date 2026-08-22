@@ -859,8 +859,16 @@
         "ingredienteId": "miel_ilhg",
         "nombre": "Miel",
         "unidad": "gr",
-        "cantidad": 0.24,
-        "observaciones": "7 gr de pasta y 1,5 gr de praline"
+        "cantidad": 0.189,
+        "observaciones": "7 gr de pasta y 1,5 gr de praline",
+        "componentes": [
+          {
+            "componente": "Pasta de Pistacho",
+            "cantidad": 0.189,
+            "unidad": "gr",
+            "observaciones": ""
+          }
+        ]
       },
       {
         "id": "item_1787360210649_rrb",
@@ -942,7 +950,7 @@
       "alfajoresProducidos": 3200,
       "observaciones": "Temporada baja"
     },
-    "actualizadoEn": "2026-08-22T15:27:30.555Z",
+    "actualizadoEn": "2026-08-22T16:00:36.222Z",
     "gramos": {
       "pasta-pistacho": 7,
       "praline-pistacho": 1.5
