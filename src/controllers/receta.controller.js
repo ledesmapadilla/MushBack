@@ -130,6 +130,12 @@ export const guardarRecetaBackend = (req, res) => {
         datos.gramos && typeof datos.gramos === "object"
           ? datos.gramos
           : (existente.gramos || {}),
+      // Lo que se carga a mano en Lista de Precios y de donde salen los precios:
+      // {margenPublico, dtoRevendedor, unidadesPorCaja}.
+      precios:
+        datos.precios && typeof datos.precios === "object"
+          ? datos.precios
+          : (existente.precios || {}),
       // Valor unico de mano de obra de la receta (no es una lista)
       manoDeObra:
         datos.manoDeObra && typeof datos.manoDeObra === "object"

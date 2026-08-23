@@ -622,10 +622,17 @@
     "observaciones": "",
     "stock": 0,
     "minimo": 0,
-    "precio": 3200,
+    "precio": 971,
     "fechaPrecio": "2026-08-22",
     "observacionesPrecio": "",
     "historialPrecios": [
+      {
+        "fecha": "2026-08-22",
+        "precio": 971,
+        "unidad": "kg",
+        "observaciones": "",
+        "registradoEn": "2026-08-23T13:16:57.905Z"
+      },
       {
         "fecha": "2026-08-22",
         "precio": 3200,
@@ -637,7 +644,7 @@
     "proveedor": "",
     "categoria": "Secos",
     "creadoEn": "2026-08-22T16:48:19.722Z",
-    "actualizadoEn": "2026-08-22T16:50:46.278Z"
+    "actualizadoEn": "2026-08-23T13:16:58.110Z"
   },
   {
     "id": "choco_krispi_u7dg",

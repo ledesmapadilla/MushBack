@@ -152,7 +152,7 @@
         "observaciones": ""
       }
     ],
-    "actualizadoEn": "2026-08-22T19:37:31.244Z",
+    "actualizadoEn": "2026-08-23T15:34:46.342Z",
     "manoDeObra": {
       "fecha": "2026-08-20",
       "personalId": "per_maria_bmgt",
@@ -162,7 +162,12 @@
     },
     "unidadRinde": "alfajores",
     "sinSecciones": [],
-    "gramos": {}
+    "gramos": {},
+    "precios": {
+      "margenPublico": 70,
+      "margenRevendedor": 70,
+      "dtoRevendedor": 35
+    }
   },
   {
     "id": "clasico-blanco",
@@ -324,10 +329,15 @@
       "alfajoresProducidos": 3200,
       "observaciones": "Temporada baja"
     },
-    "actualizadoEn": "2026-08-22T19:47:05.447Z",
+    "actualizadoEn": "2026-08-23T15:55:34.366Z",
     "unidadRinde": "alfajores",
     "sinSecciones": [],
-    "gramos": {}
+    "gramos": {},
+    "precios": {
+      "margenPublico": 64,
+      "margenRevendedor": "",
+      "dtoRevendedor": 35
+    }
   },
   {
     "id": "maicena",
@@ -480,9 +490,14 @@
       "alfajoresProducidos": 3200,
       "observaciones": "Temporada baja"
     },
-    "actualizadoEn": "2026-08-22T17:02:53.775Z",
+    "actualizadoEn": "2026-08-23T15:55:47.573Z",
     "unidadRinde": "alfajores",
-    "gramos": {}
+    "gramos": {},
+    "sinSecciones": [],
+    "precios": {
+      "margenPublico": 75,
+      "dtoRevendedor": 35
+    }
   },
   {
     "id": "alfajor-de-nuez",
@@ -644,9 +659,14 @@
       "alfajoresProducidos": 3200,
       "observaciones": "Temporada baja"
     },
-    "actualizadoEn": "2026-08-22T17:03:05.938Z",
+    "actualizadoEn": "2026-08-23T15:56:01.978Z",
     "unidadRinde": "alfajores",
-    "gramos": {}
+    "gramos": {},
+    "sinSecciones": [],
+    "precios": {
+      "margenPublico": 64,
+      "dtoRevendedor": 35
+    }
   },
   {
     "id": "alfajor-de-pistacho",
@@ -1083,13 +1103,17 @@
       "alfajoresProducidos": 3200,
       "observaciones": "Temporada baja"
     },
-    "actualizadoEn": "2026-08-22T21:38:23.064Z",
+    "actualizadoEn": "2026-08-23T15:56:11.551Z",
     "gramos": {
       "pasta-pistacho": 7,
       "praline-pistacho": 30
     },
     "unidadRinde": "alfajores",
-    "sinSecciones": []
+    "sinSecciones": [],
+    "precios": {
+      "margenPublico": 64,
+      "dtoRevendedor": 35
+    }
   },
   {
     "id": "mini-semi",
@@ -1251,10 +1275,14 @@
       "alfajoresProducidos": 3200,
       "observaciones": "Temporada baja"
     },
-    "actualizadoEn": "2026-08-22T22:14:03.733Z",
+    "actualizadoEn": "2026-08-23T15:56:24.458Z",
     "gramos": {},
     "unidadRinde": "alfajores",
-    "sinSecciones": []
+    "sinSecciones": [],
+    "precios": {
+      "margenPublico": 70,
+      "dtoRevendedor": 35
+    }
   },
   {
     "id": "mini-blanco",
@@ -1417,9 +1445,13 @@
       "observaciones": "Temporada baja"
     },
     "gramos": {},
-    "actualizadoEn": "2026-08-22T22:13:45.682Z",
+    "actualizadoEn": "2026-08-23T15:56:35.483Z",
     "unidadRinde": "alfajores",
-    "sinSecciones": []
+    "sinSecciones": [],
+    "precios": {
+      "dtoRevendedor": 35,
+      "margenPublico": 64
+    }
   },
   {
     "id": "mendiant",
@@ -1655,19 +1687,19 @@
         "observaciones": ""
       },
       {
-        "id": "item_1787421366110_hib",
+        "id": "item_1787421376807_2qs",
         "seccion": "packaging",
-        "ingredienteId": "pack_sticker_fte_zrav",
-        "nombre": "Sticker frente",
+        "ingredienteId": "pack_bolsa_ieoc",
+        "nombre": "Bolsa",
         "unidad": "un",
         "cantidad": 1,
         "observaciones": ""
       },
       {
-        "id": "item_1787421376807_2qs",
+        "id": "item_1787491570439_jbx",
         "seccion": "packaging",
-        "ingredienteId": "pack_bolsa_ieoc",
-        "nombre": "Bolsa",
+        "ingredienteId": "pack_sticker_frente_table_iu4h",
+        "nombre": "Sticker Frente Tableta",
         "unidad": "un",
         "cantidad": 1,
         "observaciones": ""
@@ -1682,7 +1714,7 @@
       "alfajoresProducidos": 1.5,
       "observaciones": ""
     },
-    "actualizadoEn": "2026-08-22T17:59:51.431Z"
+    "actualizadoEn": "2026-08-23T13:26:10.449Z"
   },
   {
     "id": "tableta-con-leche-avellana",
@@ -1733,19 +1765,19 @@
         "observaciones": ""
       },
       {
-        "id": "ing_rec_1787421728651_39f",
+        "id": "ing_rec_1787421728652_lvy",
         "seccion": "packaging",
-        "ingredienteId": "pack_sticker_fte_zrav",
-        "nombre": "Sticker frente",
+        "ingredienteId": "pack_bolsa_ieoc",
+        "nombre": "Bolsa",
         "unidad": "un",
         "cantidad": 1,
         "observaciones": ""
       },
       {
-        "id": "ing_rec_1787421728652_lvy",
+        "id": "item_1787491680540_n5d",
         "seccion": "packaging",
-        "ingredienteId": "pack_bolsa_ieoc",
-        "nombre": "Bolsa",
+        "ingredienteId": "pack_sticker_frente_table_iu4h",
+        "nombre": "Sticker Frente Tableta",
         "unidad": "un",
         "cantidad": 1,
         "observaciones": ""
@@ -1760,7 +1792,7 @@
       "alfajoresProducidos": 1.5,
       "observaciones": ""
     },
-    "actualizadoEn": "2026-08-22T18:02:08.649Z"
+    "actualizadoEn": "2026-08-23T13:28:00.540Z"
   },
   {
     "id": "tableta-con-leche-marroc",
@@ -1820,19 +1852,19 @@
         "observaciones": ""
       },
       {
-        "id": "ing_rec_1787421728655_6xk",
+        "id": "ing_rec_1787421728656_wsq",
         "seccion": "packaging",
-        "ingredienteId": "pack_sticker_fte_zrav",
-        "nombre": "Sticker frente",
+        "ingredienteId": "pack_bolsa_ieoc",
+        "nombre": "Bolsa",
         "unidad": "un",
         "cantidad": 1,
         "observaciones": ""
       },
       {
-        "id": "ing_rec_1787421728656_wsq",
+        "id": "item_1787491680542_39l",
         "seccion": "packaging",
-        "ingredienteId": "pack_bolsa_ieoc",
-        "nombre": "Bolsa",
+        "ingredienteId": "pack_sticker_frente_table_iu4h",
+        "nombre": "Sticker Frente Tableta",
         "unidad": "un",
         "cantidad": 1,
         "observaciones": ""
@@ -1847,7 +1879,7 @@
       "alfajoresProducidos": 1.5,
       "observaciones": ""
     },
-    "actualizadoEn": "2026-08-22T18:02:08.650Z"
+    "actualizadoEn": "2026-08-23T13:28:00.541Z"
   },
   {
     "id": "tableta-con-leche-garrapinada",
@@ -1914,12 +1946,54 @@
         "unidad": "gr",
         "cantidad": 5,
         "observaciones": ""
+      },
+      {
+        "id": "item_1787491188011_ssg",
+        "seccion": "packaging",
+        "ingredienteId": "pack_bolsa_doy_pack_kbxs",
+        "nombre": "Bolsa doy pack",
+        "unidad": "un",
+        "cantidad": 1,
+        "observaciones": ""
+      },
+      {
+        "id": "item_1787491188012_nqp",
+        "seccion": "packaging",
+        "ingredienteId": "pack_papel_parafinado_l1ro",
+        "nombre": "Papel parafinado",
+        "unidad": "un",
+        "cantidad": 1,
+        "observaciones": ""
+      },
+      {
+        "id": "item_1787491188014_o48",
+        "seccion": "packaging",
+        "ingredienteId": "pack_bolsa_ieoc",
+        "nombre": "Bolsa",
+        "unidad": "un",
+        "cantidad": 1,
+        "observaciones": ""
+      },
+      {
+        "id": "item_1787491680543_nvb",
+        "seccion": "packaging",
+        "ingredienteId": "pack_sticker_frente_table_iu4h",
+        "nombre": "Sticker Frente Tableta",
+        "unidad": "un",
+        "cantidad": 1,
+        "observaciones": ""
       }
     ],
     "creadoEn": "2026-08-22T17:18:48.762Z",
     "gramos": {},
-    "manoDeObra": {},
-    "actualizadoEn": "2026-08-22T18:02:52.666Z"
+    "manoDeObra": {
+      "fecha": "2026-08-23",
+      "personalId": "per_juli_y1f3",
+      "mensual": 700000,
+      "alfajoresProducidos": 1.5,
+      "observaciones": ""
+    },
+    "actualizadoEn": "2026-08-23T13:28:00.541Z"
   },
   {
     "id": "tableta-blanco-castana",
@@ -1970,19 +2044,19 @@
         "observaciones": ""
       },
       {
-        "id": "ing_rec_1787421728663_dlb",
+        "id": "ing_rec_1787421728664_mr2",
         "seccion": "packaging",
-        "ingredienteId": "pack_sticker_fte_zrav",
-        "nombre": "Sticker frente",
+        "ingredienteId": "pack_bolsa_ieoc",
+        "nombre": "Bolsa",
         "unidad": "un",
         "cantidad": 1,
         "observaciones": ""
       },
       {
-        "id": "ing_rec_1787421728664_mr2",
+        "id": "item_1787491680544_32y",
         "seccion": "packaging",
-        "ingredienteId": "pack_bolsa_ieoc",
-        "nombre": "Bolsa",
+        "ingredienteId": "pack_sticker_frente_table_iu4h",
+        "nombre": "Sticker Frente Tableta",
         "unidad": "un",
         "cantidad": 1,
         "observaciones": ""
@@ -1997,7 +2071,7 @@
       "alfajoresProducidos": 1.5,
       "observaciones": ""
     },
-    "actualizadoEn": "2026-08-22T18:02:08.650Z"
+    "actualizadoEn": "2026-08-23T13:28:00.541Z"
   },
   {
     "id": "tableta-blanco-pistacho",
@@ -2048,19 +2122,19 @@
         "observaciones": ""
       },
       {
-        "id": "ing_rec_1787421728667_4kc",
+        "id": "ing_rec_1787421728668_0tz",
         "seccion": "packaging",
-        "ingredienteId": "pack_sticker_fte_zrav",
-        "nombre": "Sticker frente",
+        "ingredienteId": "pack_bolsa_ieoc",
+        "nombre": "Bolsa",
         "unidad": "un",
         "cantidad": 1,
         "observaciones": ""
       },
       {
-        "id": "ing_rec_1787421728668_0tz",
+        "id": "item_1787491680545_5hk",
         "seccion": "packaging",
-        "ingredienteId": "pack_bolsa_ieoc",
-        "nombre": "Bolsa",
+        "ingredienteId": "pack_sticker_frente_table_iu4h",
+        "nombre": "Sticker Frente Tableta",
         "unidad": "un",
         "cantidad": 1,
         "observaciones": ""
@@ -2075,7 +2149,7 @@
       "alfajoresProducidos": 1.5,
       "observaciones": ""
     },
-    "actualizadoEn": "2026-08-22T18:02:08.650Z"
+    "actualizadoEn": "2026-08-23T13:28:00.541Z"
   },
   {
     "id": "tableta-blanco-coco",
@@ -2135,19 +2209,19 @@
         "observaciones": ""
       },
       {
-        "id": "ing_rec_1787421728671_fz5",
+        "id": "ing_rec_1787421728672_uux",
         "seccion": "packaging",
-        "ingredienteId": "pack_sticker_fte_zrav",
-        "nombre": "Sticker frente",
+        "ingredienteId": "pack_bolsa_ieoc",
+        "nombre": "Bolsa",
         "unidad": "un",
         "cantidad": 1,
         "observaciones": ""
       },
       {
-        "id": "ing_rec_1787421728672_uux",
+        "id": "item_1787491680547_pag",
         "seccion": "packaging",
-        "ingredienteId": "pack_bolsa_ieoc",
-        "nombre": "Bolsa",
+        "ingredienteId": "pack_sticker_frente_table_iu4h",
+        "nombre": "Sticker Frente Tableta",
         "unidad": "un",
         "cantidad": 1,
         "observaciones": ""
@@ -2162,7 +2236,7 @@
       "alfajoresProducidos": 1.5,
       "observaciones": ""
     },
-    "actualizadoEn": "2026-08-22T18:02:08.650Z"
+    "actualizadoEn": "2026-08-23T13:28:00.542Z"
   },
   {
     "id": "tableta-blanco-frutos",
@@ -2231,19 +2305,19 @@
         "observaciones": ""
       },
       {
-        "id": "ing_rec_1787421728675_r0g",
+        "id": "ing_rec_1787421728676_c6c",
         "seccion": "packaging",
-        "ingredienteId": "pack_sticker_fte_zrav",
-        "nombre": "Sticker frente",
+        "ingredienteId": "pack_bolsa_ieoc",
+        "nombre": "Bolsa",
         "unidad": "un",
         "cantidad": 1,
         "observaciones": ""
       },
       {
-        "id": "ing_rec_1787421728676_c6c",
+        "id": "item_1787491680549_qt3",
         "seccion": "packaging",
-        "ingredienteId": "pack_bolsa_ieoc",
-        "nombre": "Bolsa",
+        "ingredienteId": "pack_sticker_frente_table_iu4h",
+        "nombre": "Sticker Frente Tableta",
         "unidad": "un",
         "cantidad": 1,
         "observaciones": ""
@@ -2258,7 +2332,7 @@
       "alfajoresProducidos": 1.5,
       "observaciones": ""
     },
-    "actualizadoEn": "2026-08-22T18:02:08.650Z"
+    "actualizadoEn": "2026-08-23T13:28:00.543Z"
   },
   {
     "id": "tableta-semiamargo-almendras",
@@ -2318,19 +2392,19 @@
         "observaciones": ""
       },
       {
-        "id": "ing_rec_1787421728679_5p0",
+        "id": "ing_rec_1787421728680_3vj",
         "seccion": "packaging",
-        "ingredienteId": "pack_sticker_fte_zrav",
-        "nombre": "Sticker frente",
+        "ingredienteId": "pack_bolsa_ieoc",
+        "nombre": "Bolsa",
         "unidad": "un",
         "cantidad": 1,
         "observaciones": ""
       },
       {
-        "id": "ing_rec_1787421728680_3vj",
+        "id": "item_1787491680550_a7p",
         "seccion": "packaging",
-        "ingredienteId": "pack_bolsa_ieoc",
-        "nombre": "Bolsa",
+        "ingredienteId": "pack_sticker_frente_table_iu4h",
+        "nombre": "Sticker Frente Tableta",
         "unidad": "un",
         "cantidad": 1,
         "observaciones": ""
@@ -2345,7 +2419,7 @@
       "alfajoresProducidos": 1.5,
       "observaciones": ""
     },
-    "actualizadoEn": "2026-08-22T18:02:08.650Z"
+    "actualizadoEn": "2026-08-23T13:28:00.543Z"
   },
   {
     "id": "tableta-semiamargo-cacao",
@@ -2405,19 +2479,19 @@
         "observaciones": ""
       },
       {
-        "id": "ing_rec_1787421728683_c5n",
+        "id": "ing_rec_1787421728684_qu2",
         "seccion": "packaging",
-        "ingredienteId": "pack_sticker_fte_zrav",
-        "nombre": "Sticker frente",
+        "ingredienteId": "pack_bolsa_ieoc",
+        "nombre": "Bolsa",
         "unidad": "un",
         "cantidad": 1,
         "observaciones": ""
       },
       {
-        "id": "ing_rec_1787421728684_qu2",
+        "id": "item_1787491680551_e6q",
         "seccion": "packaging",
-        "ingredienteId": "pack_bolsa_ieoc",
-        "nombre": "Bolsa",
+        "ingredienteId": "pack_sticker_frente_table_iu4h",
+        "nombre": "Sticker Frente Tableta",
         "unidad": "un",
         "cantidad": 1,
         "observaciones": ""
@@ -2432,6 +2506,6 @@
       "alfajoresProducidos": 1.5,
       "observaciones": ""
     },
-    "actualizadoEn": "2026-08-22T18:02:08.650Z"
+    "actualizadoEn": "2026-08-23T13:28:00.543Z"
   }
 ]

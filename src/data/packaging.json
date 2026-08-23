@@ -153,10 +153,17 @@
     "nombre": "Papel parafinado",
     "unidad": "un",
     "observaciones": "",
-    "precio": 35,
+    "precio": 24,
     "fechaPrecio": "2026-08-22",
-    "observacionesPrecio": "",
+    "observacionesPrecio": "Viene en pack de 3",
     "historialPrecios": [
+      {
+        "fecha": "2026-08-22",
+        "precio": 24,
+        "unidad": "un",
+        "observaciones": "Viene en pack de 3",
+        "registradoEn": "2026-08-23T13:22:38.011Z"
+      },
       {
         "fecha": "2026-08-22",
         "precio": 35,
@@ -166,7 +173,7 @@
       }
     ],
     "creadoEn": "2026-08-22T16:53:04.368Z",
-    "actualizadoEn": "2026-08-22T16:54:16.574Z"
+    "actualizadoEn": "2026-08-23T13:22:38.078Z"
   },
   {
     "id": "pack_ogotapa_ewif",
@@ -254,5 +261,25 @@
     ],
     "creadoEn": "2026-08-22T17:53:53.600Z",
     "actualizadoEn": "2026-08-22T17:55:30.026Z"
+  },
+  {
+    "id": "pack_sticker_frente_table_iu4h",
+    "nombre": "Sticker Frente Tableta",
+    "unidad": "un",
+    "observaciones": "",
+    "precio": 300,
+    "fechaPrecio": "2026-08-23",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-23",
+        "precio": 300,
+        "unidad": "un",
+        "observaciones": "",
+        "registradoEn": "2026-08-23T13:24:54.383Z"
+      }
+    ],
+    "creadoEn": "2026-08-23T13:24:36.694Z",
+    "actualizadoEn": "2026-08-23T13:24:54.393Z"
   }
 ]
