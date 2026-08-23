@@ -152,7 +152,7 @@
         "observaciones": ""
       }
     ],
-    "actualizadoEn": "2026-08-23T15:34:46.342Z",
+    "actualizadoEn": "2026-08-23T17:13:19.542Z",
     "manoDeObra": {
       "fecha": "2026-08-20",
       "personalId": "per_maria_bmgt",
@@ -166,7 +166,18 @@
     "precios": {
       "margenPublico": 70,
       "margenRevendedor": 70,
-      "dtoRevendedor": 35
+      "dtoRevendedor": 35,
+      "historial": [
+        {
+          "fecha": "2026-08-23",
+          "margenPublico": 70,
+          "dtoRevendedor": 35,
+          "unidadesPorCaja": 0,
+          "costo": 1037.6003968253967,
+          "publico": 3500,
+          "revendedor": 2300
+        }
+      ]
     }
   },
   {
@@ -329,14 +340,25 @@
       "alfajoresProducidos": 3200,
       "observaciones": "Temporada baja"
     },
-    "actualizadoEn": "2026-08-23T15:55:34.366Z",
+    "actualizadoEn": "2026-08-23T17:13:19.542Z",
     "unidadRinde": "alfajores",
     "sinSecciones": [],
     "gramos": {},
     "precios": {
       "margenPublico": 64,
       "margenRevendedor": "",
-      "dtoRevendedor": 35
+      "dtoRevendedor": 35,
+      "historial": [
+        {
+          "fecha": "2026-08-23",
+          "margenPublico": 64,
+          "dtoRevendedor": 35,
+          "unidadesPorCaja": 0,
+          "costo": 1294.400396825397,
+          "publico": 3600,
+          "revendedor": 2400
+        }
+      ]
     }
   },
   {
@@ -490,13 +512,24 @@
       "alfajoresProducidos": 3200,
       "observaciones": "Temporada baja"
     },
-    "actualizadoEn": "2026-08-23T15:55:47.573Z",
+    "actualizadoEn": "2026-08-23T17:13:19.542Z",
     "unidadRinde": "alfajores",
     "gramos": {},
     "sinSecciones": [],
     "precios": {
       "margenPublico": 75,
-      "dtoRevendedor": 35
+      "dtoRevendedor": 35,
+      "historial": [
+        {
+          "fecha": "2026-08-23",
+          "margenPublico": 75,
+          "dtoRevendedor": 35,
+          "unidadesPorCaja": 0,
+          "costo": 700.9171481481482,
+          "publico": 2900,
+          "revendedor": 1900
+        }
+      ]
     }
   },
   {
@@ -659,13 +692,24 @@
       "alfajoresProducidos": 3200,
       "observaciones": "Temporada baja"
     },
-    "actualizadoEn": "2026-08-23T15:56:01.978Z",
+    "actualizadoEn": "2026-08-23T17:13:19.543Z",
     "unidadRinde": "alfajores",
     "gramos": {},
     "sinSecciones": [],
     "precios": {
       "margenPublico": 64,
-      "dtoRevendedor": 35
+      "dtoRevendedor": 35,
+      "historial": [
+        {
+          "fecha": "2026-08-23",
+          "margenPublico": 64,
+          "dtoRevendedor": 35,
+          "unidadesPorCaja": 0,
+          "costo": 1397.9952380952382,
+          "publico": 3900,
+          "revendedor": 2600
+        }
+      ]
     }
   },
   {
@@ -1103,7 +1147,7 @@
       "alfajoresProducidos": 3200,
       "observaciones": "Temporada baja"
     },
-    "actualizadoEn": "2026-08-23T15:56:11.551Z",
+    "actualizadoEn": "2026-08-23T17:13:19.543Z",
     "gramos": {
       "pasta-pistacho": 7,
       "praline-pistacho": 30
@@ -1112,7 +1156,18 @@
     "sinSecciones": [],
     "precios": {
       "margenPublico": 64,
-      "dtoRevendedor": 35
+      "dtoRevendedor": 35,
+      "historial": [
+        {
+          "fecha": "2026-08-23",
+          "margenPublico": 64,
+          "dtoRevendedor": 35,
+          "unidadesPorCaja": 0,
+          "costo": 1711.596373076923,
+          "publico": 4800,
+          "revendedor": 3200
+        }
+      ]
     }
   },
   {
@@ -1230,42 +1285,6 @@
         "unidad": "gr",
         "cantidad": 6,
         "observaciones": ""
-      },
-      {
-        "id": "ing_rec_1787416197053_n6h",
-        "seccion": "packaging",
-        "ingredienteId": "pack_papel_aluminio_6ksn",
-        "nombre": "Papel aluminio",
-        "unidad": "un",
-        "cantidad": 0,
-        "observaciones": ""
-      },
-      {
-        "id": "ing_rec_1787416197054_d7v",
-        "seccion": "packaging",
-        "ingredienteId": "pack_precinto_8ib7",
-        "nombre": "Precinto",
-        "unidad": "un",
-        "cantidad": 0,
-        "observaciones": ""
-      },
-      {
-        "id": "ing_rec_1787416197055_bwa",
-        "seccion": "packaging",
-        "ingredienteId": "pack_sticker_fte_zrav",
-        "nombre": "Sticker frente",
-        "unidad": "un",
-        "cantidad": 0,
-        "observaciones": ""
-      },
-      {
-        "id": "ing_rec_1787416197056_75y",
-        "seccion": "packaging",
-        "ingredienteId": "pack_sticker_dorso_s8fn",
-        "nombre": "Sticker Dorso",
-        "unidad": "un",
-        "cantidad": 0,
-        "observaciones": ""
       }
     ],
     "manoDeObra": {
@@ -1275,13 +1294,24 @@
       "alfajoresProducidos": 3200,
       "observaciones": "Temporada baja"
     },
-    "actualizadoEn": "2026-08-23T15:56:24.458Z",
+    "actualizadoEn": "2026-08-23T17:15:09.167Z",
     "gramos": {},
     "unidadRinde": "alfajores",
     "sinSecciones": [],
     "precios": {
       "margenPublico": 70,
-      "dtoRevendedor": 35
+      "dtoRevendedor": 35,
+      "historial": [
+        {
+          "fecha": "2026-08-23",
+          "margenPublico": 70,
+          "dtoRevendedor": 35,
+          "unidadesPorCaja": 0,
+          "costo": 535.8479629629629,
+          "publico": 1800,
+          "revendedor": 1200
+        }
+      ]
     }
   },
   {
@@ -1445,12 +1475,23 @@
       "observaciones": "Temporada baja"
     },
     "gramos": {},
-    "actualizadoEn": "2026-08-23T15:56:35.483Z",
+    "actualizadoEn": "2026-08-23T17:13:19.543Z",
     "unidadRinde": "alfajores",
     "sinSecciones": [],
     "precios": {
       "dtoRevendedor": 35,
-      "margenPublico": 64
+      "margenPublico": 64,
+      "historial": [
+        {
+          "fecha": "2026-08-23",
+          "margenPublico": 64,
+          "dtoRevendedor": 35,
+          "unidadesPorCaja": 0,
+          "costo": 664.2479629629629,
+          "publico": 1900,
+          "revendedor": 1300
+        }
+      ]
     }
   },
   {
@@ -1616,7 +1657,7 @@
       }
     ],
     "unidadRinde": "lata",
-    "actualizadoEn": "2026-08-22T22:25:42.046Z",
+    "actualizadoEn": "2026-08-23T17:13:19.543Z",
     "manoDeObra": {
       "fecha": "2026-08-20",
       "personalId": "per_juli_y1f3",
@@ -1627,7 +1668,22 @@
     "gramos": {},
     "sinSecciones": [
       "unitario"
-    ]
+    ],
+    "precios": {
+      "margenPublico": 54,
+      "dtoRevendedor": 35,
+      "historial": [
+        {
+          "fecha": "2026-08-23",
+          "margenPublico": 54,
+          "dtoRevendedor": 35,
+          "unidadesPorCaja": 0,
+          "costo": 17749.119092307694,
+          "publico": 38600,
+          "revendedor": 25100
+        }
+      ]
+    }
   },
   {
     "id": "tabletas-chocolate",
@@ -1714,7 +1770,20 @@
       "alfajoresProducidos": 1.5,
       "observaciones": ""
     },
-    "actualizadoEn": "2026-08-23T13:26:10.449Z"
+    "actualizadoEn": "2026-08-23T17:13:19.544Z",
+    "precios": {
+      "historial": [
+        {
+          "fecha": "2026-08-23",
+          "margenPublico": 0,
+          "dtoRevendedor": 0,
+          "unidadesPorCaja": 0,
+          "costo": 8474.835085470088,
+          "publico": null,
+          "revendedor": null
+        }
+      ]
+    }
   },
   {
     "id": "tableta-con-leche-avellana",
@@ -1792,7 +1861,20 @@
       "alfajoresProducidos": 1.5,
       "observaciones": ""
     },
-    "actualizadoEn": "2026-08-23T13:28:00.540Z"
+    "actualizadoEn": "2026-08-23T17:13:19.544Z",
+    "precios": {
+      "historial": [
+        {
+          "fecha": "2026-08-23",
+          "margenPublico": 0,
+          "dtoRevendedor": 0,
+          "unidadesPorCaja": 0,
+          "costo": 8796.270085470085,
+          "publico": null,
+          "revendedor": null
+        }
+      ]
+    }
   },
   {
     "id": "tableta-con-leche-marroc",
@@ -1879,7 +1961,20 @@
       "alfajoresProducidos": 1.5,
       "observaciones": ""
     },
-    "actualizadoEn": "2026-08-23T13:28:00.541Z"
+    "actualizadoEn": "2026-08-23T17:13:19.544Z",
+    "precios": {
+      "historial": [
+        {
+          "fecha": "2026-08-23",
+          "margenPublico": 0,
+          "dtoRevendedor": 0,
+          "unidadesPorCaja": 0,
+          "costo": 8506.470085470086,
+          "publico": null,
+          "revendedor": null
+        }
+      ]
+    }
   },
   {
     "id": "tableta-con-leche-garrapinada",
@@ -1993,7 +2088,20 @@
       "alfajoresProducidos": 1.5,
       "observaciones": ""
     },
-    "actualizadoEn": "2026-08-23T13:28:00.541Z"
+    "actualizadoEn": "2026-08-23T17:13:19.544Z",
+    "precios": {
+      "historial": [
+        {
+          "fecha": "2026-08-23",
+          "margenPublico": 0,
+          "dtoRevendedor": 0,
+          "unidadesPorCaja": 0,
+          "costo": 8564.862029914531,
+          "publico": null,
+          "revendedor": null
+        }
+      ]
+    }
   },
   {
     "id": "tableta-blanco-castana",
@@ -2071,7 +2179,20 @@
       "alfajoresProducidos": 1.5,
       "observaciones": ""
     },
-    "actualizadoEn": "2026-08-23T13:28:00.541Z"
+    "actualizadoEn": "2026-08-23T17:13:19.545Z",
+    "precios": {
+      "historial": [
+        {
+          "fecha": "2026-08-23",
+          "margenPublico": 0,
+          "dtoRevendedor": 0,
+          "unidadesPorCaja": 0,
+          "costo": 8600.025641025642,
+          "publico": null,
+          "revendedor": null
+        }
+      ]
+    }
   },
   {
     "id": "tableta-blanco-pistacho",
@@ -2149,7 +2270,20 @@
       "alfajoresProducidos": 1.5,
       "observaciones": ""
     },
-    "actualizadoEn": "2026-08-23T13:28:00.541Z"
+    "actualizadoEn": "2026-08-23T17:13:19.545Z",
+    "precios": {
+      "historial": [
+        {
+          "fecha": "2026-08-23",
+          "margenPublico": 0,
+          "dtoRevendedor": 0,
+          "unidadesPorCaja": 0,
+          "costo": 9051.970085470086,
+          "publico": null,
+          "revendedor": null
+        }
+      ]
+    }
   },
   {
     "id": "tableta-blanco-coco",
@@ -2236,7 +2370,20 @@
       "alfajoresProducidos": 1.5,
       "observaciones": ""
     },
-    "actualizadoEn": "2026-08-23T13:28:00.542Z"
+    "actualizadoEn": "2026-08-23T17:13:19.545Z",
+    "precios": {
+      "historial": [
+        {
+          "fecha": "2026-08-23",
+          "margenPublico": 0,
+          "dtoRevendedor": 0,
+          "unidadesPorCaja": 0,
+          "costo": 8201.981196581197,
+          "publico": null,
+          "revendedor": null
+        }
+      ]
+    }
   },
   {
     "id": "tableta-blanco-frutos",
@@ -2332,7 +2479,20 @@
       "alfajoresProducidos": 1.5,
       "observaciones": ""
     },
-    "actualizadoEn": "2026-08-23T13:28:00.543Z"
+    "actualizadoEn": "2026-08-23T17:13:19.545Z",
+    "precios": {
+      "historial": [
+        {
+          "fecha": "2026-08-23",
+          "margenPublico": 0,
+          "dtoRevendedor": 0,
+          "unidadesPorCaja": 0,
+          "costo": 8581.420085470087,
+          "publico": null,
+          "revendedor": null
+        }
+      ]
+    }
   },
   {
     "id": "tableta-semiamargo-almendras",
@@ -2419,7 +2579,20 @@
       "alfajoresProducidos": 1.5,
       "observaciones": ""
     },
-    "actualizadoEn": "2026-08-23T13:28:00.543Z"
+    "actualizadoEn": "2026-08-23T17:13:19.545Z",
+    "precios": {
+      "historial": [
+        {
+          "fecha": "2026-08-23",
+          "margenPublico": 0,
+          "dtoRevendedor": 0,
+          "unidadesPorCaja": 0,
+          "costo": 8474.231752136753,
+          "publico": null,
+          "revendedor": null
+        }
+      ]
+    }
   },
   {
     "id": "tableta-semiamargo-cacao",
@@ -2506,6 +2679,19 @@
       "alfajoresProducidos": 1.5,
       "observaciones": ""
     },
-    "actualizadoEn": "2026-08-23T13:28:00.543Z"
+    "actualizadoEn": "2026-08-23T17:13:19.545Z",
+    "precios": {
+      "historial": [
+        {
+          "fecha": "2026-08-23",
+          "margenPublico": 0,
+          "dtoRevendedor": 0,
+          "unidadesPorCaja": 0,
+          "costo": 8640.02564102564,
+          "publico": null,
+          "revendedor": null
+        }
+      ]
+    }
   }
 ]
