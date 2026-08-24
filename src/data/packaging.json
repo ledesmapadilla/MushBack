@@ -319,38 +319,5 @@
     ],
     "creadoEn": "2026-08-23T13:24:36.694Z",
     "actualizadoEn": "2026-08-23T13:24:54.393Z"
-  },
-  {
-    "id": "pack_caja_x6_hp13",
-    "nombre": "Caja x6",
-    "unidad": "un",
-    "observaciones": "",
-    "precio": 0,
-    "fechaPrecio": "",
-    "observacionesPrecio": "",
-    "historialPrecios": [],
-    "creadoEn": "2026-08-23T22:32:08.730Z"
-  },
-  {
-    "id": "pack_caja_x12_am3v",
-    "nombre": "Caja x12",
-    "unidad": "un",
-    "observaciones": "",
-    "precio": 0,
-    "fechaPrecio": "",
-    "observacionesPrecio": "",
-    "historialPrecios": [],
-    "creadoEn": "2026-08-23T22:32:17.397Z"
-  },
-  {
-    "id": "pack_caja_mini_7s34",
-    "nombre": "Caja mini",
-    "unidad": "un",
-    "observaciones": "",
-    "precio": 0,
-    "fechaPrecio": "",
-    "observacionesPrecio": "",
-    "historialPrecios": [],
-    "creadoEn": "2026-08-23T22:32:26.886Z"
   }
 ]

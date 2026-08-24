@@ -181,6 +181,16 @@ const datosDeVenta = (datos, previo = {}) => {
     emoji: tomar("emoji", ""),
     // Un producto que se dejo de vender no aparece en Precios ni en Ventas.
     activo: tomar("activo", true) !== false,
+    /**
+     * Lo que se carga en Lista de Precios: la ganancia que se quiere dejar
+     * vendiendo al publico, el descuento del revendedor y como fueron
+     * cambiando. Vive en el producto, que es lo que se vende; la receta solo
+     * dice como se hace.
+     */
+    precios:
+      datos.precios && typeof datos.precios === "object"
+        ? datos.precios
+        : (previo.precios || {}),
   };
 };
 
