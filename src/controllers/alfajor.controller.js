@@ -130,6 +130,7 @@ export const crearAlfajor = (req, res) => {
       nombre: nombre.trim(),
       categoria: categoria ? categoria.trim() : "Clásico",
       observaciones: observaciones ? observaciones.trim() : "",
+      ...datosDeVenta(req.body),
       creadoEn: new Date().toISOString(),
     };
 
@@ -148,6 +149,39 @@ export const crearAlfajor = (req, res) => {
       message: "Error interno del servidor al guardar alfajor.",
     });
   }
+};
+
+
+/**
+ * Lo que hace a un producto algo vendible: de que receta sale su costo y en que
+ * presentacion se vende.
+ *
+ * Una caja no es otra receta: es el mismo producto en otra presentacion. Por eso
+ * `receta` apunta a como se hace y `unidades` dice cuantas entran.
+ *
+ * Un guardado que no traiga estos campos no los borra: la pantalla de alta
+ * todavia edita solo el nombre y la categoria.
+ */
+const datosDeVenta = (datos, previo = {}) => {
+  const tomar = (campo, porDefecto) =>
+    datos[campo] !== undefined ? datos[campo] : previo[campo] !== undefined ? previo[campo] : porDefecto;
+
+  return {
+    // De donde sale el costo (el slug de la receta).
+    receta: tomar("receta", ""),
+    // "unidad" o "caja".
+    presentacion: tomar("presentacion", "unidad"),
+    // Cuantas unidades entran en la caja.
+    unidades: Number(tomar("unidades", 0)) || 0,
+    // El packaging de la caja, si lleva.
+    carton: tomar("carton", ""),
+    // Las cajas armadas llevan varios productos: [{ receta, cantidad }].
+    composicion: Array.isArray(tomar("composicion", null)) ? tomar("composicion", []) : [],
+    // Con que se lo reconoce en las listas.
+    emoji: tomar("emoji", ""),
+    // Un producto que se dejo de vender no aparece en Precios ni en Ventas.
+    activo: tomar("activo", true) !== false,
+  };
 };
 
 export const actualizarAlfajor = (req, res) => {
@@ -179,6 +213,7 @@ export const actualizarAlfajor = (req, res) => {
       nombre: nombre.trim(),
       categoria: categoria ? categoria.trim() : "Clásico",
       observaciones: observaciones ? observaciones.trim() : "",
+      ...datosDeVenta(req.body, alfajores[index]),
       actualizadoEn: new Date().toISOString(),
     };
 

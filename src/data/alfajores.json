@@ -5,7 +5,14 @@
     "categoria": "Alfajor",
     "observaciones": "",
     "creadoEn": "2026-08-19T23:51:30.494Z",
-    "actualizadoEn": "2026-08-20T00:01:20.747Z"
+    "actualizadoEn": "2026-08-24T00:36:12.213Z",
+    "receta": "clasico-semiamargo",
+    "presentacion": "unidad",
+    "unidades": 0,
+    "carton": "",
+    "composicion": [],
+    "emoji": "🍫",
+    "activo": true
   },
   {
     "id": "alf_clasico_blanco_ocw2",
@@ -13,28 +20,59 @@
     "categoria": "Alfajor",
     "observaciones": "",
     "creadoEn": "2026-08-19T23:54:41.288Z",
-    "actualizadoEn": "2026-08-21T23:21:16.171Z"
+    "actualizadoEn": "2026-08-24T00:36:12.213Z",
+    "receta": "clasico-blanco",
+    "presentacion": "unidad",
+    "unidades": 0,
+    "carton": "",
+    "composicion": [],
+    "emoji": "🥛",
+    "activo": true
   },
   {
     "id": "alf_maicena_88ty",
     "nombre": "Maicena",
     "categoria": "Alfajor",
     "observaciones": "",
-    "creadoEn": "2026-08-19T23:55:09.857Z"
+    "creadoEn": "2026-08-19T23:55:09.857Z",
+    "receta": "maicena",
+    "presentacion": "unidad",
+    "unidades": 0,
+    "carton": "",
+    "composicion": [],
+    "emoji": "🌽",
+    "activo": true,
+    "actualizadoEn": "2026-08-24T00:36:12.213Z"
   },
   {
     "id": "alf_alfajor_de_nuez_kilk",
     "nombre": "Alfajor de Nuez",
     "categoria": "Alfajor",
     "observaciones": "",
-    "creadoEn": "2026-08-19T23:55:30.777Z"
+    "creadoEn": "2026-08-19T23:55:30.777Z",
+    "receta": "alfajor-de-nuez",
+    "presentacion": "unidad",
+    "unidades": 0,
+    "carton": "",
+    "composicion": [],
+    "emoji": "🌰",
+    "activo": true,
+    "actualizadoEn": "2026-08-24T00:36:12.213Z"
   },
   {
     "id": "alf_alfajor_de_pistacho_3r4n",
     "nombre": "Alfajor de Pistacho",
     "categoria": "Alfajor",
     "observaciones": "",
-    "creadoEn": "2026-08-19T23:56:39.171Z"
+    "creadoEn": "2026-08-19T23:56:39.171Z",
+    "receta": "alfajor-de-pistacho",
+    "presentacion": "unidad",
+    "unidades": 0,
+    "carton": "",
+    "composicion": [],
+    "emoji": "🟢",
+    "activo": true,
+    "actualizadoEn": "2026-08-24T00:36:12.213Z"
   },
   {
     "id": "alf_mini_semi_buoa",
@@ -42,7 +80,14 @@
     "categoria": "Mini",
     "observaciones": "",
     "creadoEn": "2026-08-19T23:57:22.502Z",
-    "actualizadoEn": "2026-08-22T16:30:12.796Z"
+    "actualizadoEn": "2026-08-24T00:36:12.213Z",
+    "receta": "mini-semi",
+    "presentacion": "unidad",
+    "unidades": 0,
+    "carton": "",
+    "composicion": [],
+    "emoji": "🍪",
+    "activo": true
   },
   {
     "id": "alf_mini_blanco_ued9",
@@ -50,7 +95,14 @@
     "categoria": "Mini",
     "observaciones": "",
     "creadoEn": "2026-08-19T23:57:53.472Z",
-    "actualizadoEn": "2026-08-20T00:11:12.226Z"
+    "actualizadoEn": "2026-08-24T00:36:12.213Z",
+    "receta": "mini-blanco",
+    "presentacion": "unidad",
+    "unidades": 0,
+    "carton": "",
+    "composicion": [],
+    "emoji": "🤍",
+    "activo": true
   },
   {
     "id": "alf_clasico_semiamargo_c_dhwo",
@@ -58,7 +110,14 @@
     "categoria": "Caja",
     "observaciones": "",
     "creadoEn": "2026-08-20T00:00:54.046Z",
-    "actualizadoEn": "2026-08-20T00:11:18.074Z"
+    "actualizadoEn": "2026-08-24T00:36:12.213Z",
+    "receta": "clasico-semiamargo",
+    "presentacion": "caja",
+    "unidades": 6,
+    "carton": "pack_caja_de_carton_por_6_6naz",
+    "composicion": [],
+    "emoji": "🍫",
+    "activo": true
   },
   {
     "id": "alf_clasico_blanco_caja__8m02",
@@ -66,7 +125,14 @@
     "categoria": "Caja",
     "observaciones": "",
     "creadoEn": "2026-08-20T00:01:13.493Z",
-    "actualizadoEn": "2026-08-20T00:11:25.408Z"
+    "actualizadoEn": "2026-08-24T00:36:12.213Z",
+    "receta": "clasico-blanco",
+    "presentacion": "caja",
+    "unidades": 6,
+    "carton": "pack_caja_de_carton_por_6_6naz",
+    "composicion": [],
+    "emoji": "🥛",
+    "activo": true
   },
   {
     "id": "alf_maicena_caja_x_6__gn3e",
@@ -74,7 +140,14 @@
     "categoria": "Caja",
     "observaciones": "",
     "creadoEn": "2026-08-20T00:01:47.991Z",
-    "actualizadoEn": "2026-08-20T00:11:31.110Z"
+    "actualizadoEn": "2026-08-24T00:36:12.213Z",
+    "receta": "maicena",
+    "presentacion": "caja",
+    "unidades": 6,
+    "carton": "pack_caja_de_carton_por_6_6naz",
+    "composicion": [],
+    "emoji": "🌽",
+    "activo": true
   },
   {
     "id": "alf_alfajor_de_nuez_caja_m2uu",
@@ -82,84 +155,239 @@
     "categoria": "Caja",
     "observaciones": "",
     "creadoEn": "2026-08-20T00:02:10.570Z",
-    "actualizadoEn": "2026-08-20T00:11:36.798Z"
+    "actualizadoEn": "2026-08-24T00:36:12.213Z",
+    "receta": "alfajor-de-nuez",
+    "presentacion": "caja",
+    "unidades": 6,
+    "carton": "pack_caja_de_carton_por_6_6naz",
+    "composicion": [],
+    "emoji": "🌰",
+    "activo": true
   },
   {
     "id": "alf_alfajor_de_pistacho__cu3e",
     "nombre": "Alfajor de Pistacho (CAJA x 6)",
     "categoria": "Caja",
     "observaciones": "",
-    "creadoEn": "2026-08-20T00:07:41.756Z"
+    "creadoEn": "2026-08-20T00:07:41.756Z",
+    "receta": "alfajor-de-pistacho",
+    "presentacion": "caja",
+    "unidades": 6,
+    "carton": "pack_caja_de_carton_por_6_6naz",
+    "composicion": [],
+    "emoji": "🟢",
+    "activo": true,
+    "actualizadoEn": "2026-08-24T00:36:12.213Z"
   },
   {
     "id": "alf_alfajores_surtidos_c_1ivr",
     "nombre": "Alfajores Surtidos (CAJA x 6)",
     "categoria": "Caja",
     "observaciones": "",
-    "creadoEn": "2026-08-20T00:08:20.193Z"
+    "creadoEn": "2026-08-20T00:08:20.193Z",
+    "receta": "surtidos",
+    "presentacion": "caja",
+    "unidades": 6,
+    "carton": "pack_caja_de_carton_por_6_6naz",
+    "composicion": [
+      {
+        "receta": "clasico-semiamargo",
+        "cantidad": 1
+      },
+      {
+        "receta": "clasico-blanco",
+        "cantidad": 1
+      },
+      {
+        "receta": "alfajor-de-nuez",
+        "cantidad": 1
+      },
+      {
+        "receta": "alfajor-de-pistacho",
+        "cantidad": 1
+      },
+      {
+        "receta": "maicena",
+        "cantidad": 2
+      }
+    ],
+    "emoji": "🎁",
+    "activo": true,
+    "actualizadoEn": "2026-08-24T00:36:12.213Z"
   },
   {
     "id": "alf_alfajores_mixtos_caj_fi6m",
     "nombre": "Alfajores Mixtos (CAJA x 6)",
     "categoria": "Caja",
     "observaciones": "",
-    "creadoEn": "2026-08-20T00:12:13.424Z"
+    "creadoEn": "2026-08-20T00:12:13.424Z",
+    "receta": "mixtos",
+    "presentacion": "caja",
+    "unidades": 6,
+    "carton": "pack_caja_de_carton_por_6_6naz",
+    "composicion": [
+      {
+        "receta": "clasico-semiamargo",
+        "cantidad": 3
+      },
+      {
+        "receta": "clasico-blanco",
+        "cantidad": 3
+      }
+    ],
+    "emoji": "🍬",
+    "activo": true,
+    "actualizadoEn": "2026-08-24T00:36:12.213Z"
   },
   {
     "id": "alf_clasico_semiamargo_c_vnxt",
     "nombre": "Clasico semiamargo (CAJA x 12)",
     "categoria": "Caja",
     "observaciones": "",
-    "creadoEn": "2026-08-20T00:12:58.572Z"
+    "creadoEn": "2026-08-20T00:12:58.572Z",
+    "receta": "clasico-semiamargo",
+    "presentacion": "caja",
+    "unidades": 12,
+    "carton": "pack_caja_de_carton_por_1_ac5z",
+    "composicion": [],
+    "emoji": "🍫",
+    "activo": true,
+    "actualizadoEn": "2026-08-24T00:36:12.213Z"
   },
   {
     "id": "alf_clasico_blanco_caja__24x4",
     "nombre": "Clasico Blanco (CAJA x 12)",
     "categoria": "Caja",
     "observaciones": "",
-    "creadoEn": "2026-08-20T00:13:18.377Z"
+    "creadoEn": "2026-08-20T00:13:18.377Z",
+    "receta": "clasico-blanco",
+    "presentacion": "caja",
+    "unidades": 12,
+    "carton": "pack_caja_de_carton_por_1_ac5z",
+    "composicion": [],
+    "emoji": "🥛",
+    "activo": true,
+    "actualizadoEn": "2026-08-24T00:36:12.213Z"
   },
   {
     "id": "alf_maicena_caja_x_12__ypcj",
     "nombre": "Maicena (CAJA x 12)",
     "categoria": "Caja",
     "observaciones": "",
-    "creadoEn": "2026-08-20T00:13:33.262Z"
+    "creadoEn": "2026-08-20T00:13:33.262Z",
+    "receta": "maicena",
+    "presentacion": "caja",
+    "unidades": 12,
+    "carton": "pack_caja_de_carton_por_1_ac5z",
+    "composicion": [],
+    "emoji": "🌽",
+    "activo": true,
+    "actualizadoEn": "2026-08-24T00:36:12.213Z"
   },
   {
     "id": "alf_alfajor_de_nuez_caja_w03v",
     "nombre": "Alfajor de Nuez (CAJA x 12)",
     "categoria": "Caja",
     "observaciones": "",
-    "creadoEn": "2026-08-20T00:13:49.525Z"
+    "creadoEn": "2026-08-20T00:13:49.525Z",
+    "receta": "alfajor-de-nuez",
+    "presentacion": "caja",
+    "unidades": 12,
+    "carton": "pack_caja_de_carton_por_1_ac5z",
+    "composicion": [],
+    "emoji": "🌰",
+    "activo": true,
+    "actualizadoEn": "2026-08-24T00:36:12.213Z"
   },
   {
     "id": "alf_alfajor_de_pistacho__vjax",
     "nombre": "Alfajor de Pistacho (CAJA x 12)",
     "categoria": "Caja",
     "observaciones": "",
-    "creadoEn": "2026-08-20T00:14:09.138Z"
+    "creadoEn": "2026-08-20T00:14:09.138Z",
+    "receta": "alfajor-de-pistacho",
+    "presentacion": "caja",
+    "unidades": 12,
+    "carton": "pack_caja_de_carton_por_1_ac5z",
+    "composicion": [],
+    "emoji": "🟢",
+    "activo": true,
+    "actualizadoEn": "2026-08-24T00:36:12.213Z"
   },
   {
     "id": "alf_alfajores_surtidos_c_dgwi",
     "nombre": "Alfajores Surtidos (CAJA x 12)",
     "categoria": "Caja",
     "observaciones": "",
-    "creadoEn": "2026-08-20T00:14:30.972Z"
+    "creadoEn": "2026-08-20T00:14:30.972Z",
+    "receta": "surtidos",
+    "presentacion": "caja",
+    "unidades": 12,
+    "carton": "pack_caja_de_carton_por_1_ac5z",
+    "composicion": [
+      {
+        "receta": "clasico-semiamargo",
+        "cantidad": 2
+      },
+      {
+        "receta": "clasico-blanco",
+        "cantidad": 2
+      },
+      {
+        "receta": "alfajor-de-nuez",
+        "cantidad": 2
+      },
+      {
+        "receta": "alfajor-de-pistacho",
+        "cantidad": 2
+      },
+      {
+        "receta": "maicena",
+        "cantidad": 4
+      }
+    ],
+    "emoji": "🎁",
+    "activo": true,
+    "actualizadoEn": "2026-08-24T00:36:12.213Z"
   },
   {
     "id": "alf_alfajores_mixtos_caj_mgok",
     "nombre": "Alfajores Mixtos (CAJA x 12)",
     "categoria": "Caja",
     "observaciones": "",
-    "creadoEn": "2026-08-20T00:14:49.626Z"
+    "creadoEn": "2026-08-20T00:14:49.626Z",
+    "receta": "mixtos",
+    "presentacion": "caja",
+    "unidades": 12,
+    "carton": "pack_caja_de_carton_por_1_ac5z",
+    "composicion": [
+      {
+        "receta": "clasico-semiamargo",
+        "cantidad": 6
+      },
+      {
+        "receta": "clasico-blanco",
+        "cantidad": 6
+      }
+    ],
+    "emoji": "🍬",
+    "activo": true,
+    "actualizadoEn": "2026-08-24T00:36:12.213Z"
   },
   {
     "id": "alf_mini_semi_caja_x_12__0hkk",
     "nombre": "Mini Semi (CAJA x 12)",
     "categoria": "Caja",
     "observaciones": "",
-    "creadoEn": "2026-08-20T00:15:37.594Z"
+    "creadoEn": "2026-08-20T00:15:37.594Z",
+    "receta": "mini-semi",
+    "presentacion": "caja",
+    "unidades": 12,
+    "carton": "pack_caja_mini_uv3g",
+    "composicion": [],
+    "emoji": "🍪",
+    "activo": true,
+    "actualizadoEn": "2026-08-24T00:36:12.213Z"
   },
   {
     "id": "alf_mini_blanco_caja_x_1_s59l",
@@ -167,21 +395,62 @@
     "categoria": "Caja",
     "observaciones": "",
     "creadoEn": "2026-08-20T00:16:01.269Z",
-    "actualizadoEn": "2026-08-20T00:16:34.878Z"
+    "actualizadoEn": "2026-08-24T00:36:12.213Z",
+    "receta": "mini-mixto",
+    "presentacion": "caja",
+    "unidades": 12,
+    "carton": "pack_caja_mini_uv3g",
+    "composicion": [
+      {
+        "receta": "mini-semi",
+        "cantidad": 6
+      },
+      {
+        "receta": "mini-blanco",
+        "cantidad": 6
+      }
+    ],
+    "emoji": "🍡",
+    "activo": true
   },
   {
     "id": "alf_mini_semi_caja_x_36__ptvf",
-    "nombre": "Mini Semi (CAJA x 36)",
+    "nombre": "Mini Semi (CAJA x 30)",
     "categoria": "Caja",
     "observaciones": "",
-    "creadoEn": "2026-08-20T00:16:59.662Z"
+    "creadoEn": "2026-08-20T00:16:59.662Z",
+    "receta": "mini-semi",
+    "presentacion": "caja",
+    "unidades": 30,
+    "carton": "pack_caja_de_carton_por_1_ac5z",
+    "composicion": [],
+    "emoji": "🍪",
+    "activo": true,
+    "actualizadoEn": "2026-08-24T00:41:04.720Z"
   },
   {
     "id": "alf_alfajores_mixtos_caj_ia8p",
     "nombre": "Alfajores Mixtos (CAJA x 30)",
     "categoria": "Caja",
     "observaciones": "",
-    "creadoEn": "2026-08-20T00:17:44.442Z"
+    "creadoEn": "2026-08-20T00:17:44.442Z",
+    "receta": "mini-mixto",
+    "presentacion": "caja",
+    "unidades": 30,
+    "carton": "pack_caja_de_carton_por_1_ac5z",
+    "composicion": [
+      {
+        "receta": "mini-semi",
+        "cantidad": 15
+      },
+      {
+        "receta": "mini-blanco",
+        "cantidad": 15
+      }
+    ],
+    "emoji": "🍡",
+    "activo": true,
+    "actualizadoEn": "2026-08-24T00:36:12.213Z"
   },
   {
     "id": "alf_mendiant_quba",
@@ -189,7 +458,14 @@
     "categoria": "Lata",
     "observaciones": "",
     "creadoEn": "2026-08-20T00:18:06.736Z",
-    "actualizadoEn": "2026-08-20T00:19:42.377Z"
+    "actualizadoEn": "2026-08-24T00:36:12.213Z",
+    "receta": "mendiant",
+    "presentacion": "unidad",
+    "unidades": 0,
+    "carton": "",
+    "composicion": [],
+    "emoji": "🙇",
+    "activo": true
   },
   {
     "id": "alf_tabletas_chocolate_h8ax",
@@ -197,7 +473,14 @@
     "categoria": "Tableta",
     "observaciones": "",
     "creadoEn": "2026-08-20T00:18:30.994Z",
-    "actualizadoEn": "2026-08-20T00:20:02.572Z"
+    "actualizadoEn": "2026-08-24T00:36:12.213Z",
+    "receta": "tabletas-chocolate",
+    "presentacion": "unidad",
+    "unidades": 0,
+    "carton": "",
+    "composicion": [],
+    "emoji": "🟫",
+    "activo": true
   },
   {
     "id": "alf_pack_sabores_y0l1",
