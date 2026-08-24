@@ -152,7 +152,7 @@
         "observaciones": ""
       }
     ],
-    "actualizadoEn": "2026-08-23T17:13:19.542Z",
+    "actualizadoEn": "2026-08-23T23:26:25.073Z",
     "manoDeObra": {
       "fecha": "2026-08-20",
       "personalId": "per_maria_bmgt",
@@ -176,6 +176,40 @@
           "costo": 1037.6003968253967,
           "publico": 3500,
           "revendedor": 2300
+        }
+      ],
+      "cajas": [
+        {
+          "unidadesPorCaja": 6,
+          "margenPublico": 64,
+          "historial": [
+            {
+              "fecha": "2026-08-23",
+              "margenPublico": 64,
+              "dtoRevendedor": 35,
+              "unidadesPorCaja": 6,
+              "costo": 6871.60238095238,
+              "publico": 19100,
+              "revendedor": 12500
+            }
+          ],
+          "dtoRevendedor": 35
+        },
+        {
+          "unidadesPorCaja": 12,
+          "dtoRevendedor": 35,
+          "historial": [
+            {
+              "fecha": "2026-08-23",
+              "margenPublico": 64,
+              "dtoRevendedor": 35,
+              "unidadesPorCaja": 12,
+              "costo": 13122.20476190476,
+              "publico": 36500,
+              "revendedor": 23800
+            }
+          ],
+          "margenPublico": 64
         }
       ]
     }
@@ -340,7 +374,7 @@
       "alfajoresProducidos": 3200,
       "observaciones": "Temporada baja"
     },
-    "actualizadoEn": "2026-08-23T17:13:19.542Z",
+    "actualizadoEn": "2026-08-23T23:26:25.073Z",
     "unidadRinde": "alfajores",
     "sinSecciones": [],
     "gramos": {},
@@ -357,6 +391,40 @@
           "costo": 1294.400396825397,
           "publico": 3600,
           "revendedor": 2400
+        }
+      ],
+      "cajas": [
+        {
+          "unidadesPorCaja": 6,
+          "dtoRevendedor": 35,
+          "historial": [
+            {
+              "fecha": "2026-08-23",
+              "margenPublico": 60,
+              "dtoRevendedor": 35,
+              "unidadesPorCaja": 6,
+              "costo": 8412.402380952382,
+              "publico": 21100,
+              "revendedor": 13800
+            }
+          ],
+          "margenPublico": 60
+        },
+        {
+          "unidadesPorCaja": 12,
+          "dtoRevendedor": 35,
+          "historial": [
+            {
+              "fecha": "2026-08-23",
+              "margenPublico": 60,
+              "dtoRevendedor": 35,
+              "unidadesPorCaja": 12,
+              "costo": 16203.804761904763,
+              "publico": 40600,
+              "revendedor": 26400
+            }
+          ],
+          "margenPublico": 60
         }
       ]
     }
@@ -512,7 +580,7 @@
       "alfajoresProducidos": 3200,
       "observaciones": "Temporada baja"
     },
-    "actualizadoEn": "2026-08-23T17:13:19.542Z",
+    "actualizadoEn": "2026-08-23T23:26:25.073Z",
     "unidadRinde": "alfajores",
     "gramos": {},
     "sinSecciones": [],
@@ -528,6 +596,40 @@
           "costo": 700.9171481481482,
           "publico": 2900,
           "revendedor": 1900
+        }
+      ],
+      "cajas": [
+        {
+          "unidadesPorCaja": 6,
+          "dtoRevendedor": 35,
+          "historial": [
+            {
+              "fecha": "2026-08-23",
+              "margenPublico": 70,
+              "dtoRevendedor": 35,
+              "unidadesPorCaja": 6,
+              "costo": 4851.502888888889,
+              "publico": 16200,
+              "revendedor": 10600
+            }
+          ],
+          "margenPublico": 70
+        },
+        {
+          "unidadesPorCaja": 12,
+          "dtoRevendedor": 35,
+          "historial": [
+            {
+              "fecha": "2026-08-23",
+              "margenPublico": 70,
+              "dtoRevendedor": 35,
+              "unidadesPorCaja": 12,
+              "costo": 9082.005777777778,
+              "publico": 30300,
+              "revendedor": 19700
+            }
+          ],
+          "margenPublico": 70
         }
       ]
     }
@@ -692,7 +794,7 @@
       "alfajoresProducidos": 3200,
       "observaciones": "Temporada baja"
     },
-    "actualizadoEn": "2026-08-23T17:13:19.543Z",
+    "actualizadoEn": "2026-08-23T23:26:25.073Z",
     "unidadRinde": "alfajores",
     "gramos": {},
     "sinSecciones": [],
@@ -708,6 +810,40 @@
           "costo": 1397.9952380952382,
           "publico": 3900,
           "revendedor": 2600
+        }
+      ],
+      "cajas": [
+        {
+          "unidadesPorCaja": 6,
+          "dtoRevendedor": 35,
+          "historial": [
+            {
+              "fecha": "2026-08-23",
+              "margenPublico": 61,
+              "dtoRevendedor": 35,
+              "unidadesPorCaja": 6,
+              "costo": 9033.971428571429,
+              "publico": 23200,
+              "revendedor": 15100
+            }
+          ],
+          "margenPublico": 61
+        },
+        {
+          "unidadesPorCaja": 12,
+          "dtoRevendedor": 35,
+          "historial": [
+            {
+              "fecha": "2026-08-23",
+              "margenPublico": 60,
+              "dtoRevendedor": 35,
+              "unidadesPorCaja": 12,
+              "costo": 17446.942857142858,
+              "publico": 43700,
+              "revendedor": 28500
+            }
+          ],
+          "margenPublico": 60
         }
       ]
     }
@@ -1147,7 +1283,7 @@
       "alfajoresProducidos": 3200,
       "observaciones": "Temporada baja"
     },
-    "actualizadoEn": "2026-08-23T17:13:19.543Z",
+    "actualizadoEn": "2026-08-23T23:26:25.073Z",
     "gramos": {
       "pasta-pistacho": 7,
       "praline-pistacho": 30
@@ -1166,6 +1302,40 @@
           "costo": 1711.596373076923,
           "publico": 4800,
           "revendedor": 3200
+        }
+      ],
+      "cajas": [
+        {
+          "unidadesPorCaja": 6,
+          "dtoRevendedor": 35,
+          "historial": [
+            {
+              "fecha": "2026-08-23",
+              "margenPublico": 61,
+              "dtoRevendedor": 35,
+              "unidadesPorCaja": 6,
+              "costo": 10915.578238461538,
+              "publico": 28000,
+              "revendedor": 18200
+            }
+          ],
+          "margenPublico": 61
+        },
+        {
+          "unidadesPorCaja": 12,
+          "dtoRevendedor": 35,
+          "historial": [
+            {
+              "fecha": "2026-08-23",
+              "margenPublico": 61,
+              "dtoRevendedor": 35,
+              "unidadesPorCaja": 12,
+              "costo": 21210.156476923075,
+              "publico": 54400,
+              "revendedor": 35400
+            }
+          ],
+          "margenPublico": 61
         }
       ]
     }
@@ -1294,7 +1464,7 @@
       "alfajoresProducidos": 3200,
       "observaciones": "Temporada baja"
     },
-    "actualizadoEn": "2026-08-23T17:15:09.167Z",
+    "actualizadoEn": "2026-08-23T23:26:25.075Z",
     "gramos": {},
     "unidadRinde": "alfajores",
     "sinSecciones": [],
@@ -1310,6 +1480,40 @@
           "costo": 535.8479629629629,
           "publico": 1800,
           "revendedor": 1200
+        }
+      ],
+      "cajas": [
+        {
+          "unidadesPorCaja": 12,
+          "dtoRevendedor": 35,
+          "historial": [
+            {
+              "fecha": "2026-08-23",
+              "margenPublico": 64,
+              "dtoRevendedor": 35,
+              "unidadesPorCaja": 12,
+              "costo": 6990.175555555556,
+              "publico": 19500,
+              "revendedor": 12700
+            }
+          ],
+          "margenPublico": 64
+        },
+        {
+          "unidadesPorCaja": 30,
+          "dtoRevendedor": 35,
+          "historial": [
+            {
+              "fecha": "2026-08-23",
+              "margenPublico": 68,
+              "dtoRevendedor": 35,
+              "unidadesPorCaja": 30,
+              "costo": 16746.438888888886,
+              "publico": 52400,
+              "revendedor": 34100
+            }
+          ],
+          "margenPublico": 68
         }
       ]
     }
@@ -1475,7 +1679,7 @@
       "observaciones": "Temporada baja"
     },
     "gramos": {},
-    "actualizadoEn": "2026-08-23T17:13:19.543Z",
+    "actualizadoEn": "2026-08-23T22:26:38.415Z",
     "unidadRinde": "alfajores",
     "sinSecciones": [],
     "precios": {
@@ -1692,7 +1896,44 @@
     "categoria": "Alfajor",
     "rinde": 60,
     "observaciones": "",
-    "ingredientes": []
+    "ingredientes": [],
+    "precios": {
+      "margenPublico": 59,
+      "historial": [
+        {
+          "fecha": "2026-08-23",
+          "margenPublico": 59,
+          "dtoRevendedor": 35,
+          "unidadesPorCaja": 0,
+          "costo": 6866.132245726496,
+          "publico": 16800,
+          "revendedor": 11000
+        }
+      ],
+      "dtoRevendedor": 35,
+      "cajas": [
+        {
+          "dtoRevendedor": 35,
+          "historial": [
+            {
+              "fecha": "2026-08-23",
+              "margenPublico": 59,
+              "dtoRevendedor": 35,
+              "unidadesPorCaja": 0,
+              "costo": 6866.132245726496,
+              "publico": 16800,
+              "revendedor": 11000
+            }
+          ],
+          "margenPublico": 59
+        }
+      ]
+    },
+    "actualizadoEn": "2026-08-23T23:26:25.076Z",
+    "unidadRinde": "alfajores",
+    "sinSecciones": [],
+    "gramos": {},
+    "manoDeObra": {}
   },
   {
     "id": "tableta-con-leche-krispi",
@@ -1764,25 +2005,26 @@
     "creadoEn": "2026-08-22T17:18:48.762Z",
     "gramos": {},
     "manoDeObra": {
-      "fecha": "2026-08-22",
+      "fecha": "2026-08-23",
       "personalId": "per_juli_y1f3",
       "mensual": 700000,
-      "alfajoresProducidos": 1.5,
+      "alfajoresProducidos": 2.5,
       "observaciones": ""
     },
-    "actualizadoEn": "2026-08-23T17:13:19.544Z",
+    "actualizadoEn": "2026-08-23T21:38:27.880Z",
     "precios": {
       "historial": [
         {
           "fecha": "2026-08-23",
-          "margenPublico": 0,
+          "margenPublico": 59,
           "dtoRevendedor": 0,
           "unidadesPorCaja": 0,
-          "costo": 8474.835085470088,
-          "publico": null,
-          "revendedor": null
+          "costo": 6751.758162393164,
+          "publico": 16500,
+          "revendedor": 16500
         }
-      ]
+      ],
+      "margenPublico": 59
     }
   },
   {
@@ -1855,13 +2097,13 @@
     "creadoEn": "2026-08-22T17:18:48.762Z",
     "gramos": {},
     "manoDeObra": {
-      "fecha": "2026-08-22",
+      "fecha": "2026-08-23",
       "personalId": "per_juli_y1f3",
       "mensual": 700000,
-      "alfajoresProducidos": 1.5,
+      "alfajoresProducidos": 2.5,
       "observaciones": ""
     },
-    "actualizadoEn": "2026-08-23T17:13:19.544Z",
+    "actualizadoEn": "2026-08-23T21:38:27.881Z",
     "precios": {
       "historial": [
         {
@@ -1869,7 +2111,7 @@
           "margenPublico": 0,
           "dtoRevendedor": 0,
           "unidadesPorCaja": 0,
-          "costo": 8796.270085470085,
+          "costo": 7073.193162393163,
           "publico": null,
           "revendedor": null
         }
@@ -1955,13 +2197,13 @@
     "creadoEn": "2026-08-22T17:18:48.762Z",
     "gramos": {},
     "manoDeObra": {
-      "fecha": "2026-08-22",
+      "fecha": "2026-08-23",
       "personalId": "per_juli_y1f3",
       "mensual": 700000,
-      "alfajoresProducidos": 1.5,
+      "alfajoresProducidos": 2.5,
       "observaciones": ""
     },
-    "actualizadoEn": "2026-08-23T17:13:19.544Z",
+    "actualizadoEn": "2026-08-23T21:38:27.881Z",
     "precios": {
       "historial": [
         {
@@ -1969,7 +2211,7 @@
           "margenPublico": 0,
           "dtoRevendedor": 0,
           "unidadesPorCaja": 0,
-          "costo": 8506.470085470086,
+          "costo": 6783.393162393162,
           "publico": null,
           "revendedor": null
         }
@@ -2085,10 +2327,10 @@
       "fecha": "2026-08-23",
       "personalId": "per_juli_y1f3",
       "mensual": 700000,
-      "alfajoresProducidos": 1.5,
+      "alfajoresProducidos": 2.5,
       "observaciones": ""
     },
-    "actualizadoEn": "2026-08-23T17:13:19.544Z",
+    "actualizadoEn": "2026-08-23T21:38:27.882Z",
     "precios": {
       "historial": [
         {
@@ -2096,7 +2338,7 @@
           "margenPublico": 0,
           "dtoRevendedor": 0,
           "unidadesPorCaja": 0,
-          "costo": 8564.862029914531,
+          "costo": 6841.785106837608,
           "publico": null,
           "revendedor": null
         }
@@ -2173,13 +2415,13 @@
     "creadoEn": "2026-08-22T17:18:48.762Z",
     "gramos": {},
     "manoDeObra": {
-      "fecha": "2026-08-22",
+      "fecha": "2026-08-23",
       "personalId": "per_juli_y1f3",
       "mensual": 700000,
-      "alfajoresProducidos": 1.5,
+      "alfajoresProducidos": 2.5,
       "observaciones": ""
     },
-    "actualizadoEn": "2026-08-23T17:13:19.545Z",
+    "actualizadoEn": "2026-08-23T21:38:27.883Z",
     "precios": {
       "historial": [
         {
@@ -2187,7 +2429,7 @@
           "margenPublico": 0,
           "dtoRevendedor": 0,
           "unidadesPorCaja": 0,
-          "costo": 8600.025641025642,
+          "costo": 6876.948717948719,
           "publico": null,
           "revendedor": null
         }
@@ -2264,13 +2506,13 @@
     "creadoEn": "2026-08-22T17:18:48.762Z",
     "gramos": {},
     "manoDeObra": {
-      "fecha": "2026-08-22",
+      "fecha": "2026-08-23",
       "personalId": "per_juli_y1f3",
       "mensual": 700000,
-      "alfajoresProducidos": 1.5,
+      "alfajoresProducidos": 2.5,
       "observaciones": ""
     },
-    "actualizadoEn": "2026-08-23T17:13:19.545Z",
+    "actualizadoEn": "2026-08-23T21:38:27.883Z",
     "precios": {
       "historial": [
         {
@@ -2278,7 +2520,7 @@
           "margenPublico": 0,
           "dtoRevendedor": 0,
           "unidadesPorCaja": 0,
-          "costo": 9051.970085470086,
+          "costo": 7328.893162393162,
           "publico": null,
           "revendedor": null
         }
@@ -2364,13 +2606,13 @@
     "creadoEn": "2026-08-22T17:18:48.762Z",
     "gramos": {},
     "manoDeObra": {
-      "fecha": "2026-08-22",
+      "fecha": "2026-08-23",
       "personalId": "per_juli_y1f3",
       "mensual": 700000,
-      "alfajoresProducidos": 1.5,
+      "alfajoresProducidos": 2.5,
       "observaciones": ""
     },
-    "actualizadoEn": "2026-08-23T17:13:19.545Z",
+    "actualizadoEn": "2026-08-23T21:38:27.883Z",
     "precios": {
       "historial": [
         {
@@ -2378,7 +2620,7 @@
           "margenPublico": 0,
           "dtoRevendedor": 0,
           "unidadesPorCaja": 0,
-          "costo": 8201.981196581197,
+          "costo": 6478.904273504274,
           "publico": null,
           "revendedor": null
         }
@@ -2473,13 +2715,13 @@
     "creadoEn": "2026-08-22T17:18:48.762Z",
     "gramos": {},
     "manoDeObra": {
-      "fecha": "2026-08-22",
+      "fecha": "2026-08-23",
       "personalId": "per_juli_y1f3",
       "mensual": 700000,
-      "alfajoresProducidos": 1.5,
+      "alfajoresProducidos": 2.5,
       "observaciones": ""
     },
-    "actualizadoEn": "2026-08-23T17:13:19.545Z",
+    "actualizadoEn": "2026-08-23T21:38:27.883Z",
     "precios": {
       "historial": [
         {
@@ -2487,7 +2729,7 @@
           "margenPublico": 0,
           "dtoRevendedor": 0,
           "unidadesPorCaja": 0,
-          "costo": 8581.420085470087,
+          "costo": 6858.343162393163,
           "publico": null,
           "revendedor": null
         }
@@ -2573,13 +2815,13 @@
     "creadoEn": "2026-08-22T17:18:48.762Z",
     "gramos": {},
     "manoDeObra": {
-      "fecha": "2026-08-22",
+      "fecha": "2026-08-23",
       "personalId": "per_juli_y1f3",
       "mensual": 700000,
-      "alfajoresProducidos": 1.5,
+      "alfajoresProducidos": 2.5,
       "observaciones": ""
     },
-    "actualizadoEn": "2026-08-23T17:13:19.545Z",
+    "actualizadoEn": "2026-08-23T21:38:27.883Z",
     "precios": {
       "historial": [
         {
@@ -2587,7 +2829,7 @@
           "margenPublico": 0,
           "dtoRevendedor": 0,
           "unidadesPorCaja": 0,
-          "costo": 8474.231752136753,
+          "costo": 6751.154829059829,
           "publico": null,
           "revendedor": null
         }
@@ -2673,13 +2915,13 @@
     "creadoEn": "2026-08-22T17:18:48.762Z",
     "gramos": {},
     "manoDeObra": {
-      "fecha": "2026-08-22",
+      "fecha": "2026-08-23",
       "personalId": "per_juli_y1f3",
       "mensual": 700000,
-      "alfajoresProducidos": 1.5,
+      "alfajoresProducidos": 2.5,
       "observaciones": ""
     },
-    "actualizadoEn": "2026-08-23T17:13:19.545Z",
+    "actualizadoEn": "2026-08-23T21:38:27.884Z",
     "precios": {
       "historial": [
         {
@@ -2687,11 +2929,164 @@
           "margenPublico": 0,
           "dtoRevendedor": 0,
           "unidadesPorCaja": 0,
-          "costo": 8640.02564102564,
+          "costo": 6916.948717948719,
           "publico": null,
           "revendedor": null
         }
       ]
     }
+  },
+  {
+    "id": "surtidos",
+    "slug": "surtidos",
+    "nombre": "Surtidos",
+    "categoria": "Caja",
+    "rinde": 1,
+    "unidadRinde": "caja",
+    "observaciones": "",
+    "ingredientes": [],
+    "precios": {
+      "cajas": [
+        {
+          "unidadesPorCaja": 6,
+          "dtoRevendedor": 35,
+          "historial": [
+            {
+              "fecha": "2026-08-23",
+              "margenPublico": 63,
+              "dtoRevendedor": 35,
+              "unidadesPorCaja": 6,
+              "costo": 7489.426701119251,
+              "publico": 20300,
+              "revendedor": 13200
+            }
+          ],
+          "margenPublico": 63
+        },
+        {
+          "unidadesPorCaja": 12,
+          "dtoRevendedor": 35,
+          "historial": [
+            {
+              "fecha": "2026-08-23",
+              "margenPublico": 69,
+              "dtoRevendedor": 35,
+              "unidadesPorCaja": 12,
+              "costo": 14357.853402238503,
+              "publico": 46400,
+              "revendedor": 30200
+            }
+          ],
+          "margenPublico": 69
+        }
+      ]
+    },
+    "creadoEn": "2026-08-23T22:08:03.317Z",
+    "sinSecciones": [],
+    "gramos": {},
+    "manoDeObra": {},
+    "actualizadoEn": "2026-08-23T23:26:25.075Z"
+  },
+  {
+    "id": "mixtos",
+    "slug": "mixtos",
+    "nombre": "Mixtos",
+    "categoria": "Caja",
+    "rinde": 1,
+    "unidadRinde": "caja",
+    "observaciones": "",
+    "ingredientes": [],
+    "precios": {
+      "cajas": [
+        {
+          "unidadesPorCaja": 6,
+          "dtoRevendedor": 35,
+          "historial": [
+            {
+              "fecha": "2026-08-23",
+              "margenPublico": 63,
+              "dtoRevendedor": 35,
+              "unidadesPorCaja": 6,
+              "costo": 7642.002380952381,
+              "publico": 20700,
+              "revendedor": 13500
+            }
+          ],
+          "margenPublico": 63
+        },
+        {
+          "unidadesPorCaja": 12,
+          "dtoRevendedor": 35,
+          "historial": [
+            {
+              "fecha": "2026-08-23",
+              "margenPublico": 63,
+              "dtoRevendedor": 35,
+              "unidadesPorCaja": 12,
+              "costo": 14663.004761904762,
+              "publico": 39700,
+              "revendedor": 25900
+            }
+          ],
+          "margenPublico": 63
+        }
+      ]
+    },
+    "creadoEn": "2026-08-23T22:08:03.319Z",
+    "sinSecciones": [],
+    "gramos": {},
+    "manoDeObra": {},
+    "actualizadoEn": "2026-08-23T23:26:25.075Z"
+  },
+  {
+    "id": "mini-mixto",
+    "slug": "mini-mixto",
+    "nombre": "Mini Mixto",
+    "categoria": "Caja",
+    "rinde": 1,
+    "unidadRinde": "caja",
+    "observaciones": "",
+    "ingredientes": [],
+    "precios": {
+      "cajas": [
+        {
+          "unidadesPorCaja": 12,
+          "dtoRevendedor": 35,
+          "historial": [
+            {
+              "fecha": "2026-08-23",
+              "margenPublico": 64,
+              "dtoRevendedor": 35,
+              "unidadesPorCaja": 12,
+              "costo": 7760.575555555555,
+              "publico": 21600,
+              "revendedor": 14100
+            }
+          ],
+          "margenPublico": 64
+        },
+        {
+          "unidadesPorCaja": 30,
+          "dtoRevendedor": 35,
+          "historial": [
+            {
+              "fecha": "2026-08-23",
+              "margenPublico": 68,
+              "dtoRevendedor": 35,
+              "unidadesPorCaja": 30,
+              "costo": 18672.438888888886,
+              "publico": 58400,
+              "revendedor": 38000
+            }
+          ],
+          "margenPublico": 68
+        }
+      ]
+    },
+    "creadoEn": "2026-08-23T22:08:03.319Z",
+    "sinSecciones": [],
+    "gramos": {},
+    "manoDeObra": {},
+    "actualizadoEn": "2026-08-23T23:26:25.076Z"
   }
 ]

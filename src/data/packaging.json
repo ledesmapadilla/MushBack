@@ -92,21 +92,59 @@
     "unidad": "un",
     "observaciones": "",
     "creadoEn": "2026-08-20T22:50:40.221Z",
-    "actualizadoEn": "2026-08-20T22:51:15.365Z"
+    "actualizadoEn": "2026-08-23T22:33:59.438Z",
+    "precio": 560,
+    "fechaPrecio": "2026-08-23",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-23",
+        "precio": 560,
+        "unidad": "un",
+        "observaciones": "",
+        "registradoEn": "2026-08-23T22:33:59.433Z"
+      }
+    ]
   },
   {
     "id": "pack_caja_de_carton_por_6_6naz",
     "nombre": "Caja de carton por 6 clasico",
     "unidad": "un",
     "observaciones": "",
-    "creadoEn": "2026-08-20T22:51:31.385Z"
+    "creadoEn": "2026-08-20T22:51:31.385Z",
+    "precio": 646,
+    "fechaPrecio": "2026-08-23",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-23",
+        "precio": 646,
+        "unidad": "un",
+        "observaciones": "",
+        "registradoEn": "2026-08-23T22:33:46.916Z"
+      }
+    ],
+    "actualizadoEn": "2026-08-23T22:33:46.922Z"
   },
   {
     "id": "pack_caja_de_carton_por_1_ac5z",
     "nombre": "Caja de carton por 12 clasico",
     "unidad": "un",
     "observaciones": "",
-    "creadoEn": "2026-08-20T22:51:46.705Z"
+    "creadoEn": "2026-08-20T22:51:46.705Z",
+    "precio": 671,
+    "fechaPrecio": "2026-08-23",
+    "observacionesPrecio": "",
+    "historialPrecios": [
+      {
+        "fecha": "2026-08-23",
+        "precio": 671,
+        "unidad": "un",
+        "observaciones": "",
+        "registradoEn": "2026-08-23T22:33:16.308Z"
+      }
+    ],
+    "actualizadoEn": "2026-08-23T22:33:16.318Z"
   },
   {
     "id": "pack_papel_foil_2k5k",
@@ -281,5 +319,38 @@
     ],
     "creadoEn": "2026-08-23T13:24:36.694Z",
     "actualizadoEn": "2026-08-23T13:24:54.393Z"
+  },
+  {
+    "id": "pack_caja_x6_hp13",
+    "nombre": "Caja x6",
+    "unidad": "un",
+    "observaciones": "",
+    "precio": 0,
+    "fechaPrecio": "",
+    "observacionesPrecio": "",
+    "historialPrecios": [],
+    "creadoEn": "2026-08-23T22:32:08.730Z"
+  },
+  {
+    "id": "pack_caja_x12_am3v",
+    "nombre": "Caja x12",
+    "unidad": "un",
+    "observaciones": "",
+    "precio": 0,
+    "fechaPrecio": "",
+    "observacionesPrecio": "",
+    "historialPrecios": [],
+    "creadoEn": "2026-08-23T22:32:17.397Z"
+  },
+  {
+    "id": "pack_caja_mini_7s34",
+    "nombre": "Caja mini",
+    "unidad": "un",
+    "observaciones": "",
+    "precio": 0,
+    "fechaPrecio": "",
+    "observacionesPrecio": "",
+    "historialPrecios": [],
+    "creadoEn": "2026-08-23T22:32:26.886Z"
   }
 ]
