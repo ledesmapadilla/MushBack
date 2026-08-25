@@ -894,5 +894,20 @@
     "observaciones": "",
     "creadoEn": "2026-08-20T00:19:32.288Z",
     "actualizadoEn": "2026-08-20T00:20:14.900Z"
+  },
+  {
+    "id": "alf_bocadito_de_zapallo_igow",
+    "nombre": "bocadito de zapallo",
+    "categoria": "Alfajor",
+    "observaciones": "",
+    "receta": "bocadito-de-zapallo",
+    "presentacion": "unidad",
+    "unidades": 0,
+    "carton": "",
+    "composicion": [],
+    "emoji": "",
+    "activo": true,
+    "precios": {},
+    "creadoEn": "2026-08-25T20:09:35.848Z"
   }
 ]

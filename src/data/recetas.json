@@ -2935,5 +2935,21 @@
         }
       ]
     }
+  },
+  {
+    "id": "bocadito-de-zapallo",
+    "slug": "bocadito-de-zapallo",
+    "nombre": "bocadito de zapallo",
+    "categoria": "Alfajor",
+    "rinde": 0,
+    "unidadRinde": "alfajores",
+    "observaciones": "",
+    "ingredientes": [],
+    "sinSecciones": [],
+    "gramos": {},
+    "precios": {},
+    "manoDeObra": {},
+    "actualizadoEn": "2026-08-25T20:09:35.825Z",
+    "creadoEn": "2026-08-25T20:09:35.825Z"
   }
 ]
