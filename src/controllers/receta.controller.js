@@ -107,7 +107,9 @@ export const guardarRecetaBackend = (req, res) => {
       slug,
       nombre: datos.nombre || existente.nombre || "Receta",
       categoria: datos.categoria || existente.categoria || "Alfajor",
-      rinde: Number(datos.rinde) || existente.rinde || 60,
+      // Una receta recien creada desde el alta de Productos viene sin rinde:
+      // ese 0 se respeta, porque el 60 por defecto la haria parecer cargada.
+      rinde: datos.rinde !== undefined ? Number(datos.rinde) || 0 : (existente.rinde || 60),
       // En que unidad se expresa el rinde: alfajores por defecto, pero puede
       // ser otra (el mendiant rinde una lata).
       unidadRinde:
