@@ -944,42 +944,431 @@
     "tipo": "producto"
   },
   {
-    "id": "alf_tabletas_chocolate_h8ax",
-    "nombre": "Tabletas Chocolate",
-    "categoria": "Tableta",
-    "observaciones": "",
-    "creadoEn": "2026-08-20T00:18:30.994Z",
-    "actualizadoEn": "2026-08-24T00:48:04.012Z",
-    "receta": "tabletas-chocolate",
-    "presentacion": "unidad",
-    "unidades": 0,
-    "carton": "",
-    "composicion": [],
-    "emoji": "🟫",
-    "activo": true,
-    "precios": {
-      "margenPublico": 59,
-      "dtoRevendedor": 35,
-      "historial": [
-        {
-          "fecha": "2026-08-23",
-          "margenPublico": 59,
-          "dtoRevendedor": 35,
-          "unidadesPorCaja": 0,
-          "costo": 6866.132245726496,
-          "publico": 16800,
-          "revendedor": 11000
-        }
-      ]
-    },
-    "tipo": "producto"
-  },
-  {
     "id": "alf_pack_sabores_y0l1",
     "nombre": "Pack Sabores",
     "categoria": "Pack",
     "observaciones": "",
     "creadoEn": "2026-08-20T00:19:32.288Z",
     "actualizadoEn": "2026-08-20T00:20:14.900Z"
+  },
+  {
+    "id": "alf_alfajor_de_remolacha_w6p4",
+    "nombre": "alfajor de remolacha",
+    "categoria": "Alfajor",
+    "observaciones": "",
+    "tipo": "producto",
+    "receta": "alfajor-de-remolacha",
+    "presentacion": "unidad",
+    "unidades": 0,
+    "carton": "",
+    "composicion": [],
+    "emoji": "",
+    "activo": true,
+    "precios": {
+      "dtoRevendedor": 35,
+      "historial": [
+        {
+          "fecha": "2026-08-26",
+          "margenPublico": 70,
+          "dtoRevendedor": 35,
+          "unidadesPorCaja": 0,
+          "costo": 315.02,
+          "publico": 1100,
+          "revendedor": 800
+        }
+      ],
+      "margenPublico": 70
+    },
+    "creadoEn": "2026-08-26T17:20:26.691Z",
+    "actualizadoEn": "2026-08-26T17:22:08.724Z"
+  },
+  {
+    "id": "alf_alfajor_de_remolacha_shk9",
+    "nombre": "alfajor de remolacha (CAJA x 6)",
+    "categoria": "Caja",
+    "observaciones": "",
+    "tipo": "subproducto",
+    "receta": "",
+    "presentacion": "caja",
+    "unidades": 6,
+    "carton": "pack_caja_de_carton_por_6_6naz",
+    "composicion": [
+      {
+        "producto": "alf_alfajor_de_remolacha_w6p4",
+        "cantidad": 6
+      }
+    ],
+    "emoji": "🍟",
+    "activo": true,
+    "precios": {
+      "dtoRevendedor": 20,
+      "historial": [
+        {
+          "fecha": "2026-08-26",
+          "margenPublico": 65,
+          "dtoRevendedor": 20,
+          "unidadesPorCaja": 0,
+          "costo": 2536.12,
+          "publico": 7300,
+          "revendedor": 5900
+        }
+      ],
+      "margenPublico": 65
+    },
+    "creadoEn": "2026-08-26T17:23:26.120Z",
+    "actualizadoEn": "2026-08-26T17:24:34.515Z"
+  },
+  {
+    "id": "alf_tableta_con_leche_kr_k7pi",
+    "nombre": "Tableta con leche Krispi",
+    "categoria": "Tableta",
+    "observaciones": "",
+    "tipo": "producto",
+    "receta": "tableta-con-leche-krispi",
+    "presentacion": "unidad",
+    "unidades": 0,
+    "carton": "",
+    "composicion": [],
+    "emoji": "🌾",
+    "activo": true,
+    "precios": {
+      "historial": [
+        {
+          "fecha": "2026-08-23",
+          "margenPublico": 59,
+          "dtoRevendedor": 0,
+          "unidadesPorCaja": 0,
+          "costo": 6751.758162393164,
+          "publico": 16500,
+          "revendedor": 16500
+        }
+      ],
+      "margenPublico": 59
+    },
+    "creadoEn": "2026-08-26T22:21:23.961Z"
+  },
+  {
+    "id": "alf_tableta_con_leche_av_epee",
+    "nombre": "Tableta con leche Avellana",
+    "categoria": "Tableta",
+    "observaciones": "",
+    "tipo": "producto",
+    "receta": "tableta-con-leche-avellana",
+    "presentacion": "unidad",
+    "unidades": 0,
+    "carton": "",
+    "composicion": [],
+    "emoji": "🌰",
+    "activo": true,
+    "precios": {
+      "historial": [
+        {
+          "fecha": "2026-08-23",
+          "margenPublico": 0,
+          "dtoRevendedor": 0,
+          "unidadesPorCaja": 0,
+          "costo": 7073.193162393163,
+          "publico": null,
+          "revendedor": null
+        }
+      ]
+    },
+    "creadoEn": "2026-08-26T22:21:23.961Z"
+  },
+  {
+    "id": "alf_tableta_con_leche_ma_2xpg",
+    "nombre": "Tableta con leche Marroc",
+    "categoria": "Tableta",
+    "observaciones": "",
+    "tipo": "producto",
+    "receta": "tableta-con-leche-marroc",
+    "presentacion": "unidad",
+    "unidades": 0,
+    "carton": "",
+    "composicion": [],
+    "emoji": "🍬",
+    "activo": true,
+    "precios": {
+      "historial": [
+        {
+          "fecha": "2026-08-23",
+          "margenPublico": 0,
+          "dtoRevendedor": 0,
+          "unidadesPorCaja": 0,
+          "costo": 6783.393162393162,
+          "publico": null,
+          "revendedor": null
+        }
+      ]
+    },
+    "creadoEn": "2026-08-26T22:21:23.961Z"
+  },
+  {
+    "id": "alf_tableta_con_leche_ga_spyx",
+    "nombre": "Tableta con leche Garrapiñada",
+    "categoria": "Tableta",
+    "observaciones": "",
+    "tipo": "producto",
+    "receta": "tableta-con-leche-garrapinada",
+    "presentacion": "unidad",
+    "unidades": 0,
+    "carton": "",
+    "composicion": [],
+    "emoji": "🥜",
+    "activo": true,
+    "precios": {
+      "historial": [
+        {
+          "fecha": "2026-08-23",
+          "margenPublico": 0,
+          "dtoRevendedor": 0,
+          "unidadesPorCaja": 0,
+          "costo": 6841.785106837608,
+          "publico": null,
+          "revendedor": null
+        }
+      ]
+    },
+    "creadoEn": "2026-08-26T22:21:23.961Z"
+  },
+  {
+    "id": "alf_tableta_blanco_casta_7n1s",
+    "nombre": "Tableta blanco Castaña",
+    "categoria": "Tableta",
+    "observaciones": "",
+    "tipo": "producto",
+    "receta": "tableta-blanco-castana",
+    "presentacion": "unidad",
+    "unidades": 0,
+    "carton": "",
+    "composicion": [],
+    "emoji": "🤎",
+    "activo": true,
+    "precios": {
+      "historial": [
+        {
+          "fecha": "2026-08-23",
+          "margenPublico": 0,
+          "dtoRevendedor": 0,
+          "unidadesPorCaja": 0,
+          "costo": 6876.948717948719,
+          "publico": null,
+          "revendedor": null
+        }
+      ]
+    },
+    "creadoEn": "2026-08-26T22:21:23.961Z"
+  },
+  {
+    "id": "alf_tableta_blanco_pista_v110",
+    "nombre": "Tableta blanco Pistacho",
+    "categoria": "Tableta",
+    "observaciones": "",
+    "tipo": "producto",
+    "receta": "tableta-blanco-pistacho",
+    "presentacion": "unidad",
+    "unidades": 0,
+    "carton": "",
+    "composicion": [],
+    "emoji": "🟢",
+    "activo": true,
+    "precios": {
+      "historial": [
+        {
+          "fecha": "2026-08-23",
+          "margenPublico": 0,
+          "dtoRevendedor": 0,
+          "unidadesPorCaja": 0,
+          "costo": 7328.893162393162,
+          "publico": null,
+          "revendedor": null
+        }
+      ]
+    },
+    "creadoEn": "2026-08-26T22:21:23.961Z"
+  },
+  {
+    "id": "alf_tableta_blanco_coco_4wrm",
+    "nombre": "Tableta blanco Coco",
+    "categoria": "Tableta",
+    "observaciones": "",
+    "tipo": "producto",
+    "receta": "tableta-blanco-coco",
+    "presentacion": "unidad",
+    "unidades": 0,
+    "carton": "",
+    "composicion": [],
+    "emoji": "🥥",
+    "activo": true,
+    "precios": {
+      "historial": [
+        {
+          "fecha": "2026-08-23",
+          "margenPublico": 0,
+          "dtoRevendedor": 0,
+          "unidadesPorCaja": 0,
+          "costo": 6478.904273504274,
+          "publico": null,
+          "revendedor": null
+        }
+      ]
+    },
+    "creadoEn": "2026-08-26T22:21:23.961Z"
+  },
+  {
+    "id": "alf_tableta_blanco_fruto_b6n7",
+    "nombre": "Tableta blanco Frutos",
+    "categoria": "Tableta",
+    "observaciones": "",
+    "tipo": "producto",
+    "receta": "tableta-blanco-frutos",
+    "presentacion": "unidad",
+    "unidades": 0,
+    "carton": "",
+    "composicion": [],
+    "emoji": "🍓",
+    "activo": true,
+    "precios": {
+      "historial": [
+        {
+          "fecha": "2026-08-23",
+          "margenPublico": 0,
+          "dtoRevendedor": 0,
+          "unidadesPorCaja": 0,
+          "costo": 6858.343162393163,
+          "publico": null,
+          "revendedor": null
+        }
+      ]
+    },
+    "creadoEn": "2026-08-26T22:21:23.961Z"
+  },
+  {
+    "id": "alf_tableta_semiamargo_a_fyka",
+    "nombre": "Tableta semiamargo Almendras",
+    "categoria": "Tableta",
+    "observaciones": "",
+    "tipo": "producto",
+    "receta": "tableta-semiamargo-almendras",
+    "presentacion": "unidad",
+    "unidades": 0,
+    "carton": "",
+    "composicion": [],
+    "emoji": "🫒",
+    "activo": true,
+    "precios": {
+      "historial": [
+        {
+          "fecha": "2026-08-23",
+          "margenPublico": 0,
+          "dtoRevendedor": 0,
+          "unidadesPorCaja": 0,
+          "costo": 6751.154829059829,
+          "publico": null,
+          "revendedor": null
+        }
+      ]
+    },
+    "creadoEn": "2026-08-26T22:21:23.961Z"
+  },
+  {
+    "id": "alf_tableta_semiamargo_c_setr",
+    "nombre": "Tableta semiamargo Cacao",
+    "categoria": "Tableta",
+    "observaciones": "",
+    "tipo": "producto",
+    "receta": "tableta-semiamargo-cacao",
+    "presentacion": "unidad",
+    "unidades": 0,
+    "carton": "",
+    "composicion": [],
+    "emoji": "🍩",
+    "activo": true,
+    "precios": {
+      "historial": [
+        {
+          "fecha": "2026-08-23",
+          "margenPublico": 0,
+          "dtoRevendedor": 0,
+          "unidadesPorCaja": 0,
+          "costo": 6916.948717948719,
+          "publico": null,
+          "revendedor": null
+        }
+      ]
+    },
+    "creadoEn": "2026-08-26T22:21:23.961Z"
+  },
+  {
+    "id": "alf_tabletas_de_chocolat_q98p",
+    "nombre": "Tabletas de Chocolate",
+    "categoria": "Doy Pack",
+    "observaciones": "",
+    "tipo": "subproducto",
+    "receta": "",
+    "presentacion": "caja",
+    "unidades": 10,
+    "carton": "pack_bolsa_doy_pack_kbxs",
+    "composicion": [
+      {
+        "producto": "alf_tableta_blanco_casta_7n1s",
+        "cantidad": 1
+      },
+      {
+        "producto": "alf_tableta_blanco_coco_4wrm",
+        "cantidad": 1
+      },
+      {
+        "producto": "alf_tableta_blanco_fruto_b6n7",
+        "cantidad": 1
+      },
+      {
+        "producto": "alf_tableta_blanco_pista_v110",
+        "cantidad": 1
+      },
+      {
+        "producto": "alf_tableta_con_leche_av_epee",
+        "cantidad": 1
+      },
+      {
+        "producto": "alf_tableta_con_leche_ga_spyx",
+        "cantidad": 1
+      },
+      {
+        "producto": "alf_tableta_con_leche_kr_k7pi",
+        "cantidad": 1
+      },
+      {
+        "producto": "alf_tableta_con_leche_ma_2xpg",
+        "cantidad": 1
+      },
+      {
+        "producto": "alf_tableta_semiamargo_a_fyka",
+        "cantidad": 1
+      },
+      {
+        "producto": "alf_tableta_semiamargo_c_setr",
+        "cantidad": 1
+      }
+    ],
+    "emoji": "🍡",
+    "activo": true,
+    "precios": {
+      "dtoRevendedor": 25,
+      "historial": [
+        {
+          "fecha": "2026-08-26",
+          "margenPublico": 60,
+          "dtoRevendedor": 25,
+          "unidadesPorCaja": 0,
+          "costo": 68661.31,
+          "publico": 171700,
+          "revendedor": 128800
+        }
+      ],
+      "margenPublico": 60
+    },
+    "creadoEn": "2026-08-26T22:40:09.415Z",
+    "actualizadoEn": "2026-08-26T22:45:26.199Z"
   }
 ]
