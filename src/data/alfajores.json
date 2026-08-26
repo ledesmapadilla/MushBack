@@ -981,21 +981,5 @@
     "observaciones": "",
     "creadoEn": "2026-08-20T00:19:32.288Z",
     "actualizadoEn": "2026-08-20T00:20:14.900Z"
-  },
-  {
-    "id": "alf_alfajor_de_remolacha_hfwu",
-    "nombre": "alfajor de remolacha",
-    "categoria": "Alfajor",
-    "observaciones": "",
-    "tipo": "producto",
-    "receta": "alfajor-de-remolacha-3",
-    "presentacion": "unidad",
-    "unidades": 0,
-    "carton": "",
-    "composicion": [],
-    "emoji": "",
-    "activo": true,
-    "precios": {},
-    "creadoEn": "2026-08-26T00:01:31.228Z"
   }
 ]
