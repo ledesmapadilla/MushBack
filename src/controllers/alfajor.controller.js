@@ -153,11 +153,15 @@ export const crearAlfajor = (req, res) => {
 
 
 /**
- * Lo que hace a un producto algo vendible: de que receta sale su costo y en que
- * presentacion se vende.
+ * Lo que hace a un producto algo vendible.
  *
- * Una caja no es otra receta: es el mismo producto en otra presentacion. Por eso
- * `receta` apunta a como se hace y `unidades` dice cuantas entran.
+ * Hay dos tipos, y de eso depende el resto:
+ *
+ *   producto     se hace con una receta y se vende por unidad. `receta` dice
+ *                de cual sale su costo.
+ *   subproducto  no se hace: se arma con productos ya dados de alta.
+ *                `composicion` dice cuales y cuantos, y `carton` en que caja
+ *                van. No tiene receta propia.
  *
  * Un guardado que no traiga estos campos no los borra: la pantalla de alta
  * todavia edita solo el nombre y la categoria.
@@ -166,16 +170,25 @@ const datosDeVenta = (datos, previo = {}) => {
   const tomar = (campo, porDefecto) =>
     datos[campo] !== undefined ? datos[campo] : previo[campo] !== undefined ? previo[campo] : porDefecto;
 
+  // Lo cargado antes de que existieran los tipos no trae el campo: se deduce de
+  // como se vendia, que es la misma cuenta que hace el front.
+  const presentacion = tomar("presentacion", "unidad");
+
   return {
-    // De donde sale el costo (el slug de la receta).
+    // "producto" o "subproducto".
+    tipo: tomar("tipo", presentacion === "caja" ? "subproducto" : "producto"),
+    // Solo el producto: de donde sale el costo (el slug de la receta).
     receta: tomar("receta", ""),
     // "unidad" o "caja".
-    presentacion: tomar("presentacion", "unidad"),
-    // Cuantas unidades entran en la caja.
+    presentacion,
+    // Cuantas unidades entran en la caja. En un subproducto es la suma de su
+    // composicion, asi que la manda el front ya calculada.
     unidades: Number(tomar("unidades", 0)) || 0,
     // El packaging de la caja, si lleva.
     carton: tomar("carton", ""),
-    // Las cajas armadas llevan varios productos: [{ receta, cantidad }].
+    // Que lleva adentro un subproducto: [{ producto, cantidad }]. Las cajas
+    // cargadas antes lo dicen por receta, [{ receta, cantidad }], y se siguen
+    // leyendo asi hasta que se las vuelva a guardar.
     composicion: Array.isArray(tomar("composicion", null)) ? tomar("composicion", []) : [],
     // Con que se lo reconoce en las listas.
     emoji: tomar("emoji", ""),
