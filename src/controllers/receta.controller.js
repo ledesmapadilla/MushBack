@@ -138,6 +138,10 @@ export const guardarRecetaBackend = (req, res) => {
         datos.precios && typeof datos.precios === "object"
           ? datos.precios
           : (existente.precios || {}),
+      // Con que otras recetas se muestra junta en Recetas: es el nombre del
+      // grupo, escrito a mano al agruparlas, y vacio cuando la receta va sola.
+      // No cambia ningun numero: es como se ven las tarjetas.
+      grupo: datos.grupo !== undefined ? datos.grupo : (existente.grupo || ""),
       // Valor unico de mano de obra de la receta (no es una lista)
       manoDeObra:
         datos.manoDeObra && typeof datos.manoDeObra === "object"
