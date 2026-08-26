@@ -2,7 +2,7 @@
   {
     "id": "clasico-semiamargo",
     "slug": "clasico-semiamargo",
-    "nombre": "Clasico Semiamargo",
+    "nombre": "Alfajor Clásico Semiamargo",
     "categoria": "Alfajor",
     "rinde": 126,
     "observaciones": "",
@@ -152,10 +152,10 @@
         "observaciones": ""
       }
     ],
-    "actualizadoEn": "2026-08-23T23:26:25.073Z",
+    "actualizadoEn": "2026-08-25T23:39:33.775Z",
     "manoDeObra": {
       "fecha": "2026-08-20",
-      "personalId": "per_maria_bmgt",
+      "personalId": "per_juli_y1f3",
       "mensual": 700000,
       "alfajoresProducidos": 3200,
       "observaciones": "Temporada baja"
@@ -217,7 +217,7 @@
   {
     "id": "clasico-blanco",
     "slug": "clasico-blanco",
-    "nombre": "Clasico Blanco",
+    "nombre": "Alfajor Clásico Blanco",
     "categoria": "Alfajor",
     "rinde": 126,
     "observaciones": "",
@@ -374,7 +374,7 @@
       "alfajoresProducidos": 3200,
       "observaciones": "Temporada baja"
     },
-    "actualizadoEn": "2026-08-23T23:26:25.073Z",
+    "actualizadoEn": "2026-08-25T23:31:19.984Z",
     "unidadRinde": "alfajores",
     "sinSecciones": [],
     "gramos": {},
@@ -432,7 +432,7 @@
   {
     "id": "maicena",
     "slug": "maicena",
-    "nombre": "Maicena",
+    "nombre": "Alfajor de Maicena",
     "categoria": "Alfajor",
     "rinde": 108,
     "observaciones": "",
@@ -580,7 +580,7 @@
       "alfajoresProducidos": 3200,
       "observaciones": "Temporada baja"
     },
-    "actualizadoEn": "2026-08-23T23:26:25.073Z",
+    "actualizadoEn": "2026-08-25T22:52:27.113Z",
     "unidadRinde": "alfajores",
     "gramos": {},
     "sinSecciones": [],
@@ -1464,10 +1464,12 @@
       "alfajoresProducidos": 3200,
       "observaciones": "Temporada baja"
     },
-    "actualizadoEn": "2026-08-23T23:26:25.075Z",
+    "actualizadoEn": "2026-08-26T00:18:55.478Z",
     "gramos": {},
     "unidadRinde": "alfajores",
-    "sinSecciones": [],
+    "sinSecciones": [
+      "packaging"
+    ],
     "precios": {
       "margenPublico": 70,
       "dtoRevendedor": 35,
@@ -1626,42 +1628,6 @@
         "observaciones": ""
       },
       {
-        "id": "ing_rec_1787416599215_sdg",
-        "seccion": "packaging",
-        "ingredienteId": "pack_papel_aluminio_6ksn",
-        "nombre": "Papel aluminio",
-        "unidad": "un",
-        "cantidad": 0,
-        "observaciones": ""
-      },
-      {
-        "id": "ing_rec_1787416599216_fcx",
-        "seccion": "packaging",
-        "ingredienteId": "pack_precinto_8ib7",
-        "nombre": "Precinto",
-        "unidad": "un",
-        "cantidad": 0,
-        "observaciones": ""
-      },
-      {
-        "id": "ing_rec_1787416599217_4nt",
-        "seccion": "packaging",
-        "ingredienteId": "pack_sticker_fte_zrav",
-        "nombre": "Sticker frente",
-        "unidad": "un",
-        "cantidad": 0,
-        "observaciones": ""
-      },
-      {
-        "id": "ing_rec_1787416599218_oqj",
-        "seccion": "packaging",
-        "ingredienteId": "pack_sticker_dorso_s8fn",
-        "nombre": "Sticker Dorso",
-        "unidad": "un",
-        "cantidad": 0,
-        "observaciones": ""
-      },
-      {
         "id": "item_1787416678500_f3q",
         "seccion": "unitario",
         "ingredienteId": "chocolate_blanco_fybs",
@@ -1679,9 +1645,11 @@
       "observaciones": "Temporada baja"
     },
     "gramos": {},
-    "actualizadoEn": "2026-08-23T22:26:38.415Z",
+    "actualizadoEn": "2026-08-26T00:19:05.539Z",
     "unidadRinde": "alfajores",
-    "sinSecciones": [],
+    "sinSecciones": [
+      "packaging"
+    ],
     "precios": {
       "dtoRevendedor": 35,
       "margenPublico": 64,
@@ -1706,24 +1674,6 @@
     "rinde": 1,
     "observaciones": "",
     "ingredientes": [
-      {
-        "id": "ing_rec_1787417030508_rm5",
-        "seccion": "unitario",
-        "ingredienteId": "dulce_de_leche_zxfm",
-        "nombre": "Dulce de leche",
-        "unidad": "gr",
-        "cantidad": 0,
-        "observaciones": ""
-      },
-      {
-        "id": "ing_rec_1787417030509_ht3",
-        "seccion": "unitario",
-        "ingredienteId": "chocolate_semiamargo_tsgr",
-        "nombre": "Chocolate SemiAmargo",
-        "unidad": "gr",
-        "cantidad": 0,
-        "observaciones": ""
-      },
       {
         "id": "ing_rec_1787417030513_oo3",
         "seccion": "packaging",
@@ -1861,7 +1811,7 @@
       }
     ],
     "unidadRinde": "lata",
-    "actualizadoEn": "2026-08-23T17:13:19.543Z",
+    "actualizadoEn": "2026-08-25T23:52:05.415Z",
     "manoDeObra": {
       "fecha": "2026-08-20",
       "personalId": "per_juli_y1f3",
@@ -2951,5 +2901,105 @@
     "manoDeObra": {},
     "actualizadoEn": "2026-08-25T20:09:35.825Z",
     "creadoEn": "2026-08-25T20:09:35.825Z"
+  },
+  {
+    "id": "alfajor-de-remolacha",
+    "slug": "alfajor-de-remolacha",
+    "nombre": "Alfajor de remolacha",
+    "categoria": "Alfajor",
+    "rinde": 120,
+    "unidadRinde": "alfajores",
+    "observaciones": "",
+    "ingredientes": [],
+    "sinSecciones": [],
+    "gramos": {},
+    "precios": {},
+    "manoDeObra": {},
+    "actualizadoEn": "2026-08-25T23:52:45.336Z",
+    "creadoEn": "2026-08-25T23:52:45.336Z"
+  },
+  {
+    "id": "alfajor-de-remolacha-2",
+    "slug": "alfajor-de-remolacha-2",
+    "nombre": "alfajor de remolacha",
+    "categoria": "Alfajor",
+    "rinde": 200,
+    "unidadRinde": "alfajores",
+    "observaciones": "",
+    "ingredientes": [
+      {
+        "id": "item_1787702241002_ft0",
+        "seccion": "masa",
+        "ingredienteId": "chocolate_con_leche_w4ld",
+        "nombre": "Chocolate con leche",
+        "unidad": "gr",
+        "cantidad": 45,
+        "observaciones": ""
+      },
+      {
+        "id": "item_1787702253857_ooe",
+        "seccion": "masa",
+        "ingredienteId": "almendra_o2g7",
+        "nombre": "Almendra",
+        "unidad": "gr",
+        "cantidad": 65,
+        "observaciones": ""
+      },
+      {
+        "id": "item_1787702260164_759",
+        "seccion": "masa",
+        "ingredienteId": "coco_ajo5",
+        "nombre": "Coco",
+        "unidad": "gr",
+        "cantidad": 78,
+        "observaciones": ""
+      },
+      {
+        "id": "item_1787702270150_4hi",
+        "seccion": "masa",
+        "ingredienteId": "limon_7657",
+        "nombre": "Limón",
+        "unidad": "gr",
+        "cantidad": 6,
+        "observaciones": ""
+      },
+      {
+        "id": "item_1787702346949_vse",
+        "seccion": "packaging",
+        "ingredienteId": "pack_sticker_dorso_s8fn",
+        "nombre": "Sticker Dorso",
+        "unidad": "un",
+        "cantidad": 1,
+        "observaciones": ""
+      }
+    ],
+    "sinSecciones": [],
+    "gramos": {},
+    "precios": {},
+    "manoDeObra": {
+      "fecha": "2026-08-25",
+      "personalId": "per_juli_y1f3",
+      "mensual": 700000,
+      "alfajoresProducidos": 3200,
+      "observaciones": ""
+    },
+    "actualizadoEn": "2026-08-25T23:59:22.286Z",
+    "creadoEn": "2026-08-25T23:55:28.887Z"
+  },
+  {
+    "id": "alfajor-de-remolacha-3",
+    "slug": "alfajor-de-remolacha-3",
+    "nombre": "alfajor de remolacha",
+    "categoria": "Alfajor",
+    "rinde": 200,
+    "unidadRinde": "alfajores",
+    "observaciones": "",
+    "ingredientes": [],
+    "sinSecciones": [],
+    "gramos": {},
+    "precios": {},
+    "manoDeObra": {},
+    "actualizadoEn": "2026-08-26T00:01:31.219Z",
+    "creadoEn": "2026-08-26T00:01:31.220Z"
   }
 ]

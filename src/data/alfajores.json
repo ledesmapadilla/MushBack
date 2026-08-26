@@ -1,11 +1,11 @@
 [
   {
     "id": "alf_clasico_semiamargo_apxd",
-    "nombre": "Clasico Semiamargo",
+    "nombre": "Alfajor Clásico Semiamargo",
     "categoria": "Alfajor",
     "observaciones": "",
     "creadoEn": "2026-08-19T23:51:30.494Z",
-    "actualizadoEn": "2026-08-24T00:48:04.005Z",
+    "actualizadoEn": "2026-08-25T23:39:22.842Z",
     "receta": "clasico-semiamargo",
     "presentacion": "unidad",
     "unidades": 0,
@@ -27,15 +27,16 @@
           "revendedor": 2300
         }
       ]
-    }
+    },
+    "tipo": "producto"
   },
   {
     "id": "alf_clasico_blanco_ocw2",
-    "nombre": "Clasico Blanco",
+    "nombre": "Alfajor Clásico Blanco",
     "categoria": "Alfajor",
     "observaciones": "",
     "creadoEn": "2026-08-19T23:54:41.288Z",
-    "actualizadoEn": "2026-08-24T00:48:04.007Z",
+    "actualizadoEn": "2026-08-25T23:31:19.984Z",
     "receta": "clasico-blanco",
     "presentacion": "unidad",
     "unidades": 0,
@@ -57,11 +58,12 @@
           "revendedor": 2400
         }
       ]
-    }
+    },
+    "tipo": "producto"
   },
   {
     "id": "alf_maicena_88ty",
-    "nombre": "Maicena",
+    "nombre": "Alfajor de Maicena",
     "categoria": "Alfajor",
     "observaciones": "",
     "creadoEn": "2026-08-19T23:55:09.857Z",
@@ -72,7 +74,7 @@
     "composicion": [],
     "emoji": "🌽",
     "activo": true,
-    "actualizadoEn": "2026-08-24T00:48:04.007Z",
+    "actualizadoEn": "2026-08-25T22:52:27.113Z",
     "precios": {
       "margenPublico": 75,
       "dtoRevendedor": 35,
@@ -87,7 +89,8 @@
           "revendedor": 1900
         }
       ]
-    }
+    },
+    "tipo": "producto"
   },
   {
     "id": "alf_alfajor_de_nuez_kilk",
@@ -117,7 +120,8 @@
           "revendedor": 2600
         }
       ]
-    }
+    },
+    "tipo": "producto"
   },
   {
     "id": "alf_alfajor_de_pistacho_3r4n",
@@ -147,7 +151,8 @@
           "revendedor": 3200
         }
       ]
-    }
+    },
+    "tipo": "producto"
   },
   {
     "id": "alf_mini_semi_buoa",
@@ -177,7 +182,8 @@
           "revendedor": 1200
         }
       ]
-    }
+    },
+    "tipo": "producto"
   },
   {
     "id": "alf_mini_blanco_ued9",
@@ -207,20 +213,26 @@
           "revendedor": 1300
         }
       ]
-    }
+    },
+    "tipo": "producto"
   },
   {
     "id": "alf_clasico_semiamargo_c_dhwo",
-    "nombre": "Clasico semiamargo (CAJA x 6)",
+    "nombre": "Alfajor Clásico Semiamargo (CAJA x 6)",
     "categoria": "Caja",
     "observaciones": "",
     "creadoEn": "2026-08-20T00:00:54.046Z",
-    "actualizadoEn": "2026-08-24T00:48:04.008Z",
-    "receta": "clasico-semiamargo",
+    "actualizadoEn": "2026-08-25T23:31:19.984Z",
+    "receta": "",
     "presentacion": "caja",
     "unidades": 6,
     "carton": "pack_caja_de_carton_por_6_6naz",
-    "composicion": [],
+    "composicion": [
+      {
+        "producto": "alf_clasico_semiamargo_apxd",
+        "cantidad": 6
+      }
+    ],
     "emoji": "🍫",
     "activo": true,
     "precios": {
@@ -237,20 +249,26 @@
           "revendedor": 12500
         }
       ]
-    }
+    },
+    "tipo": "subproducto"
   },
   {
     "id": "alf_clasico_blanco_caja__8m02",
-    "nombre": "Clasico Blanco (CAJA x 6)",
+    "nombre": "Alfajor Clásico Blanco (CAJA x 6)",
     "categoria": "Caja",
     "observaciones": "",
     "creadoEn": "2026-08-20T00:01:13.493Z",
-    "actualizadoEn": "2026-08-24T00:48:04.009Z",
-    "receta": "clasico-blanco",
+    "actualizadoEn": "2026-08-25T23:31:19.984Z",
+    "receta": "",
     "presentacion": "caja",
     "unidades": 6,
     "carton": "pack_caja_de_carton_por_6_6naz",
-    "composicion": [],
+    "composicion": [
+      {
+        "producto": "alf_clasico_blanco_ocw2",
+        "cantidad": 6
+      }
+    ],
     "emoji": "🥛",
     "activo": true,
     "precios": {
@@ -267,20 +285,26 @@
           "revendedor": 13800
         }
       ]
-    }
+    },
+    "tipo": "subproducto"
   },
   {
     "id": "alf_maicena_caja_x_6__gn3e",
-    "nombre": "Maicena (CAJA x 6)",
+    "nombre": "Alfajor de Maicena (CAJA x 6)",
     "categoria": "Caja",
     "observaciones": "",
     "creadoEn": "2026-08-20T00:01:47.991Z",
-    "actualizadoEn": "2026-08-24T00:48:04.012Z",
-    "receta": "maicena",
+    "actualizadoEn": "2026-08-25T22:52:27.113Z",
+    "receta": "",
     "presentacion": "caja",
     "unidades": 6,
     "carton": "pack_caja_de_carton_por_6_6naz",
-    "composicion": [],
+    "composicion": [
+      {
+        "producto": "alf_maicena_88ty",
+        "cantidad": 6
+      }
+    ],
     "emoji": "🌽",
     "activo": true,
     "precios": {
@@ -297,7 +321,8 @@
           "revendedor": 10600
         }
       ]
-    }
+    },
+    "tipo": "subproducto"
   },
   {
     "id": "alf_alfajor_de_nuez_caja_m2uu",
@@ -306,11 +331,16 @@
     "observaciones": "",
     "creadoEn": "2026-08-20T00:02:10.570Z",
     "actualizadoEn": "2026-08-24T00:48:04.012Z",
-    "receta": "alfajor-de-nuez",
+    "receta": "",
     "presentacion": "caja",
     "unidades": 6,
     "carton": "pack_caja_de_carton_por_6_6naz",
-    "composicion": [],
+    "composicion": [
+      {
+        "producto": "alf_alfajor_de_nuez_kilk",
+        "cantidad": 6
+      }
+    ],
     "emoji": "🌰",
     "activo": true,
     "precios": {
@@ -327,7 +357,8 @@
           "revendedor": 15100
         }
       ]
-    }
+    },
+    "tipo": "subproducto"
   },
   {
     "id": "alf_alfajor_de_pistacho__cu3e",
@@ -335,11 +366,16 @@
     "categoria": "Caja",
     "observaciones": "",
     "creadoEn": "2026-08-20T00:07:41.756Z",
-    "receta": "alfajor-de-pistacho",
+    "receta": "",
     "presentacion": "caja",
     "unidades": 6,
     "carton": "pack_caja_de_carton_por_6_6naz",
-    "composicion": [],
+    "composicion": [
+      {
+        "producto": "alf_alfajor_de_pistacho_3r4n",
+        "cantidad": 6
+      }
+    ],
     "emoji": "🟢",
     "activo": true,
     "actualizadoEn": "2026-08-24T00:48:04.012Z",
@@ -357,7 +393,8 @@
           "revendedor": 18200
         }
       ]
-    }
+    },
+    "tipo": "subproducto"
   },
   {
     "id": "alf_alfajores_surtidos_c_1ivr",
@@ -365,35 +402,35 @@
     "categoria": "Caja",
     "observaciones": "",
     "creadoEn": "2026-08-20T00:08:20.193Z",
-    "receta": "clasico-semiamargo",
+    "receta": "",
     "presentacion": "caja",
     "unidades": 6,
     "carton": "pack_caja_de_carton_por_6_6naz",
     "composicion": [
       {
-        "receta": "clasico-semiamargo",
+        "producto": "alf_clasico_semiamargo_apxd",
         "cantidad": 1
       },
       {
-        "receta": "clasico-blanco",
+        "producto": "alf_clasico_blanco_ocw2",
         "cantidad": 1
       },
       {
-        "receta": "alfajor-de-nuez",
+        "producto": "alf_alfajor_de_nuez_kilk",
         "cantidad": 1
       },
       {
-        "receta": "alfajor-de-pistacho",
+        "producto": "alf_alfajor_de_pistacho_3r4n",
         "cantidad": 1
       },
       {
-        "receta": "maicena",
+        "producto": "alf_maicena_88ty",
         "cantidad": 2
       }
     ],
     "emoji": "🎁",
     "activo": true,
-    "actualizadoEn": "2026-08-24T01:03:42.743Z",
+    "actualizadoEn": "2026-08-25T23:31:19.984Z",
     "precios": {
       "margenPublico": 63,
       "dtoRevendedor": 35,
@@ -408,7 +445,8 @@
           "revendedor": 13200
         }
       ]
-    }
+    },
+    "tipo": "subproducto"
   },
   {
     "id": "alf_alfajores_mixtos_caj_fi6m",
@@ -416,23 +454,23 @@
     "categoria": "Caja",
     "observaciones": "",
     "creadoEn": "2026-08-20T00:12:13.424Z",
-    "receta": "clasico-semiamargo",
+    "receta": "",
     "presentacion": "caja",
     "unidades": 6,
     "carton": "pack_caja_de_carton_por_6_6naz",
     "composicion": [
       {
-        "receta": "clasico-semiamargo",
+        "producto": "alf_clasico_semiamargo_apxd",
         "cantidad": 3
       },
       {
-        "receta": "clasico-blanco",
+        "producto": "alf_clasico_blanco_ocw2",
         "cantidad": 3
       }
     ],
     "emoji": "🍬",
     "activo": true,
-    "actualizadoEn": "2026-08-24T01:03:42.748Z",
+    "actualizadoEn": "2026-08-25T23:31:19.984Z",
     "precios": {
       "margenPublico": 63,
       "dtoRevendedor": 35,
@@ -447,22 +485,28 @@
           "revendedor": 13500
         }
       ]
-    }
+    },
+    "tipo": "subproducto"
   },
   {
     "id": "alf_clasico_semiamargo_c_vnxt",
-    "nombre": "Clasico semiamargo (CAJA x 12)",
+    "nombre": "Alfajor Clásico Semiamargo (CAJA x 12)",
     "categoria": "Caja",
     "observaciones": "",
     "creadoEn": "2026-08-20T00:12:58.572Z",
-    "receta": "clasico-semiamargo",
+    "receta": "",
     "presentacion": "caja",
     "unidades": 12,
     "carton": "pack_caja_de_carton_por_1_ac5z",
-    "composicion": [],
+    "composicion": [
+      {
+        "producto": "alf_clasico_semiamargo_apxd",
+        "cantidad": 12
+      }
+    ],
     "emoji": "🍫",
     "activo": true,
-    "actualizadoEn": "2026-08-24T00:48:04.012Z",
+    "actualizadoEn": "2026-08-25T23:31:19.984Z",
     "precios": {
       "margenPublico": 64,
       "dtoRevendedor": 35,
@@ -477,22 +521,28 @@
           "revendedor": 23800
         }
       ]
-    }
+    },
+    "tipo": "subproducto"
   },
   {
     "id": "alf_clasico_blanco_caja__24x4",
-    "nombre": "Clasico Blanco (CAJA x 12)",
+    "nombre": "Alfajor Clásico Blanco (CAJA x 12)",
     "categoria": "Caja",
     "observaciones": "",
     "creadoEn": "2026-08-20T00:13:18.377Z",
-    "receta": "clasico-blanco",
+    "receta": "",
     "presentacion": "caja",
     "unidades": 12,
     "carton": "pack_caja_de_carton_por_1_ac5z",
-    "composicion": [],
+    "composicion": [
+      {
+        "producto": "alf_clasico_blanco_ocw2",
+        "cantidad": 12
+      }
+    ],
     "emoji": "🥛",
     "activo": true,
-    "actualizadoEn": "2026-08-24T00:48:04.012Z",
+    "actualizadoEn": "2026-08-25T23:31:19.984Z",
     "precios": {
       "margenPublico": 60,
       "dtoRevendedor": 35,
@@ -507,22 +557,28 @@
           "revendedor": 26400
         }
       ]
-    }
+    },
+    "tipo": "subproducto"
   },
   {
     "id": "alf_maicena_caja_x_12__ypcj",
-    "nombre": "Maicena (CAJA x 12)",
+    "nombre": "Alfajor de Maicena (CAJA x 12)",
     "categoria": "Caja",
     "observaciones": "",
     "creadoEn": "2026-08-20T00:13:33.262Z",
-    "receta": "maicena",
+    "receta": "",
     "presentacion": "caja",
     "unidades": 12,
     "carton": "pack_caja_de_carton_por_1_ac5z",
-    "composicion": [],
+    "composicion": [
+      {
+        "producto": "alf_maicena_88ty",
+        "cantidad": 12
+      }
+    ],
     "emoji": "🌽",
     "activo": true,
-    "actualizadoEn": "2026-08-24T00:48:04.012Z",
+    "actualizadoEn": "2026-08-25T22:52:27.113Z",
     "precios": {
       "margenPublico": 70,
       "dtoRevendedor": 35,
@@ -537,7 +593,8 @@
           "revendedor": 19700
         }
       ]
-    }
+    },
+    "tipo": "subproducto"
   },
   {
     "id": "alf_alfajor_de_nuez_caja_w03v",
@@ -545,11 +602,16 @@
     "categoria": "Caja",
     "observaciones": "",
     "creadoEn": "2026-08-20T00:13:49.525Z",
-    "receta": "alfajor-de-nuez",
+    "receta": "",
     "presentacion": "caja",
     "unidades": 12,
     "carton": "pack_caja_de_carton_por_1_ac5z",
-    "composicion": [],
+    "composicion": [
+      {
+        "producto": "alf_alfajor_de_nuez_kilk",
+        "cantidad": 12
+      }
+    ],
     "emoji": "🌰",
     "activo": true,
     "actualizadoEn": "2026-08-24T00:48:04.012Z",
@@ -567,7 +629,8 @@
           "revendedor": 28500
         }
       ]
-    }
+    },
+    "tipo": "subproducto"
   },
   {
     "id": "alf_alfajor_de_pistacho__vjax",
@@ -575,11 +638,16 @@
     "categoria": "Caja",
     "observaciones": "",
     "creadoEn": "2026-08-20T00:14:09.138Z",
-    "receta": "alfajor-de-pistacho",
+    "receta": "",
     "presentacion": "caja",
     "unidades": 12,
     "carton": "pack_caja_de_carton_por_1_ac5z",
-    "composicion": [],
+    "composicion": [
+      {
+        "producto": "alf_alfajor_de_pistacho_3r4n",
+        "cantidad": 12
+      }
+    ],
     "emoji": "🟢",
     "activo": true,
     "actualizadoEn": "2026-08-24T00:48:04.012Z",
@@ -597,7 +665,8 @@
           "revendedor": 35400
         }
       ]
-    }
+    },
+    "tipo": "subproducto"
   },
   {
     "id": "alf_alfajores_surtidos_c_dgwi",
@@ -605,35 +674,35 @@
     "categoria": "Caja",
     "observaciones": "",
     "creadoEn": "2026-08-20T00:14:30.972Z",
-    "receta": "clasico-semiamargo",
+    "receta": "",
     "presentacion": "caja",
     "unidades": 12,
     "carton": "pack_caja_de_carton_por_1_ac5z",
     "composicion": [
       {
-        "receta": "clasico-semiamargo",
+        "producto": "alf_clasico_semiamargo_apxd",
         "cantidad": 2
       },
       {
-        "receta": "clasico-blanco",
+        "producto": "alf_clasico_blanco_ocw2",
         "cantidad": 2
       },
       {
-        "receta": "alfajor-de-nuez",
+        "producto": "alf_alfajor_de_nuez_kilk",
         "cantidad": 2
       },
       {
-        "receta": "alfajor-de-pistacho",
+        "producto": "alf_alfajor_de_pistacho_3r4n",
         "cantidad": 2
       },
       {
-        "receta": "maicena",
+        "producto": "alf_maicena_88ty",
         "cantidad": 4
       }
     ],
     "emoji": "🎁",
     "activo": true,
-    "actualizadoEn": "2026-08-24T01:03:42.748Z",
+    "actualizadoEn": "2026-08-25T23:31:19.984Z",
     "precios": {
       "margenPublico": 69,
       "dtoRevendedor": 35,
@@ -648,7 +717,8 @@
           "revendedor": 30200
         }
       ]
-    }
+    },
+    "tipo": "subproducto"
   },
   {
     "id": "alf_alfajores_mixtos_caj_mgok",
@@ -656,23 +726,23 @@
     "categoria": "Caja",
     "observaciones": "",
     "creadoEn": "2026-08-20T00:14:49.626Z",
-    "receta": "clasico-semiamargo",
+    "receta": "",
     "presentacion": "caja",
     "unidades": 12,
     "carton": "pack_caja_de_carton_por_1_ac5z",
     "composicion": [
       {
-        "receta": "clasico-semiamargo",
+        "producto": "alf_clasico_semiamargo_apxd",
         "cantidad": 6
       },
       {
-        "receta": "clasico-blanco",
+        "producto": "alf_clasico_blanco_ocw2",
         "cantidad": 6
       }
     ],
     "emoji": "🍬",
     "activo": true,
-    "actualizadoEn": "2026-08-24T01:03:42.748Z",
+    "actualizadoEn": "2026-08-25T23:31:19.984Z",
     "precios": {
       "margenPublico": 63,
       "dtoRevendedor": 35,
@@ -687,7 +757,8 @@
           "revendedor": 25900
         }
       ]
-    }
+    },
+    "tipo": "subproducto"
   },
   {
     "id": "alf_mini_semi_caja_x_12__0hkk",
@@ -695,11 +766,16 @@
     "categoria": "Caja",
     "observaciones": "",
     "creadoEn": "2026-08-20T00:15:37.594Z",
-    "receta": "mini-semi",
+    "receta": "",
     "presentacion": "caja",
     "unidades": 12,
     "carton": "pack_caja_mini_uv3g",
-    "composicion": [],
+    "composicion": [
+      {
+        "producto": "alf_mini_semi_buoa",
+        "cantidad": 12
+      }
+    ],
     "emoji": "🍪",
     "activo": true,
     "actualizadoEn": "2026-08-24T00:48:04.012Z",
@@ -717,7 +793,8 @@
           "revendedor": 12700
         }
       ]
-    }
+    },
+    "tipo": "subproducto"
   },
   {
     "id": "alf_mini_blanco_caja_x_1_s59l",
@@ -726,17 +803,17 @@
     "observaciones": "",
     "creadoEn": "2026-08-20T00:16:01.269Z",
     "actualizadoEn": "2026-08-24T01:03:42.748Z",
-    "receta": "mini-semi",
+    "receta": "",
     "presentacion": "caja",
     "unidades": 12,
     "carton": "pack_caja_mini_uv3g",
     "composicion": [
       {
-        "receta": "mini-semi",
+        "producto": "alf_mini_semi_buoa",
         "cantidad": 6
       },
       {
-        "receta": "mini-blanco",
+        "producto": "alf_mini_blanco_ued9",
         "cantidad": 6
       }
     ],
@@ -756,7 +833,8 @@
           "revendedor": 14100
         }
       ]
-    }
+    },
+    "tipo": "subproducto"
   },
   {
     "id": "alf_mini_semi_caja_x_36__ptvf",
@@ -764,11 +842,16 @@
     "categoria": "Caja",
     "observaciones": "",
     "creadoEn": "2026-08-20T00:16:59.662Z",
-    "receta": "mini-semi",
+    "receta": "",
     "presentacion": "caja",
     "unidades": 30,
     "carton": "pack_caja_de_carton_por_1_ac5z",
-    "composicion": [],
+    "composicion": [
+      {
+        "producto": "alf_mini_semi_buoa",
+        "cantidad": 30
+      }
+    ],
     "emoji": "🍪",
     "activo": true,
     "actualizadoEn": "2026-08-24T00:48:04.012Z",
@@ -786,7 +869,8 @@
           "revendedor": 34100
         }
       ]
-    }
+    },
+    "tipo": "subproducto"
   },
   {
     "id": "alf_alfajores_mixtos_caj_ia8p",
@@ -794,17 +878,17 @@
     "categoria": "Caja",
     "observaciones": "",
     "creadoEn": "2026-08-20T00:17:44.442Z",
-    "receta": "mini-semi",
+    "receta": "",
     "presentacion": "caja",
     "unidades": 30,
     "carton": "pack_caja_de_carton_por_1_ac5z",
     "composicion": [
       {
-        "receta": "mini-semi",
+        "producto": "alf_mini_semi_buoa",
         "cantidad": 15
       },
       {
-        "receta": "mini-blanco",
+        "producto": "alf_mini_blanco_ued9",
         "cantidad": 15
       }
     ],
@@ -825,7 +909,8 @@
           "revendedor": 38000
         }
       ]
-    }
+    },
+    "tipo": "subproducto"
   },
   {
     "id": "alf_mendiant_quba",
@@ -855,7 +940,8 @@
           "revendedor": 25100
         }
       ]
-    }
+    },
+    "tipo": "producto"
   },
   {
     "id": "alf_tabletas_chocolate_h8ax",
@@ -885,7 +971,8 @@
           "revendedor": 11000
         }
       ]
-    }
+    },
+    "tipo": "producto"
   },
   {
     "id": "alf_pack_sabores_y0l1",
@@ -896,11 +983,12 @@
     "actualizadoEn": "2026-08-20T00:20:14.900Z"
   },
   {
-    "id": "alf_bocadito_de_zapallo_igow",
-    "nombre": "bocadito de zapallo",
+    "id": "alf_alfajor_de_remolacha_hfwu",
+    "nombre": "alfajor de remolacha",
     "categoria": "Alfajor",
     "observaciones": "",
-    "receta": "bocadito-de-zapallo",
+    "tipo": "producto",
+    "receta": "alfajor-de-remolacha-3",
     "presentacion": "unidad",
     "unidades": 0,
     "carton": "",
@@ -908,6 +996,6 @@
     "emoji": "",
     "activo": true,
     "precios": {},
-    "creadoEn": "2026-08-25T20:09:35.848Z"
+    "creadoEn": "2026-08-26T00:01:31.228Z"
   }
 ]
